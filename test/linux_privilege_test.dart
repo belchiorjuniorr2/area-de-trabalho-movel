@@ -50,7 +50,7 @@ void main() {
         tester.widget<SwitchListTile>(find.byType(SwitchListTile)).onChanged,
         isNull,
       );
-      await tester.tap(find.text('Set up Dextop access'));
+      await tester.tap(find.text('Set up Área de Trabalho Móvel access'));
       await tester.pumpAndSettle();
       expect(openedSetup, isTrue);
       expect(find.textContaining('built-in access service'), findsNothing);

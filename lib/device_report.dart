@@ -129,7 +129,7 @@ class _DeviceReportPageState extends State<DeviceReportPage> {
       _value(key).replaceAll(RegExp(r'[^A-Za-z0-9._+-]'), '_');
 
   String _buildSubject() =>
-      'DEXTOP_DEVICE_REPORT|v=1|app=${_subjectValue('appVersion')}+${_subjectValue('buildNumber')}|manufacturer=${_subjectValue('manufacturer')}|model=${_subjectValue('model')}|sdk=${_subjectValue('sdk')}';
+      'ATM_DEVICE_REPORT|v=1|app=${_subjectValue('appVersion')}+${_subjectValue('buildNumber')}|manufacturer=${_subjectValue('manufacturer')}|model=${_subjectValue('model')}|sdk=${_subjectValue('sdk')}';
 
   String _buildTemplate() {
     final date = DateTime.now().toIso8601String().split('T').first;

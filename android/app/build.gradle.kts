@@ -49,7 +49,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "moe.n4tsu.dextop"
+        applicationId = "br.com.belchior.areadetrabalhomovel"
         // Dextop relies on the modern display/windowing APIs introduced with
         // Android 11. Keeping the declared floor aligned with that runtime
         // contract avoids exposing an unsupported setup path on Android 10.
@@ -76,7 +76,7 @@ android {
         }
         create("play") {
             dimension = "distribution"
-            applicationId = "moe.n4tsu.gpdextop"
+            applicationId = "br.com.belchior.areadetrabalhomovel.play"
             buildConfigField("String", "DISTRIBUTION_CHANNEL", "\"play\"")
             buildConfigField("boolean", "EMBEDDED_STELLAR", "true")
         }

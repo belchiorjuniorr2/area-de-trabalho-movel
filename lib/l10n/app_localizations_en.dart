@@ -144,7 +144,8 @@ class AppLocalizationsEn extends AppLocalizations {
   String get accessibilitySettings => 'Accessibility settings';
 
   @override
-  String get accessibilityDescription => 'Open Dextop service settings';
+  String get accessibilityDescription =>
+      'Open Área de Trabalho Móvel service settings';
 
   @override
   String get appInfo => 'App information';
@@ -171,7 +172,8 @@ class AppLocalizationsEn extends AppLocalizations {
   String get appInfoEmbeddedBinderConnection => 'Binder connection';
 
   @override
-  String get appInfoEmbeddedBinderPermission => 'Dextop permission';
+  String get appInfoEmbeddedBinderPermission =>
+      'Área de Trabalho Móvel permission';
 
   @override
   String get appInfoEmbeddedBinderNotifications => 'Notification permission';
@@ -240,7 +242,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get version => 'Version 1.0.0';
 
   @override
-  String get setupWelcome => 'Welcome to Dextop.';
+  String get setupWelcome => 'Welcome to Área de Trabalho Móvel.';
 
   @override
   String get setupTagline =>
@@ -253,7 +255,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get setupPhaseTerms => 'Terms of use';
 
   @override
-  String get setupPhaseDriver => 'Connect Dextop';
+  String get setupPhaseDriver => 'Connect Área de Trabalho Móvel';
 
   @override
   String get setupTutorialTitle => 'Setup overview';
@@ -296,10 +298,11 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get setupSystemDescription =>
-      'Dextop uses Shizuku and ADB to control virtual displays, screen orientation, input, and system UI. The AccessibilityService API displays and operates the desktop overlay, routes user-requested touch, pointer, and navigation input, and restores the device UI when a session ends. Accessibility data is not collected, stored, or shared.';
+      'Área de Trabalho Móvel uses Shizuku and ADB to control virtual displays, screen orientation, input, and system UI. The AccessibilityService API displays and operates the desktop overlay, routes user-requested touch, pointer, and navigation input, and restores the device UI when a session ends. Accessibility data is not collected, stored, or shared.';
 
   @override
-  String get setupTutorialDriverTitle => 'Connect Dextop to the driver';
+  String get setupTutorialDriverTitle =>
+      'Connect Área de Trabalho Móvel to the driver';
 
   @override
   String get setupTutorialDriverDescription =>
@@ -310,7 +313,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get setupTutorialAccessibilityDescription =>
-      'Dextop uses Accessibility to display and control the desktop environment. In the settings screen, open Installed apps and turn on Dextop.';
+      'Área de Trabalho Móvel uses Accessibility to display and control the desktop environment. In the settings screen, open Installed apps and turn on Área de Trabalho Móvel.';
 
   @override
   String get setupTutorialAccessibilityButton => 'Open Accessibility settings';
@@ -323,7 +326,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get accessibilityDisclosureBody =>
-      'Dextop uses the Accessibility Service to display and control the desktop, detect the active input target, move apps opened from notifications, and provide keyboard and mouse control.\n\nThe service may access apps and windows shown on screen, interaction events, the focused text field and its text, and keyboard and mouse input. This information is processed only on your device to provide Dextop features. Dextop does not collect, store, transmit, or share this information with third parties.';
+      'Área de Trabalho Móvel uses the Accessibility Service to display and control the desktop, detect the active input target, move apps opened from notifications, and provide keyboard and mouse control.\n\nThe service may access apps and windows shown on screen, interaction events, the focused text field and its text, and keyboard and mouse input. This information is processed only on your device to provide Área de Trabalho Móvel features. Área de Trabalho Móvel does not collect, store, transmit, or share this information with third parties.';
 
   @override
   String get accessibilityDisclosureAgree => 'Agree and open settings';
@@ -332,11 +335,12 @@ class AppLocalizationsEn extends AppLocalizations {
   String get accessibilityDisclosureDecline => 'Do not agree';
 
   @override
-  String get setupTutorialReadyTitle => 'You’re ready to use Dextop';
+  String get setupTutorialReadyTitle =>
+      'You’re ready to use Área de Trabalho Móvel';
 
   @override
   String get setupTutorialReadyDescription =>
-      'Once these two steps are complete, all that’s left is to start using Dextop.';
+      'Once these two steps are complete, all that’s left is to start using Área de Trabalho Móvel.';
 
   @override
   String get setupDisclaimer =>
@@ -347,7 +351,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get setupShizukuDescription =>
-      'Dextop uses Shizuku to securely access system functions.';
+      'Área de Trabalho Móvel uses Shizuku to securely access system functions.';
 
   @override
   String get setupInstallShizuku => 'Install Shizuku';
@@ -366,7 +370,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get setupValidate => 'Finished setup? Verify now';
 
   @override
-  String get setupDextopPermission => 'Dextop permission';
+  String get setupDextopPermission => 'Área de Trabalho Móvel permission';
 
   @override
   String get setupInstallPlay => 'Install from Google Play';
@@ -379,7 +383,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get setupProviderChoiceDescription =>
-      'Multiple Shizuku-compatible services are installed. Choose which service Dextop should use.';
+      'Multiple Shizuku-compatible services are installed. Choose which service Área de Trabalho Móvel should use.';
 
   @override
   String get setupUseStellar => 'Stellar (recommended)';
@@ -392,7 +396,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get setupRootVerified =>
-      'Shizuku was verified as running with root privileges. Grant Dextop permission next.';
+      'Shizuku was verified as running with root privileges. Grant Área de Trabalho Móvel permission next.';
 
   @override
   String get setupRootNotRunning =>
@@ -494,33 +498,34 @@ class AppLocalizationsEn extends AppLocalizations {
   String get ui4Divisions => 'Four-way split';
 
   @override
-  String get uiDextopIsReady => 'Dextop is ready';
+  String get uiDextopIsReady => 'Área de Trabalho Móvel is ready';
 
   @override
-  String get uiDextopStopping => 'Finishing Dextop shutdown';
+  String get uiDextopStopping => 'Finishing Área de Trabalho Móvel shutdown';
 
   @override
-  String get uiStopDextop => 'Stop Dextop';
+  String get uiStopDextop => 'Stop Área de Trabalho Móvel';
 
   @override
-  String get uiDextopCanBeRestarted => 'Dextop can be resumed';
+  String get uiDextopCanBeRestarted => 'Área de Trabalho Móvel can be resumed';
 
   @override
-  String get uiOpenDextop => 'Open Dextop';
+  String get uiOpenDextop => 'Open Área de Trabalho Móvel';
 
   @override
-  String get uiCreateADextopSession => 'Create a Dextop session';
+  String get uiCreateADextopSession =>
+      'Create a Área de Trabalho Móvel session';
 
   @override
-  String get uiDextopWorkspaceJson => 'Dextop workspace JSON';
+  String get uiDextopWorkspaceJson => 'Área de Trabalho Móvel workspace JSON';
 
   @override
   String get uiPerformanceDisplayOnDextop =>
-      'Show performance overlay in Dextop';
+      'Show performance overlay in Área de Trabalho Móvel';
 
   @override
   String get uiDoNotSleepWhileRunningDextop =>
-      'Keep screen awake while Dextop is running';
+      'Keep screen awake while Área de Trabalho Móvel is running';
 
   @override
   String get uiRealTimeDisplayOfFpsMemoryPower =>
@@ -694,7 +699,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get virtualPointerSoftwareDescription =>
-      'Use Dextop\'s original software cursor';
+      'Use Área de Trabalho Móvel\'s original software cursor';
 
   @override
   String get virtualMouseScrollDirection => 'Scroll direction';
@@ -750,7 +755,8 @@ class AppLocalizationsEn extends AppLocalizations {
   String get displaySupportedResolutions => 'Supported resolutions';
 
   @override
-  String get displayDextopResolutionTitle => 'Dextop session resolution';
+  String get displayDextopResolutionTitle =>
+      'Área de Trabalho Móvel session resolution';
 
   @override
   String get displayDextopResolutionSummary =>
@@ -1059,7 +1065,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get uiRunningAutoPlus => 'Running (Auto+)';
 
   @override
-  String get uiStartPhoneDextop => 'Start Dextop on this phone';
+  String get uiStartPhoneDextop => 'Start Área de Trabalho Móvel on this phone';
 
   @override
   String get uiStopAndroidAuto => 'Stop (Android Auto)';
@@ -1091,7 +1097,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get uiUnavailable => 'Unavailable';
 
   @override
-  String get appName => 'Dextop';
+  String get appName => 'Área de Trabalho Móvel';
 
   @override
   String get uiAndroid => 'Android';
@@ -1100,7 +1106,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get uiGitHub => 'GitHub';
 
   @override
-  String get uiGitHubRepository => 'NarYuki/Dextop';
+  String get uiGitHubRepository => 'belchiorjuniorr2/area-de-trabalho-movel';
 
   @override
   String get diagnosticLog => 'Operation log and device diagnostics';
@@ -1157,20 +1163,20 @@ class AppLocalizationsEn extends AppLocalizations {
   String get reportEmailUnavailable => 'Could not open an email app';
 
   @override
-  String get reportTemplateTitle => 'Dextop device report';
+  String get reportTemplateTitle => 'Área de Trabalho Móvel device report';
 
   @override
   String get reportNoNotes => 'None';
 
   @override
   String get reportNoSessionLog =>
-      'No completed Dextop session has been recorded yet.';
+      'No completed Área de Trabalho Móvel session has been recorded yet.';
 
   @override
   String get reportFeatureStartup => 'App startup and device detection';
 
   @override
-  String get reportFeatureSession => 'Dextop session startup';
+  String get reportFeatureSession => 'Área de Trabalho Móvel session startup';
 
   @override
   String get reportFeatureVirtualDisplay => 'VirtualDisplay mirroring';
@@ -1252,7 +1258,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get samsungPermanentWarning =>
-      'These settings may permanently affect Dextop and the desktop environment used normally until they are reset.';
+      'These settings may permanently affect Área de Trabalho Móvel and the desktop environment used normally until they are reset.';
 
   @override
   String get samsungAcceptEnable => 'Accept and enable';
@@ -1265,7 +1271,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get samsungSettingsIntro =>
-      'Directly changes DeX values hidden when Samsung Settings reports no external display. Changes affect Samsung DeX and corresponding Dextop features.';
+      'Directly changes DeX values hidden when Samsung Settings reports no external display. Changes affect Samsung DeX and corresponding Área de Trabalho Móvel features.';
 
   @override
   String get samsungResolution => 'External resolution';
@@ -1296,7 +1302,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get samsungInputLockedWhileRunning =>
-      'Conflicting Samsung input settings cannot be changed while Dextop is running.';
+      'Conflicting Samsung input settings cannot be changed while Área de Trabalho Móvel is running.';
 
   @override
   String get samsungAutorunTouchpad => 'Start touchpad automatically';
@@ -1326,7 +1332,8 @@ class AppLocalizationsEn extends AppLocalizations {
   String get samsungDexCommandArrow => 'Show command arrow';
 
   @override
-  String get samsungIncludePhoneDisplay => 'Include Dextop in display topology';
+  String get samsungIncludePhoneDisplay =>
+      'Include Área de Trabalho Móvel in display topology';
 
   @override
   String get samsungMirrorPhoneDisplay => 'Mirror built-in display';
@@ -1387,7 +1394,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get samsungHelp_resolution =>
-      'Sets the workspace Samsung Desktop uses to draw apps and windows. Higher resolutions fit more content but make controls smaller and increase rendering load. Lower resolutions favor readability and performance. This is stored separately from Dextop\'s resolution.';
+      'Sets the workspace Samsung Desktop uses to draw apps and windows. Higher resolutions fit more content but make controls smaller and increase rendering load. Lower resolutions favor readability and performance. This is stored separately from Área de Trabalho Móvel\'s resolution.';
 
   @override
   String get samsungHelp_screenZoom =>
@@ -1415,7 +1422,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get samsungHelp_autorunTouchpad =>
-      'When enabled, Samsung\'s touchpad opens automatically on the phone after connecting, allowing the phone to work like a laptop touchpad. It duplicates Dextop input handling, so this option is hidden while Dextop is running.';
+      'When enabled, Samsung\'s touchpad opens automatically on the phone after connecting, allowing the phone to work like a laptop touchpad. It duplicates Área de Trabalho Móvel input handling, so this option is hidden while Área de Trabalho Móvel is running.';
 
   @override
   String get samsungHelp_touchpadScrollDirection =>
@@ -1423,11 +1430,11 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get samsungHelp_touchKeyboard =>
-      'When enabled, the on-screen keyboard can appear after selecting a text field in desktop mode. It is useful without a physical keyboard, but overlaps Dextop keyboard handling, so it is hidden while Dextop is running.';
+      'When enabled, the on-screen keyboard can appear after selecting a text field in desktop mode. It is useful without a physical keyboard, but overlaps Área de Trabalho Móvel keyboard handling, so it is hidden while Área de Trabalho Móvel is running.';
 
   @override
   String get samsungHelp_keyboardDex =>
-      'When enabled, the on-screen keyboard remains available even with a physical keyboard connected. This helps with emoji, handwriting, and voice input, but reduces workspace and conflicts with Dextop IME handling.';
+      'When enabled, the on-screen keyboard remains available even with a physical keyboard connected. This helps with emoji, handwriting, and voice input, but reduces workspace and conflicts with Área de Trabalho Móvel IME handling.';
 
   @override
   String get samsungHelp_spenInputMode =>
@@ -1435,11 +1442,11 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get samsungHelp_threeFingerGesture =>
-      'Runs the selected action—such as Apps, Home, Recents, or Back—when Samsung detects a three-finger gesture. Dextop also uses three fingers for its controls, so this option is hidden while Dextop is running.';
+      'Runs the selected action—such as Apps, Home, Recents, or Back—when Samsung detects a three-finger gesture. Área de Trabalho Móvel also uses three fingers for its controls, so this option is hidden while Área de Trabalho Móvel is running.';
 
   @override
   String get samsungHelp_fourFingerGesture =>
-      'Runs the selected system action from a supported four-finger touchpad gesture. It can speed up navigation, but conflicts with Dextop multi-touch detection and is therefore hidden during a Dextop session.';
+      'Runs the selected system action from a supported four-finger touchpad gesture. It can speed up navigation, but conflicts with Área de Trabalho Móvel multi-touch detection and is therefore hidden during a Área de Trabalho Móvel session.';
 
   @override
   String get samsungHelp_autoHideTaskbar =>
@@ -1447,7 +1454,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get samsungHelp_dexCommandArrow =>
-      'When enabled, Samsung Desktop shows an arrow for opening Samsung command controls. It provides faster access to Samsung actions, but may overlap Dextop overlays or edge gestures.';
+      'When enabled, Samsung Desktop shows an arrow for opening Samsung command controls. It provides faster access to Samsung actions, but may overlap Área de Trabalho Móvel overlays or edge gestures.';
 
   @override
   String get samsungHelp_includePhoneDisplay =>
@@ -1529,7 +1536,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get keyboardThemesStartFirst =>
-      'Start Dextop first to show the real laptop overlay.';
+      'Start Área de Trabalho Móvel first to show the real laptop overlay.';
 
   @override
   String get keyboardThemesAdd => 'Add custom theme';
@@ -1602,7 +1609,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get autoMatchPhoneOrientationDescription =>
-      'When Dextop is shown in Auto from the phone-side mirror, adjust its orientation to the head-unit aspect ratio.';
+      'When Área de Trabalho Móvel is shown in Auto from the phone-side mirror, adjust its orientation to the head-unit aspect ratio.';
 
   @override
   String get autoExperimentalFeatures => 'Experimental features';
@@ -1619,11 +1626,11 @@ class AppLocalizationsEn extends AppLocalizations {
       'Android Auto uses an independent desktop display sized for the connected head unit.';
 
   @override
-  String get setupEmbeddedTitle => 'Set up Dextop access';
+  String get setupEmbeddedTitle => 'Set up Área de Trabalho Móvel access';
 
   @override
   String get setupEmbeddedDescription =>
-      'Connect Dextop\'s built-in access service.\n\n1. Allow notifications.\n2. Open and enable Wireless debugging.\n3. Tap Pair device with pairing code.\n4. Enter Android\'s six-digit code in the notification field.';
+      'Connect Área de Trabalho Móvel\'s built-in access service.\n\n1. Allow notifications.\n2. Open and enable Wireless debugging.\n3. Tap Pair device with pairing code.\n4. Enter Android\'s six-digit code in the notification field.';
 
   @override
   String get setupEmbeddedSetupDescription =>
@@ -1654,14 +1661,16 @@ class AppLocalizationsEn extends AppLocalizations {
   String get setupEmbeddedPair => 'Pair and start';
 
   @override
-  String get setupEmbeddedPairAndStart => 'Set up Dextop access';
+  String get setupEmbeddedPairAndStart =>
+      'Set up Área de Trabalho Móvel access';
 
   @override
-  String get setupEmbeddedIncluded => 'Dextop access service included';
+  String get setupEmbeddedIncluded =>
+      'Área de Trabalho Móvel access service included';
 
   @override
   String get setupEmbeddedConnectedDescription =>
-      'Dextop access permission is ready to use.';
+      'Área de Trabalho Móvel access permission is ready to use.';
 
   @override
   String get setupEmbeddedConfigure => 'Wireless debugging paired';
@@ -1671,7 +1680,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get setupEmbeddedStartFailed =>
-      'The Dextop access service could not be started';
+      'The Área de Trabalho Móvel access service could not be started';
 
   @override
   String get setupEmbeddedNotificationPermission => 'Notification permission';
@@ -1710,7 +1719,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get experimentalCoverDisplayDescription =>
-      'Use Android or an independent Dextop session on a foldable cover display';
+      'Use Android or an independent Área de Trabalho Móvel session on a foldable cover display';
 
   @override
   String get experimentalCoverDisplayUnavailable =>
@@ -1728,14 +1737,14 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get experimentalBlackBerryModeDescription =>
-      'Enable a compact phone keyboard layout inspired by physical keyboards from the Dextop overlay';
+      'Enable a compact phone keyboard layout inspired by physical keyboards from the Área de Trabalho Móvel overlay';
 
   @override
   String get blackBerryAutoStart => 'Open BlackBerry mode automatically';
 
   @override
   String get blackBerryAutoStartDescription =>
-      'Show the BlackBerry keyboard automatically when a Dextop session starts in portrait';
+      'Show the BlackBerry keyboard automatically when a Área de Trabalho Móvel session starts in portrait';
 
   @override
   String get keyboardHaptics => 'Keyboard haptics';
@@ -1766,15 +1775,15 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get nativeCoverDisplayDescription =>
-      'Open Android or create an independent Dextop session on the cover display';
+      'Open Android or create an independent Área de Trabalho Móvel session on the cover display';
 
   @override
   String get nativeCoverAndroidDescription =>
-      'Use the cover display for normal Android while the main Dextop session continues.';
+      'Use the cover display for normal Android while the main Área de Trabalho Móvel session continues.';
 
   @override
   String get nativeCoverDextopDescription =>
-      'Create a Dextop session on the cover display independently from the main session.';
+      'Create a Área de Trabalho Móvel session on the cover display independently from the main session.';
 
   @override
   String get nativeOpenCoverAndroid => 'Open Android on cover display';
@@ -1783,10 +1792,12 @@ class AppLocalizationsEn extends AppLocalizations {
   String get nativeStopCoverAndroid => 'End Android session';
 
   @override
-  String get nativeStartCoverDextop => 'Create Dextop session on cover display';
+  String get nativeStartCoverDextop =>
+      'Create Área de Trabalho Móvel session on cover display';
 
   @override
-  String get nativeStopCoverDextop => 'End cover Dextop session';
+  String get nativeStopCoverDextop =>
+      'End cover Área de Trabalho Móvel session';
 
   @override
   String get nativeCoverDisplayFailed => 'Could not update the cover display';
@@ -1858,15 +1869,15 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get nativePhysicalMouseDemo =>
-      'Switch the physical mouse between Android and Dextop. Available on supported devices while an external display is connected.';
+      'Switch the physical mouse between Android and Área de Trabalho Móvel. Available on supported devices while an external display is connected.';
 
   @override
   String get nativePhysicalKeyboardDemo =>
-      'Switch the physical keyboard between Android and Dextop. Available on supported devices while an external display is connected.';
+      'Switch the physical keyboard between Android and Área de Trabalho Móvel. Available on supported devices while an external display is connected.';
 
   @override
   String get nativeTheThreeFingerGestureIsAnEssential =>
-      'The three-finger gesture is essential while using Dextop.\\nTap a button to see what it does.';
+      'The three-finger gesture is essential while using Área de Trabalho Móvel.\\nTap a button to see what it does.';
 
   @override
   String get nativeAsusZenuiRogUiDesktop => 'ASUS ZenUI / ROG UI Desktop';
@@ -1879,26 +1890,27 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get nativeAdjustTheVolumeOfPlaybackOnDextop =>
-      'Adjust media volume in Dextop';
+      'Adjust media volume in Área de Trabalho Móvel';
 
   @override
   String get nativeSwitchBetweenPortraitAndLandscapeOrientationOf =>
-      'Switch Dextop between portrait and landscape';
+      'Switch Área de Trabalho Móvel between portrait and landscape';
 
   @override
   String get nativeSwitchDextopResolutionAndDpi =>
-      'Change Dextop resolution and DPI';
+      'Change Área de Trabalho Móvel resolution and DPI';
 
   @override
   String get nativePauseDextopAndReturnYourAndroidTo =>
-      'Pause Dextop and return Android to normal operation.';
+      'Pause Área de Trabalho Móvel and return Android to normal operation.';
 
   @override
-  String get nativeTerminateYourDextopSession => 'End the Dextop session';
+  String get nativeTerminateYourDextopSession =>
+      'End the Área de Trabalho Móvel session';
 
   @override
   String get nativeAdjustTheBrightnessOfTheDesktopDisplay =>
-      'Adjust Dextop display brightness';
+      'Adjust Área de Trabalho Móvel display brightness';
 
   @override
   String get nativeHonorMagicosDesktop => 'HONOR MagicOS Desktop';
@@ -2104,14 +2116,14 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get nativeOpenDextopWithYourSavedAppPlacement =>
-      'Open Dextop with your saved app placement';
+      'Open Área de Trabalho Móvel with your saved app placement';
 
   @override
   String get nativeSaveAndApply => 'Save and apply';
 
   @override
   String get nativeFailedToSaveUnableToRetrieveRunning =>
-      'Failed to save: Unable to retrieve running apps on Dextop.';
+      'Failed to save: Unable to retrieve running apps on Área de Trabalho Móvel.';
 
   @override
   String get nativeFailedToSaveFailedToWriteTo =>
@@ -2125,7 +2137,8 @@ class AppLocalizationsEn extends AppLocalizations {
   String get nativeNoSavedWorkspaces => 'No saved workspaces';
 
   @override
-  String get nativePleaseStartDextopFirst => 'Please start Dextop first';
+  String get nativePleaseStartDextopFirst =>
+      'Please start Área de Trabalho Móvel first';
 
   @override
   String get nativeReconnect => 'Reconnect';
@@ -2185,7 +2198,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get nativeSendsTheTouchedPositionDirectlyToDextop =>
-      'Sends the touched position directly to Dextop as a tap';
+      'Sends the touched position directly to Área de Trabalho Móvel as a tap';
 
   @override
   String get nativeAddAndApply => 'Add and apply';
@@ -2227,20 +2240,20 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get appUpdatedMessage =>
-      'Dextop has been updated to the latest version.';
+      'Área de Trabalho Móvel has been updated to the latest version.';
 
   @override
-  String get androidSwipeImeLabel => 'Dextop swipe input';
+  String get androidSwipeImeLabel => 'Área de Trabalho Móvel swipe input';
 
   @override
   String get androidAccessibilityServiceDescription =>
-      'Controls the Dextop virtual display, input, and control panel';
+      'Controls the Área de Trabalho Móvel virtual display, input, and control panel';
 
   @override
   String get androidEmbeddedPairingChannel => 'Built-in access setup';
 
   @override
-  String get androidEmbeddedPairingTitle => 'Pair Dextop';
+  String get androidEmbeddedPairingTitle => 'Pair Área de Trabalho Móvel';
 
   @override
   String get androidEmbeddedPairingNotificationText =>
@@ -2253,14 +2266,16 @@ class AppLocalizationsEn extends AppLocalizations {
   String get androidEmbeddedPairingEnterCode => 'Enter pairing code';
 
   @override
-  String get androidEmbeddedPairingSuccess => 'Dextop is connected';
+  String get androidEmbeddedPairingSuccess =>
+      'Área de Trabalho Móvel is connected';
 
   @override
   String get androidEmbeddedPairingSuccessMessage =>
-      'Pairing is complete. Return to Dextop.';
+      'Pairing is complete. Return to Área de Trabalho Móvel.';
 
   @override
-  String get androidEmbeddedPairingFailed => 'Dextop could not connect';
+  String get androidEmbeddedPairingFailed =>
+      'Área de Trabalho Móvel could not connect';
 
   @override
   String get androidEmbeddedPairingInvalidCode => 'Enter a six-digit code';
@@ -2292,24 +2307,24 @@ class AppLocalizationsEn extends AppLocalizations {
       'Uses Samsung DeX or Android desktop windowing as provided by the system';
 
   @override
-  String get windowManagerPlasma => 'Dextop Plasma (own WM)';
+  String get windowManagerPlasma => 'Plasma (own WM)';
 
   @override
   String get windowManagerPlasmaDescription =>
-      'Dextop draws a KDE Plasma 6 style desktop with its own panel, window decorations, tiling and virtual desktops';
+      'Área de Trabalho Móvel draws a KDE Plasma 6 style desktop with its own panel, window decorations, tiling and virtual desktops';
 
   @override
-  String get windowManagerPlasmaV2 => 'Dextop Plasma v2 (compositing WM)';
+  String get windowManagerPlasmaV2 => 'Plasma v2 (compositing WM)';
 
   @override
   String get windowManagerPlasmaV2Description =>
-      'Runs each app on its own virtual display and shows it inside a Breeze window drawn by Dextop, so dragging, resizing, animations and virtual desktops happen inside Dextop. The panel controls networks, audio and power.';
+      'Runs each app on its own virtual display and shows it inside a Breeze window drawn by Área de Trabalho Móvel, so dragging, resizing, animations and virtual desktops happen inside Área de Trabalho Móvel. The panel controls networks, audio and power.';
 
   @override
   String get windowManagerAppliedLive => 'Applied to the running desktop';
 
   @override
-  String get plasmaSettingsTitle => 'Dextop Plasma settings';
+  String get plasmaSettingsTitle => 'Plasma settings';
 
   @override
   String get plasmaSettingsSummary =>
@@ -2429,7 +2444,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get nativePlasmaDeviceSpeaker => 'Device speaker';
 
   @override
-  String get nativePlasmaDextopSettings => 'Dextop Settings';
+  String get nativePlasmaDextopSettings => 'Área de Trabalho Móvel Settings';
 
   @override
   String get nativePlasmaDischarging => 'Discharging';
@@ -2548,7 +2563,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get nativePlasmaShuttingDownIn =>
-      'Shutting down Dextop in %1\$d seconds';
+      'Shutting down Área de Trabalho Móvel in %1\$d seconds';
 
   @override
   String get nativePlasmaSleep => 'Sleep';
@@ -2717,15 +2732,14 @@ class AppLocalizationsEn extends AppLocalizations {
   String get linuxUnsupportedDevice => 'Linux requires an arm64 device.';
 
   @override
-  String get linuxRequiresPlasma =>
-      'Linux is available only with Dextop Plasma v2.';
+  String get linuxRequiresPlasma => 'Linux is available only with Plasma v2.';
 
   @override
   String get linuxSwitchToPlasma => 'Switch to Plasma v2';
 
   @override
   String get linuxRequiresPrivilege =>
-      'Linux uses Dextop’s built-in access service. Connect it with Set up Dextop access. External Stellar or Shizuku apps are optional.';
+      'Linux uses Área de Trabalho Móvel’s built-in access service. Connect it with Set up Área de Trabalho Móvel access. External Stellar or Shizuku apps are optional.';
 
   @override
   String get linuxEnable => 'Enable Linux';
@@ -2749,7 +2763,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get linuxStorageNote =>
-      'Containers are stored in /data/local/tmp/dextop/linux and remain after Dextop is uninstalled. Delete them here when no longer needed.';
+      'Containers are stored in /data/local/tmp/dextop/linux and remain after Área de Trabalho Móvel is uninstalled. Delete them here when no longer needed.';
 
   @override
   String get linuxInstall => 'Install';
@@ -2805,7 +2819,8 @@ class AppLocalizationsEn extends AppLocalizations {
   String get linuxOpenDesktop => 'Open desktop';
 
   @override
-  String get linuxStartPlasmaFirst => 'Start Dextop with Plasma v2 first.';
+  String get linuxStartPlasmaFirst =>
+      'Start Área de Trabalho Móvel with Plasma v2 first.';
 
   @override
   String get nativePlasmaShowKeyboard => 'Show Keyboard';

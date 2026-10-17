@@ -177,8 +177,9 @@ class AppInfoPage extends StatelessWidget {
                 title: Text(currentLocalizations().uiGitHub),
                 subtitle: Text(currentLocalizations().uiGitHubRepository),
                 trailing: Icon(Icons.open_in_new_rounded),
-                onTap: () =>
-                    bridge.openUrl('https://github.com/NarYuki/Dextop'),
+                onTap: () => bridge.openUrl(
+                  'https://github.com/belchiorjuniorr2/area-de-trabalho-movel',
+                ),
               ),
               ListTile(
                 leading: Icon(Icons.description_outlined),

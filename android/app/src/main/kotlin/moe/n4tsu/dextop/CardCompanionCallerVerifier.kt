@@ -7,8 +7,8 @@ import java.security.MessageDigest
 /** Verifies official Car Companion callers without requiring both apps to share one signer. */
 internal object CardCompanionCallerVerifier {
     private val companionPackages = setOf(
-        "moe.n4tsu.dextop.cardex",
-        "moe.n4tsu.dextop.cardex.driving",
+        "br.com.belchior.areadetrabalhomovel.cardex",
+        "br.com.belchior.areadetrabalhomovel.cardex.driving",
     )
 
     // Dextop GitHub release certificate and Google Play Car Companion certificate.

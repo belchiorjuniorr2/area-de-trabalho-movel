@@ -421,7 +421,7 @@ class CarDexActivity : ComponentActivity() {
     }
 
     companion object {
-        private const val DEXTOP_PACKAGE = "moe.n4tsu.dextop"
+        private const val DEXTOP_PACKAGE = "br.com.belchior.areadetrabalhomovel"
         private const val MAIN_ACTIVITY = "moe.n4tsu.dextop.MainActivity"
         private const val RELAY_SERVICE = "moe.n4tsu.dextop.CardexRelayService"
         private const val HEARTBEAT_INTERVAL_MS = 2_000L

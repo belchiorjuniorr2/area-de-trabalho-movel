@@ -630,12 +630,12 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
       client = HttpClient()..connectionTimeout = const Duration(seconds: 5);
       final request = await client.getUrl(
         Uri.parse(
-          'https://api.github.com/repos/NarYuki/Dextop/releases/latest',
+          'https://api.github.com/repos/belchiorjuniorr2/area-de-trabalho-movel/releases/latest',
         ),
       );
       request.headers
         ..set(HttpHeaders.acceptHeader, 'application/vnd.github+json')
-        ..set(HttpHeaders.userAgentHeader, 'Dextop/$current')
+        ..set(HttpHeaders.userAgentHeader, 'AreaDeTrabalhoMovel/$current')
         ..set('X-GitHub-Api-Version', '2022-11-28');
       final response = await request.close().timeout(
         const Duration(seconds: 8),

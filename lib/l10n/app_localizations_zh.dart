@@ -135,7 +135,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get accessibilitySettings => '无障碍设置';
 
   @override
-  String get accessibilityDescription => '打开 Dextop 服务设置';
+  String get accessibilityDescription => '打开 Área de Trabalho Móvel 服务设置';
 
   @override
   String get appInfo => '应用信息';
@@ -162,7 +162,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get appInfoEmbeddedBinderConnection => 'Binder 连接';
 
   @override
-  String get appInfoEmbeddedBinderPermission => 'Dextop 权限';
+  String get appInfoEmbeddedBinderPermission => 'Área de Trabalho Móvel 权限';
 
   @override
   String get appInfoEmbeddedBinderNotifications => '通知权限';
@@ -231,7 +231,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get version => '版本 1.0.0';
 
   @override
-  String get setupWelcome => '欢迎使用 Dextop。';
+  String get setupWelcome => '欢迎使用 Área de Trabalho Móvel。';
 
   @override
   String get setupTagline => '智能手机上的完美桌面环境。';
@@ -243,7 +243,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get setupPhaseTerms => '使用条款';
 
   @override
-  String get setupPhaseDriver => '连接 Dextop';
+  String get setupPhaseDriver => '连接 Área de Trabalho Móvel';
 
   @override
   String get setupTutorialTitle => '设置流程';
@@ -286,10 +286,10 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get setupSystemDescription =>
-      'Dextop 使用 Shizuku 和 ADB 控制虚拟显示、屏幕方向、输入和系统 UI。AccessibilityService API 用于显示和操作桌面悬浮层、传递用户发起的触摸、指针和导航输入，并在会话结束时恢复设备界面。无障碍数据不会被收集、存储或共享。';
+      'Área de Trabalho Móvel 使用 Shizuku 和 ADB 控制虚拟显示、屏幕方向、输入和系统 UI。AccessibilityService API 用于显示和操作桌面悬浮层、传递用户发起的触摸、指针和导航输入，并在会话结束时恢复设备界面。无障碍数据不会被收集、存储或共享。';
 
   @override
-  String get setupTutorialDriverTitle => '将 Dextop 连接到驱动程序';
+  String get setupTutorialDriverTitle => '将 Área de Trabalho Móvel 连接到驱动程序';
 
   @override
   String get setupTutorialDriverDescription => '仅首次使用时需要配对。我们会引导你完成所需步骤。';
@@ -299,7 +299,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get setupTutorialAccessibilityDescription =>
-      'Dextop 使用无障碍服务来显示和操作桌面环境。请在设置页面打开已安装的应用，然后启用 Dextop。';
+      'Área de Trabalho Móvel 使用无障碍服务来显示和操作桌面环境。请在设置页面打开已安装的应用，然后启用 Área de Trabalho Móvel。';
 
   @override
   String get setupTutorialAccessibilityButton => '打开无障碍设置';
@@ -312,7 +312,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get accessibilityDisclosureBody =>
-      'Dextop 使用无障碍服务来显示和操作桌面、检测当前输入目标、移动从通知中打开的应用，以及提供键盘和鼠标操作。\n\n该服务可能会访问屏幕上显示的应用和窗口、交互事件、当前聚焦的文本输入框及其内容，以及键盘和鼠标输入。这些信息仅在设备上处理，用于提供 Dextop 功能。Dextop 不会收集、存储、对外传输这些信息，也不会与第三方共享这些信息。';
+      'Área de Trabalho Móvel 使用无障碍服务来显示和操作桌面、检测当前输入目标、移动从通知中打开的应用，以及提供键盘和鼠标操作。\n\n该服务可能会访问屏幕上显示的应用和窗口、交互事件、当前聚焦的文本输入框及其内容，以及键盘和鼠标输入。这些信息仅在设备上处理，用于提供 Área de Trabalho Móvel 功能。Área de Trabalho Móvel 不会收集、存储、对外传输这些信息，也不会与第三方共享这些信息。';
 
   @override
   String get accessibilityDisclosureAgree => '同意并打开设置';
@@ -321,10 +321,11 @@ class AppLocalizationsZh extends AppLocalizations {
   String get accessibilityDisclosureDecline => '不同意';
 
   @override
-  String get setupTutorialReadyTitle => 'Dextop 已准备就绪';
+  String get setupTutorialReadyTitle => 'Área de Trabalho Móvel 已准备就绪';
 
   @override
-  String get setupTutorialReadyDescription => '完成以上两个步骤后，即可开始使用 Dextop。';
+  String get setupTutorialReadyDescription =>
+      '完成以上两个步骤后，即可开始使用 Área de Trabalho Móvel。';
 
   @override
   String get setupDisclaimer =>
@@ -334,7 +335,8 @@ class AppLocalizationsZh extends AppLocalizations {
   String get setupShizukuTitle => '准备 Shizuku';
 
   @override
-  String get setupShizukuDescription => 'Dextop 使用 Shizuku 安全地访问系统功能。';
+  String get setupShizukuDescription =>
+      'Área de Trabalho Móvel 使用 Shizuku 安全地访问系统功能。';
 
   @override
   String get setupInstallShizuku => '安装 Shizuku';
@@ -352,7 +354,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get setupValidate => '设置完成了吗？立即验证';
 
   @override
-  String get setupDextopPermission => '授予 Dextop 权限';
+  String get setupDextopPermission => '授予 Área de Trabalho Móvel 权限';
 
   @override
   String get setupInstallPlay => '从 Google Play 安装';
@@ -365,7 +367,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get setupProviderChoiceDescription =>
-      '已安装多个兼容 Shizuku 的服务。请选择 Dextop 要使用的服务。';
+      '已安装多个兼容 Shizuku 的服务。请选择 Área de Trabalho Móvel 要使用的服务。';
 
   @override
   String get setupUseStellar => 'Stellar（推荐）';
@@ -377,7 +379,8 @@ class AppLocalizationsZh extends AppLocalizations {
   String get setupRunningAsRoot => '服务正在以 root 运行';
 
   @override
-  String get setupRootVerified => '已确认 Shizuku 正在以 root 权限运行。接下来请授予 Dextop 权限。';
+  String get setupRootVerified =>
+      '已确认 Shizuku 正在以 root 权限运行。接下来请授予 Área de Trabalho Móvel 权限。';
 
   @override
   String get setupRootNotRunning =>
@@ -472,31 +475,32 @@ class AppLocalizationsZh extends AppLocalizations {
   String get ui4Divisions => '四分屏';
 
   @override
-  String get uiDextopIsReady => 'Dextop 已准备就绪';
+  String get uiDextopIsReady => 'Área de Trabalho Móvel 已准备就绪';
 
   @override
-  String get uiDextopStopping => '正在完成 Dextop 退出';
+  String get uiDextopStopping => '正在完成 Área de Trabalho Móvel 退出';
 
   @override
-  String get uiStopDextop => '停止 Dextop';
+  String get uiStopDextop => '停止 Área de Trabalho Móvel';
 
   @override
-  String get uiDextopCanBeRestarted => '可以恢复 Dextop';
+  String get uiDextopCanBeRestarted => '可以恢复 Área de Trabalho Móvel';
 
   @override
-  String get uiOpenDextop => '打开 Dextop';
+  String get uiOpenDextop => '打开 Área de Trabalho Móvel';
 
   @override
-  String get uiCreateADextopSession => '创建 Dextop 会话';
+  String get uiCreateADextopSession => '创建 Área de Trabalho Móvel 会话';
 
   @override
-  String get uiDextopWorkspaceJson => 'Dextop 工作区 JSON';
+  String get uiDextopWorkspaceJson => 'Área de Trabalho Móvel 工作区 JSON';
 
   @override
-  String get uiPerformanceDisplayOnDextop => '在 Dextop 中显示性能浮层';
+  String get uiPerformanceDisplayOnDextop => '在 Área de Trabalho Móvel 中显示性能浮层';
 
   @override
-  String get uiDoNotSleepWhileRunningDextop => 'Dextop 运行时保持屏幕常亮';
+  String get uiDoNotSleepWhileRunningDextop =>
+      'Área de Trabalho Móvel 运行时保持屏幕常亮';
 
   @override
   String get uiRealTimeDisplayOfFpsMemoryPower => '实时显示 FPS、内存、功耗和电量';
@@ -658,7 +662,8 @@ class AppLocalizationsZh extends AppLocalizations {
   String get virtualPointerSoftware => '软件光标';
 
   @override
-  String get virtualPointerSoftwareDescription => '使用 Dextop 原有的软件光标';
+  String get virtualPointerSoftwareDescription =>
+      '使用 Área de Trabalho Móvel 原有的软件光标';
 
   @override
   String get virtualMouseScrollDirection => '滚动方向';
@@ -709,7 +714,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get displaySupportedResolutions => '支持的分辨率';
 
   @override
-  String get displayDextopResolutionTitle => 'Dextop 会话分辨率';
+  String get displayDextopResolutionTitle => 'Área de Trabalho Móvel 会话分辨率';
 
   @override
   String get displayDextopResolutionSummary => '可从主页的分辨率设置中更改';
@@ -1007,7 +1012,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get uiRunningAutoPlus => '运行中（Auto+）';
 
   @override
-  String get uiStartPhoneDextop => '在此手机上启动 Dextop';
+  String get uiStartPhoneDextop => '在此手机上启动 Área de Trabalho Móvel';
 
   @override
   String get uiStopAndroidAuto => '停止（Android Auto）';
@@ -1038,7 +1043,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get uiUnavailable => 'Unavailable';
 
   @override
-  String get appName => 'Dextop';
+  String get appName => 'Área de Trabalho Móvel';
 
   @override
   String get uiAndroid => 'Android';
@@ -1047,7 +1052,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get uiGitHub => 'GitHub';
 
   @override
-  String get uiGitHubRepository => 'NarYuki/Dextop';
+  String get uiGitHubRepository => 'belchiorjuniorr2/area-de-trabalho-movel';
 
   @override
   String get diagnosticLog => '运行日志和设备诊断';
@@ -1101,19 +1106,19 @@ class AppLocalizationsZh extends AppLocalizations {
   String get reportEmailUnavailable => '无法打开邮件应用';
 
   @override
-  String get reportTemplateTitle => 'Dextop 设备运行报告';
+  String get reportTemplateTitle => 'Área de Trabalho Móvel 设备运行报告';
 
   @override
   String get reportNoNotes => '无';
 
   @override
-  String get reportNoSessionLog => '尚未记录已完成的Dextop会话日志。';
+  String get reportNoSessionLog => '尚未记录已完成的Área de Trabalho Móvel会话日志。';
 
   @override
   String get reportFeatureStartup => '应用启动与设备检测';
 
   @override
-  String get reportFeatureSession => 'Dextop 会话启动';
+  String get reportFeatureSession => 'Área de Trabalho Móvel 会话启动';
 
   @override
   String get reportFeatureVirtualDisplay => 'VirtualDisplay 镜像';
@@ -1176,7 +1181,8 @@ class AppLocalizationsZh extends AppLocalizations {
   String get samsungUnavailable => '仅可在 Samsung 设备上使用';
 
   @override
-  String get samsungExperimentalDescription => '从 Dextop 更改原生 DeX 设置中隐藏的项目';
+  String get samsungExperimentalDescription =>
+      '从 Área de Trabalho Móvel 更改原生 DeX 设置中隐藏的项目';
 
   @override
   String get samsungSettingsTitle => 'Samsung 桌面设置';
@@ -1191,7 +1197,8 @@ class AppLocalizationsZh extends AppLocalizations {
   String get samsungConfirmTitle => '确认更改设置';
 
   @override
-  String get samsungPermanentWarning => '这些项目可能会永久影响 Dextop 和日常使用的桌面环境，直到重置为止。';
+  String get samsungPermanentWarning =>
+      '这些项目可能会永久影响 Área de Trabalho Móvel 和日常使用的桌面环境，直到重置为止。';
 
   @override
   String get samsungAcceptEnable => '同意并启用';
@@ -1204,7 +1211,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get samsungSettingsIntro =>
-      '直接更改 Samsung 设置因未检测到外接显示器而隐藏的 DeX 值。更改会影响 Samsung DeX 及对应的 Dextop 功能。';
+      '直接更改 Samsung 设置因未检测到外接显示器而隐藏的 DeX 值。更改会影响 Samsung DeX 及对应的 Área de Trabalho Móvel 功能。';
 
   @override
   String get samsungResolution => '外接屏幕分辨率';
@@ -1235,7 +1242,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get samsungInputLockedWhileRunning =>
-      'Dextop 运行时无法更改有冲突的 Samsung 输入设置。';
+      'Área de Trabalho Móvel 运行时无法更改有冲突的 Samsung 输入设置。';
 
   @override
   String get samsungAutorunTouchpad => '自动启动触控板';
@@ -1265,7 +1272,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get samsungDexCommandArrow => '显示命令箭头';
 
   @override
-  String get samsungIncludePhoneDisplay => '将 Dextop 纳入显示拓扑';
+  String get samsungIncludePhoneDisplay => '将 Área de Trabalho Móvel 纳入显示拓扑';
 
   @override
   String get samsungMirrorPhoneDisplay => '镜像内置屏幕';
@@ -1326,7 +1333,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get samsungHelp_resolution =>
-      '决定 Samsung 桌面绘制应用和窗口的工作区大小。较高分辨率可同时显示更多内容，但文字和按钮会更小，也会增加渲染负载；较低分辨率更易阅读且运行更轻。此设置与 Dextop 分辨率分开保存。';
+      '决定 Samsung 桌面绘制应用和窗口的工作区大小。较高分辨率可同时显示更多内容，但文字和按钮会更小，也会增加渲染负载；较低分辨率更易阅读且运行更轻。此设置与 Área de Trabalho Móvel 分辨率分开保存。';
 
   @override
   String get samsungHelp_screenZoom =>
@@ -1354,7 +1361,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get samsungHelp_autorunTouchpad =>
-      '启用后，连接桌面时会在手机上自动打开 Samsung 触控板，可像笔记本触控板一样操作。它会与 Dextop 输入重复，因此 Dextop 运行时隐藏此项。';
+      '启用后，连接桌面时会在手机上自动打开 Samsung 触控板，可像笔记本触控板一样操作。它会与 Área de Trabalho Móvel 输入重复，因此 Área de Trabalho Móvel 运行时隐藏此项。';
 
   @override
   String get samsungHelp_touchpadScrollDirection =>
@@ -1362,11 +1369,11 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get samsungHelp_touchKeyboard =>
-      '启用后，在桌面模式选择输入框时可显示屏幕键盘，没有物理键盘时很方便。它与 Dextop 键盘控制重叠，因此 Dextop 运行时隐藏此项。';
+      '启用后，在桌面模式选择输入框时可显示屏幕键盘，没有物理键盘时很方便。它与 Área de Trabalho Móvel 键盘控制重叠，因此 Área de Trabalho Móvel 运行时隐藏此项。';
 
   @override
   String get samsungHelp_keyboardDex =>
-      '启用后，即使连接物理键盘也可使用屏幕键盘，便于输入表情、手写或语音；但会占用工作区并与 Dextop IME 控制冲突。';
+      '启用后，即使连接物理键盘也可使用屏幕键盘，便于输入表情、手写或语音；但会占用工作区并与 Área de Trabalho Móvel IME 控制冲突。';
 
   @override
   String get samsungHelp_spenInputMode =>
@@ -1374,11 +1381,11 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get samsungHelp_threeFingerGesture =>
-      'Samsung 检测到三指手势时执行所选的应用列表、主页、最近任务或返回等操作。Dextop 也使用三指控制，因此运行时隐藏此项以避免误操作。';
+      'Samsung 检测到三指手势时执行所选的应用列表、主页、最近任务或返回等操作。Área de Trabalho Móvel 也使用三指控制，因此运行时隐藏此项以避免误操作。';
 
   @override
   String get samsungHelp_fourFingerGesture =>
-      '在支持的触控板上用四指执行所选系统操作，可加快导航，但会与 Dextop 多点触控识别冲突，因此 Dextop 运行时隐藏此项。';
+      '在支持的触控板上用四指执行所选系统操作，可加快导航，但会与 Área de Trabalho Móvel 多点触控识别冲突，因此 Área de Trabalho Móvel 运行时隐藏此项。';
 
   @override
   String get samsungHelp_autoHideTaskbar =>
@@ -1386,7 +1393,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get samsungHelp_dexCommandArrow =>
-      '启用后显示用于打开 Samsung 命令控制的箭头，可快速访问 Samsung 操作，但可能与 Dextop 浮层或边缘手势重叠。';
+      '启用后显示用于打开 Samsung 命令控制的箭头，可快速访问 Samsung 操作，但可能与 Área de Trabalho Móvel 浮层或边缘手势重叠。';
 
   @override
   String get samsungHelp_includePhoneDisplay =>
@@ -1462,7 +1469,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get keyboardThemesSelectFirst => '请先选择此主题。';
 
   @override
-  String get keyboardThemesStartFirst => '请先启动 Dextop 以显示键盘演示。';
+  String get keyboardThemesStartFirst => '请先启动 Área de Trabalho Móvel 以显示键盘演示。';
 
   @override
   String get keyboardThemesAdd => '添加自定义主题';
@@ -1532,7 +1539,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get autoMatchPhoneOrientationDescription =>
-      '从手机镜像在 Auto 中显示 Dextop 时，根据车机宽高比调整方向。';
+      '从手机镜像在 Auto 中显示 Área de Trabalho Móvel 时，根据车机宽高比调整方向。';
 
   @override
   String get autoExperimentalFeatures => '实验性功能';
@@ -1549,11 +1556,11 @@ class AppLocalizationsZh extends AppLocalizations {
       'Android Auto 使用按所连接车机屏幕调整大小的独立桌面显示器。';
 
   @override
-  String get setupEmbeddedTitle => '设置 Dextop 访问权限';
+  String get setupEmbeddedTitle => '设置 Área de Trabalho Móvel 访问权限';
 
   @override
   String get setupEmbeddedDescription =>
-      '连接 Dextop 的内置访问服务。\n\n1. 允许通知。\n2. 打开并启用无线调试。\n3. 点击使用配对码配对设备。\n4. 在通知输入框中输入 Android 显示的六位代码。';
+      '连接 Área de Trabalho Móvel 的内置访问服务。\n\n1. 允许通知。\n2. 打开并启用无线调试。\n3. 点击使用配对码配对设备。\n4. 在通知输入框中输入 Android 显示的六位代码。';
 
   @override
   String get setupEmbeddedSetupDescription =>
@@ -1582,13 +1589,14 @@ class AppLocalizationsZh extends AppLocalizations {
   String get setupEmbeddedPair => '配对并启动';
 
   @override
-  String get setupEmbeddedPairAndStart => '设置 Dextop 访问权限';
+  String get setupEmbeddedPairAndStart => '设置 Área de Trabalho Móvel 访问权限';
 
   @override
-  String get setupEmbeddedIncluded => '已内置 Dextop 访问服务';
+  String get setupEmbeddedIncluded => '已内置 Área de Trabalho Móvel 访问服务';
 
   @override
-  String get setupEmbeddedConnectedDescription => 'Dextop 访问权限已可用。';
+  String get setupEmbeddedConnectedDescription =>
+      'Área de Trabalho Móvel 访问权限已可用。';
 
   @override
   String get setupEmbeddedConfigure => '无线调试配对';
@@ -1597,7 +1605,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get setupEmbeddedPairingFailed => '配对失败';
 
   @override
-  String get setupEmbeddedStartFailed => '无法启动 Dextop 访问服务';
+  String get setupEmbeddedStartFailed => '无法启动 Área de Trabalho Móvel 访问服务';
 
   @override
   String get setupEmbeddedNotificationPermission => '通知权限';
@@ -1634,7 +1642,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get experimentalCoverDisplayDescription =>
-      '在折叠设备外屏上使用 Android 或独立的 Dextop 会话';
+      '在折叠设备外屏上使用 Android 或独立的 Área de Trabalho Móvel 会话';
 
   @override
   String get experimentalCoverDisplayUnavailable => '仅适用于折叠设备';
@@ -1650,14 +1658,14 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get experimentalBlackBerryModeDescription =>
-      '可从 Dextop 浮层使用适合手机的紧凑实体键盘风格布局';
+      '可从 Área de Trabalho Móvel 浮层使用适合手机的紧凑实体键盘风格布局';
 
   @override
   String get blackBerryAutoStart => '自动打开 BlackBerry 模式';
 
   @override
   String get blackBerryAutoStartDescription =>
-      '以竖屏启动 Dextop 会话时自动显示 BlackBerry 键盘';
+      '以竖屏启动 Área de Trabalho Móvel 会话时自动显示 BlackBerry 键盘';
 
   @override
   String get keyboardHaptics => '键盘触觉反馈';
@@ -1684,14 +1692,16 @@ class AppLocalizationsZh extends AppLocalizations {
   String get nativeCoverDisplay => '外屏';
 
   @override
-  String get nativeCoverDisplayDescription => '在外屏打开 Android，或创建独立的 Dextop 会话';
+  String get nativeCoverDisplayDescription =>
+      '在外屏打开 Android，或创建独立的 Área de Trabalho Móvel 会话';
 
   @override
   String get nativeCoverAndroidDescription =>
-      '将外屏用作普通 Android，主屏上的 Dextop 会话会继续运行。';
+      '将外屏用作普通 Android，主屏上的 Área de Trabalho Móvel 会话会继续运行。';
 
   @override
-  String get nativeCoverDextopDescription => '在外屏创建独立于主屏会话的 Dextop 会话。';
+  String get nativeCoverDextopDescription =>
+      '在外屏创建独立于主屏会话的 Área de Trabalho Móvel 会话。';
 
   @override
   String get nativeOpenCoverAndroid => '在外屏打开 Android';
@@ -1700,10 +1710,10 @@ class AppLocalizationsZh extends AppLocalizations {
   String get nativeStopCoverAndroid => '结束 Android 会话';
 
   @override
-  String get nativeStartCoverDextop => '在外屏创建 Dextop 会话';
+  String get nativeStartCoverDextop => '在外屏创建 Área de Trabalho Móvel 会话';
 
   @override
-  String get nativeStopCoverDextop => '结束外屏 Dextop 会话';
+  String get nativeStopCoverDextop => '结束外屏 Área de Trabalho Móvel 会话';
 
   @override
   String get nativeCoverDisplayFailed => '无法更改外屏';
@@ -1768,15 +1778,15 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get nativePhysicalMouseDemo =>
-      '在 Android 和 Dextop 之间切换物理鼠标。外接显示器连接到受支持的设备时可用。';
+      '在 Android 和 Área de Trabalho Móvel 之间切换物理鼠标。外接显示器连接到受支持的设备时可用。';
 
   @override
   String get nativePhysicalKeyboardDemo =>
-      '在 Android 和 Dextop 之间切换物理键盘。外接显示器连接到受支持的设备时可用。';
+      '在 Android 和 Área de Trabalho Móvel 之间切换物理键盘。外接显示器连接到受支持的设备时可用。';
 
   @override
   String get nativeTheThreeFingerGestureIsAnEssential =>
-      '三指手势是使用Dextop时必不可少的操作方式。 \\n点击每个按钮可在此处查看功能说明';
+      '三指手势是使用Área de Trabalho Móvel时必不可少的操作方式。 \\n点击每个按钮可在此处查看功能说明';
 
   @override
   String get nativeAsusZenuiRogUiDesktop => '华硕 ZenUI / ROG UI 桌面';
@@ -1788,21 +1798,24 @@ class AppLocalizationsZh extends AppLocalizations {
   String get nativeColorosDesktop => 'ColorOS桌面';
 
   @override
-  String get nativeAdjustTheVolumeOfPlaybackOnDextop => '调整 Dextop 上的播放音量';
+  String get nativeAdjustTheVolumeOfPlaybackOnDextop =>
+      '调整 Área de Trabalho Móvel 上的播放音量';
 
   @override
   String get nativeSwitchBetweenPortraitAndLandscapeOrientationOf =>
-      '在 Dextop 的纵向和横向之间切换';
+      '在 Área de Trabalho Móvel 的纵向和横向之间切换';
 
   @override
-  String get nativeSwitchDextopResolutionAndDpi => '切换 Dextop 分辨率和 DPI';
+  String get nativeSwitchDextopResolutionAndDpi =>
+      '切换 Área de Trabalho Móvel 分辨率和 DPI';
 
   @override
   String get nativePauseDextopAndReturnYourAndroidTo =>
-      '暂停 Dextop，并使 Android 恢复正常操作。';
+      '暂停 Área de Trabalho Móvel，并使 Android 恢复正常操作。';
 
   @override
-  String get nativeTerminateYourDextopSession => '终止您的 Dextop 会话';
+  String get nativeTerminateYourDextopSession =>
+      '终止您的 Área de Trabalho Móvel 会话';
 
   @override
   String get nativeAdjustTheBrightnessOfTheDesktopDisplay => '调整桌面显示的亮度';
@@ -1999,14 +2012,15 @@ class AppLocalizationsZh extends AppLocalizations {
   String get nativeKeyboardThemeCustomDescription => '自定义键盘主题';
 
   @override
-  String get nativeOpenDextopWithYourSavedAppPlacement => '使用已保存的应用布局打开 Dextop';
+  String get nativeOpenDextopWithYourSavedAppPlacement =>
+      '使用已保存的应用布局打开 Área de Trabalho Móvel';
 
   @override
   String get nativeSaveAndApply => '保存并应用';
 
   @override
   String get nativeFailedToSaveUnableToRetrieveRunning =>
-      '保存失败：无法检索 Dextop 上正在运行的应用程序。';
+      '保存失败：无法检索 Área de Trabalho Móvel 上正在运行的应用程序。';
 
   @override
   String get nativeFailedToSaveFailedToWriteTo => '保存失败：无法写入设备存储。';
@@ -2019,7 +2033,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get nativeNoSavedWorkspaces => '没有保存的工作区';
 
   @override
-  String get nativePleaseStartDextopFirst => '请先启动 Dextop';
+  String get nativePleaseStartDextopFirst => '请先启动 Área de Trabalho Móvel';
 
   @override
   String get nativeReconnect => '重新连接';
@@ -2074,7 +2088,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get nativeSendsTheTouchedPositionDirectlyToDextop =>
-      '将触摸位置作为点击直接发送到 Dextop';
+      '将触摸位置作为点击直接发送到 Área de Trabalho Móvel';
 
   @override
   String get nativeAddAndApply => '添加并应用';
@@ -2112,19 +2126,20 @@ class AppLocalizationsZh extends AppLocalizations {
   }
 
   @override
-  String get appUpdatedMessage => 'Dextop 已更新至最新版本。';
+  String get appUpdatedMessage => 'Área de Trabalho Móvel 已更新至最新版本。';
 
   @override
-  String get androidSwipeImeLabel => 'Dextop 滑行输入';
+  String get androidSwipeImeLabel => 'Área de Trabalho Móvel 滑行输入';
 
   @override
-  String get androidAccessibilityServiceDescription => '控制 Dextop 虚拟显示、输入和操作面板';
+  String get androidAccessibilityServiceDescription =>
+      '控制 Área de Trabalho Móvel 虚拟显示、输入和操作面板';
 
   @override
   String get androidEmbeddedPairingChannel => '内置访问设置';
 
   @override
-  String get androidEmbeddedPairingTitle => '配对 Dextop';
+  String get androidEmbeddedPairingTitle => '配对 Área de Trabalho Móvel';
 
   @override
   String get androidEmbeddedPairingNotificationText => '输入无线调试中显示的六位代码';
@@ -2136,13 +2151,14 @@ class AppLocalizationsZh extends AppLocalizations {
   String get androidEmbeddedPairingEnterCode => '输入配对代码';
 
   @override
-  String get androidEmbeddedPairingSuccess => 'Dextop 已连接';
+  String get androidEmbeddedPairingSuccess => 'Área de Trabalho Móvel 已连接';
 
   @override
-  String get androidEmbeddedPairingSuccessMessage => '配对已完成。请返回 Dextop。';
+  String get androidEmbeddedPairingSuccessMessage =>
+      '配对已完成。请返回 Área de Trabalho Móvel。';
 
   @override
-  String get androidEmbeddedPairingFailed => '无法连接 Dextop';
+  String get androidEmbeddedPairingFailed => '无法连接 Área de Trabalho Móvel';
 
   @override
   String get androidEmbeddedPairingInvalidCode => '请输入六位代码';
@@ -2173,24 +2189,24 @@ class AppLocalizationsZh extends AppLocalizations {
       '直接使用 Samsung DeX 或 Android 桌面窗口功能';
 
   @override
-  String get windowManagerPlasma => 'Dextop Plasma（自有窗口管理器）';
+  String get windowManagerPlasma => 'Plasma（自有窗口管理器）';
 
   @override
   String get windowManagerPlasmaDescription =>
-      '由 Dextop 绘制 KDE Plasma 6 风格的桌面、面板、窗口装饰、平铺和虚拟桌面';
+      '由 Área de Trabalho Móvel 绘制 KDE Plasma 6 风格的桌面、面板、窗口装饰、平铺和虚拟桌面';
 
   @override
-  String get windowManagerPlasmaV2 => 'Dextop Plasma v2（合成式窗口管理器）';
+  String get windowManagerPlasmaV2 => 'Plasma v2（合成式窗口管理器）';
 
   @override
   String get windowManagerPlasmaV2Description =>
-      '为每个应用创建独立的虚拟显示屏，并在 Dextop 绘制的 Breeze 窗口中显示。拖动、调整大小、动画和虚拟桌面都在 Dextop 内完成，面板可控制网络、音量和电源。';
+      '为每个应用创建独立的虚拟显示屏，并在 Área de Trabalho Móvel 绘制的 Breeze 窗口中显示。拖动、调整大小、动画和虚拟桌面都在 Área de Trabalho Móvel 内完成，面板可控制网络、音量和电源。';
 
   @override
   String get windowManagerAppliedLive => '已应用到正在运行的桌面';
 
   @override
-  String get plasmaSettingsTitle => 'Dextop Plasma 设置';
+  String get plasmaSettingsTitle => 'Plasma 设置';
 
   @override
   String get plasmaSettingsSummary => '外观、面板、虚拟桌面和动画';
@@ -2308,7 +2324,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get nativePlasmaDeviceSpeaker => '设备扬声器';
 
   @override
-  String get nativePlasmaDextopSettings => 'Dextop 设置';
+  String get nativePlasmaDextopSettings => 'Área de Trabalho Móvel 设置';
 
   @override
   String get nativePlasmaDischarging => '正在放电';
@@ -2425,7 +2441,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get nativePlasmaShutDown => '关机';
 
   @override
-  String get nativePlasmaShuttingDownIn => '%1\$d 秒后关闭 Dextop';
+  String get nativePlasmaShuttingDownIn => '%1\$d 秒后关闭 Área de Trabalho Móvel';
 
   @override
   String get nativePlasmaSleep => '睡眠';
@@ -2594,14 +2610,14 @@ class AppLocalizationsZh extends AppLocalizations {
   String get linuxUnsupportedDevice => 'Linux 仅支持 arm64 设备。';
 
   @override
-  String get linuxRequiresPlasma => '仅在使用 Dextop Plasma v2 时才能使用 Linux。';
+  String get linuxRequiresPlasma => '仅在使用 Plasma v2 时才能使用 Linux。';
 
   @override
   String get linuxSwitchToPlasma => '切换到 Plasma v2';
 
   @override
   String get linuxRequiresPrivilege =>
-      'Linux 使用 Dextop 内置的访问服务。请通过“设置 Dextop 访问权限”连接。无需另行安装 Stellar 或 Shizuku。';
+      'Linux 使用 Área de Trabalho Móvel 内置的访问服务。请通过“设置 Área de Trabalho Móvel 访问权限”连接。无需另行安装 Stellar 或 Shizuku。';
 
   @override
   String get linuxEnable => '启用 Linux';
@@ -2623,7 +2639,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get linuxStorageNote =>
-      '容器保存在 /data/local/tmp/dextop/linux，卸载 Dextop 后仍会保留。不再需要时请在此删除。';
+      '容器保存在 /data/local/tmp/dextop/linux，卸载 Área de Trabalho Móvel 后仍会保留。不再需要时请在此删除。';
 
   @override
   String get linuxInstall => '安装';
@@ -2679,7 +2695,8 @@ class AppLocalizationsZh extends AppLocalizations {
   String get linuxOpenDesktop => '打开桌面';
 
   @override
-  String get linuxStartPlasmaFirst => '请先以 Plasma v2 启动 Dextop。';
+  String get linuxStartPlasmaFirst =>
+      '请先以 Plasma v2 启动 Área de Trabalho Móvel。';
 
   @override
   String get nativePlasmaShowKeyboard => '显示键盘';

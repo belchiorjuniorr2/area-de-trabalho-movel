@@ -138,7 +138,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get accessibilitySettings => '접근성 설정';
 
   @override
-  String get accessibilityDescription => 'Dextop 서비스 설정을 엽니다';
+  String get accessibilityDescription => 'Área de Trabalho Móvel 서비스 설정을 엽니다';
 
   @override
   String get appInfo => '앱 정보';
@@ -165,7 +165,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get appInfoEmbeddedBinderConnection => 'Binder 연결';
 
   @override
-  String get appInfoEmbeddedBinderPermission => 'Dextop 권한';
+  String get appInfoEmbeddedBinderPermission => 'Área de Trabalho Móvel 권한';
 
   @override
   String get appInfoEmbeddedBinderNotifications => '알림 권한';
@@ -234,7 +234,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get version => '버전 1.0.0';
 
   @override
-  String get setupWelcome => 'Dextop에 오신 것을 환영합니다.';
+  String get setupWelcome => 'Área de Trabalho Móvel에 오신 것을 환영합니다.';
 
   @override
   String get setupTagline => '스마트폰 하나로 완벽한 데스크톱 환경을.';
@@ -246,7 +246,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get setupPhaseTerms => '이용에 있어서';
 
   @override
-  String get setupPhaseDriver => 'Dextop 연결';
+  String get setupPhaseDriver => 'Área de Trabalho Móvel 연결';
 
   @override
   String get setupTutorialTitle => '설정 안내';
@@ -289,10 +289,10 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get setupSystemDescription =>
-      'Dextop은 Shizuku와 ADB를 사용하여 가상 디스플레이, 화면 방향, 입력 및 시스템 UI를 제어합니다. AccessibilityService API는 데스크톱 오버레이 표시와 조작, 사용자가 요청한 터치·포인터·탐색 입력 전달, 세션 종료 시 기기 UI 복원에 사용됩니다. 접근성 데이터는 수집, 저장 또는 공유하지 않습니다.';
+      'Área de Trabalho Móvel은 Shizuku와 ADB를 사용하여 가상 디스플레이, 화면 방향, 입력 및 시스템 UI를 제어합니다. AccessibilityService API는 데스크톱 오버레이 표시와 조작, 사용자가 요청한 터치·포인터·탐색 입력 전달, 세션 종료 시 기기 UI 복원에 사용됩니다. 접근성 데이터는 수집, 저장 또는 공유하지 않습니다.';
 
   @override
-  String get setupTutorialDriverTitle => 'Dextop을 드라이버에 연결';
+  String get setupTutorialDriverTitle => 'Área de Trabalho Móvel을 드라이버에 연결';
 
   @override
   String get setupTutorialDriverDescription =>
@@ -303,7 +303,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get setupTutorialAccessibilityDescription =>
-      'Dextop은 데스크톱 환경을 표시하고 조작하기 위해 접근성을 사용합니다. 설정 화면에서 설치된 앱을 열고 Dextop을 켜세요.';
+      'Área de Trabalho Móvel은 데스크톱 환경을 표시하고 조작하기 위해 접근성을 사용합니다. 설정 화면에서 설치된 앱을 열고 Área de Trabalho Móvel을 켜세요.';
 
   @override
   String get setupTutorialAccessibilityButton => '접근성 설정 열기';
@@ -316,7 +316,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get accessibilityDisclosureBody =>
-      'Dextop은 데스크톱 화면 표시 및 조작, 활성 입력 대상 감지, 알림에서 연 앱 이동, 키보드와 마우스 조작 제공을 위해 접근성 서비스를 사용합니다.\n\n이 서비스는 화면에 표시된 앱과 창, 상호작용 이벤트, 포커스된 입력란과 입력 내용, 키보드 및 마우스 입력에 접근할 수 있습니다. 이 정보는 Dextop 기능을 제공하기 위해 기기에서만 처리됩니다. Dextop은 이 정보를 수집, 저장, 외부 전송하거나 제3자와 공유하지 않습니다.';
+      'Área de Trabalho Móvel은 데스크톱 화면 표시 및 조작, 활성 입력 대상 감지, 알림에서 연 앱 이동, 키보드와 마우스 조작 제공을 위해 접근성 서비스를 사용합니다.\n\n이 서비스는 화면에 표시된 앱과 창, 상호작용 이벤트, 포커스된 입력란과 입력 내용, 키보드 및 마우스 입력에 접근할 수 있습니다. 이 정보는 Área de Trabalho Móvel 기능을 제공하기 위해 기기에서만 처리됩니다. Área de Trabalho Móvel은 이 정보를 수집, 저장, 외부 전송하거나 제3자와 공유하지 않습니다.';
 
   @override
   String get accessibilityDisclosureAgree => '동의하고 설정 열기';
@@ -325,11 +325,11 @@ class AppLocalizationsKo extends AppLocalizations {
   String get accessibilityDisclosureDecline => '동의하지 않음';
 
   @override
-  String get setupTutorialReadyTitle => 'Dextop을 사용할 준비가 되었습니다';
+  String get setupTutorialReadyTitle => 'Área de Trabalho Móvel을 사용할 준비가 되었습니다';
 
   @override
   String get setupTutorialReadyDescription =>
-      '이 두 단계가 완료되면 바로 Dextop을 사용할 수 있습니다.';
+      '이 두 단계가 완료되면 바로 Área de Trabalho Móvel을 사용할 수 있습니다.';
 
   @override
   String get setupDisclaimer =>
@@ -340,7 +340,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get setupShizukuDescription =>
-      'Dextop이 시스템 기능에 안전하게 액세스하기 위해 Shizuku를 사용합니다.';
+      'Área de Trabalho Móvel이 시스템 기능에 안전하게 액세스하기 위해 Shizuku를 사용합니다.';
 
   @override
   String get setupInstallShizuku => 'Shizuku 설치';
@@ -359,7 +359,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get setupValidate => '설정이 완료되었습니까? 유효성 확인';
 
   @override
-  String get setupDextopPermission => 'Dextop에 대한 권한';
+  String get setupDextopPermission => 'Área de Trabalho Móvel에 대한 권한';
 
   @override
   String get setupInstallPlay => 'Google Play에서 설치';
@@ -372,7 +372,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get setupProviderChoiceDescription =>
-      '여러 Shizuku 호환 서비스가 설치되어 있습니다. Dextop에서 사용할 서비스를 선택하세요.';
+      '여러 Shizuku 호환 서비스가 설치되어 있습니다. Área de Trabalho Móvel에서 사용할 서비스를 선택하세요.';
 
   @override
   String get setupUseStellar => 'Stellar(권장)';
@@ -385,7 +385,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get setupRootVerified =>
-      'Shizuku가 root 권한으로 실행 중임을 확인했습니다. 다음으로 Dextop 권한을 부여하세요.';
+      'Shizuku가 root 권한으로 실행 중임을 확인했습니다. 다음으로 Área de Trabalho Móvel 권한을 부여하세요.';
 
   @override
   String get setupRootNotRunning =>
@@ -481,31 +481,33 @@ class AppLocalizationsKo extends AppLocalizations {
   String get ui4Divisions => '4분할';
 
   @override
-  String get uiDextopIsReady => 'Dextop 준비됨';
+  String get uiDextopIsReady => 'Área de Trabalho Móvel 준비됨';
 
   @override
-  String get uiDextopStopping => 'Dextop 종료 처리 중';
+  String get uiDextopStopping => 'Área de Trabalho Móvel 종료 처리 중';
 
   @override
-  String get uiStopDextop => 'Dextop 중지';
+  String get uiStopDextop => 'Área de Trabalho Móvel 중지';
 
   @override
-  String get uiDextopCanBeRestarted => 'Dextop을 재개할 수 있습니다.';
+  String get uiDextopCanBeRestarted => 'Área de Trabalho Móvel을 재개할 수 있습니다.';
 
   @override
-  String get uiOpenDextop => 'Dextop 열기';
+  String get uiOpenDextop => 'Área de Trabalho Móvel 열기';
 
   @override
-  String get uiCreateADextopSession => 'Dextop 세션 만들기';
+  String get uiCreateADextopSession => 'Área de Trabalho Móvel 세션 만들기';
 
   @override
-  String get uiDextopWorkspaceJson => 'Dextop 작업 공간 JSON';
+  String get uiDextopWorkspaceJson => 'Área de Trabalho Móvel 작업 공간 JSON';
 
   @override
-  String get uiPerformanceDisplayOnDextop => 'Dextop에 성능 오버레이 표시';
+  String get uiPerformanceDisplayOnDextop =>
+      'Área de Trabalho Móvel에 성능 오버레이 표시';
 
   @override
-  String get uiDoNotSleepWhileRunningDextop => 'Dextop 실행 중 화면 켜짐 유지';
+  String get uiDoNotSleepWhileRunningDextop =>
+      'Área de Trabalho Móvel 실행 중 화면 켜짐 유지';
 
   @override
   String get uiRealTimeDisplayOfFpsMemoryPower => 'FPS, 메모리, 전력 소비, 배터리 실시간 표시';
@@ -671,7 +673,8 @@ class AppLocalizationsKo extends AppLocalizations {
   String get virtualPointerSoftware => '소프트웨어 커서';
 
   @override
-  String get virtualPointerSoftwareDescription => 'Dextop의 기존 소프트웨어 커서를 사용합니다';
+  String get virtualPointerSoftwareDescription =>
+      'Área de Trabalho Móvel의 기존 소프트웨어 커서를 사용합니다';
 
   @override
   String get virtualMouseScrollDirection => '스크롤 방향';
@@ -723,7 +726,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get displaySupportedResolutions => '지원 해상도';
 
   @override
-  String get displayDextopResolutionTitle => 'Dextop 세션 해상도';
+  String get displayDextopResolutionTitle => 'Área de Trabalho Móvel 세션 해상도';
 
   @override
   String get displayDextopResolutionSummary => '홈 화면의 해상도에서 변경할 수 있습니다';
@@ -1025,7 +1028,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get uiRunningAutoPlus => '실행 중 (Auto+)';
 
   @override
-  String get uiStartPhoneDextop => '이 휴대전화에서 Dextop 시작';
+  String get uiStartPhoneDextop => '이 휴대전화에서 Área de Trabalho Móvel 시작';
 
   @override
   String get uiStopAndroidAuto => '중지 (Android Auto)';
@@ -1057,7 +1060,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get uiUnavailable => 'Unavailable';
 
   @override
-  String get appName => 'Dextop';
+  String get appName => 'Área de Trabalho Móvel';
 
   @override
   String get uiAndroid => 'Android';
@@ -1066,7 +1069,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get uiGitHub => 'GitHub';
 
   @override
-  String get uiGitHubRepository => 'NarYuki/Dextop';
+  String get uiGitHubRepository => 'belchiorjuniorr2/area-de-trabalho-movel';
 
   @override
   String get diagnosticLog => '작동 로그 및 기기 진단';
@@ -1120,19 +1123,19 @@ class AppLocalizationsKo extends AppLocalizations {
   String get reportEmailUnavailable => '이메일 앱을 열 수 없습니다';
 
   @override
-  String get reportTemplateTitle => 'Dextop 기기 작동 보고';
+  String get reportTemplateTitle => 'Área de Trabalho Móvel 기기 작동 보고';
 
   @override
   String get reportNoNotes => '없음';
 
   @override
-  String get reportNoSessionLog => '완료된 Dextop 세션 로그가 아직 없습니다.';
+  String get reportNoSessionLog => '완료된 Área de Trabalho Móvel 세션 로그가 아직 없습니다.';
 
   @override
   String get reportFeatureStartup => '앱 시작 및 기기 감지';
 
   @override
-  String get reportFeatureSession => 'Dextop 세션 시작';
+  String get reportFeatureSession => 'Área de Trabalho Móvel 세션 시작';
 
   @override
   String get reportFeatureVirtualDisplay => 'VirtualDisplay 미러링';
@@ -1196,7 +1199,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungExperimentalDescription =>
-      '기본 DeX 설정 화면에서 숨겨진 항목을 Dextop에서 변경합니다';
+      '기본 DeX 설정 화면에서 숨겨진 항목을 Área de Trabalho Móvel에서 변경합니다';
 
   @override
   String get samsungSettingsTitle => 'Samsung 데스크톱 설정';
@@ -1212,7 +1215,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungPermanentWarning =>
-      '이 항목은 초기화할 때까지 Dextop 및 평소 사용하는 데스크톱 환경에 영구적인 영향을 줄 수 있습니다.';
+      '이 항목은 초기화할 때까지 Área de Trabalho Móvel 및 평소 사용하는 데스크톱 환경에 영구적인 영향을 줄 수 있습니다.';
 
   @override
   String get samsungAcceptEnable => '동의하고 활성화';
@@ -1225,7 +1228,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungSettingsIntro =>
-      'Samsung 설정이 외부 디스플레이 미연결 상태에서 숨기는 DeX 값을 직접 변경합니다. 변경 사항은 Samsung DeX 및 해당 Dextop 기능에 적용됩니다.';
+      'Samsung 설정이 외부 디스플레이 미연결 상태에서 숨기는 DeX 값을 직접 변경합니다. 변경 사항은 Samsung DeX 및 해당 Área de Trabalho Móvel 기능에 적용됩니다.';
 
   @override
   String get samsungResolution => '외부 화면 해상도';
@@ -1256,7 +1259,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungInputLockedWhileRunning =>
-      'Dextop 실행 중에는 충돌하는 Samsung 입력 설정을 변경할 수 없습니다.';
+      'Área de Trabalho Móvel 실행 중에는 충돌하는 Samsung 입력 설정을 변경할 수 없습니다.';
 
   @override
   String get samsungAutorunTouchpad => '터치패드 자동 실행';
@@ -1286,7 +1289,8 @@ class AppLocalizationsKo extends AppLocalizations {
   String get samsungDexCommandArrow => '명령 화살표 표시';
 
   @override
-  String get samsungIncludePhoneDisplay => 'Dextop을 디스플레이 토폴로지에 포함';
+  String get samsungIncludePhoneDisplay =>
+      'Área de Trabalho Móvel을 디스플레이 토폴로지에 포함';
 
   @override
   String get samsungMirrorPhoneDisplay => '내장 화면 미러링';
@@ -1347,7 +1351,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungHelp_resolution =>
-      'Samsung 데스크톱에서 앱과 창을 표시할 작업 영역을 결정합니다. 해상도가 높으면 더 많은 내용을 볼 수 있지만 글자와 버튼이 작아지고 렌더링 부하가 늘어납니다. 낮은 해상도는 가독성과 성능에 유리하며 Dextop 해상도와 별도로 저장됩니다.';
+      'Samsung 데스크톱에서 앱과 창을 표시할 작업 영역을 결정합니다. 해상도가 높으면 더 많은 내용을 볼 수 있지만 글자와 버튼이 작아지고 렌더링 부하가 늘어납니다. 낮은 해상도는 가독성과 성능에 유리하며 Área de Trabalho Móvel 해상도와 별도로 저장됩니다.';
 
   @override
   String get samsungHelp_screenZoom =>
@@ -1375,7 +1379,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungHelp_autorunTouchpad =>
-      '활성화하면 연결 시 휴대전화에 Samsung 터치패드가 자동으로 열려 노트북 터치패드처럼 사용할 수 있습니다. Dextop 입력과 중복되므로 Dextop 실행 중에는 이 항목을 숨깁니다.';
+      '활성화하면 연결 시 휴대전화에 Samsung 터치패드가 자동으로 열려 노트북 터치패드처럼 사용할 수 있습니다. Área de Trabalho Móvel 입력과 중복되므로 Área de Trabalho Móvel 실행 중에는 이 항목을 숨깁니다.';
 
   @override
   String get samsungHelp_touchpadScrollDirection =>
@@ -1383,11 +1387,11 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungHelp_touchKeyboard =>
-      '활성화하면 데스크톱에서 입력 칸을 선택할 때 화면 키보드를 사용할 수 있어 물리 키보드가 없을 때 편리합니다. Dextop 키보드 제어와 겹치므로 실행 중에는 숨깁니다.';
+      '활성화하면 데스크톱에서 입력 칸을 선택할 때 화면 키보드를 사용할 수 있어 물리 키보드가 없을 때 편리합니다. Área de Trabalho Móvel 키보드 제어와 겹치므로 실행 중에는 숨깁니다.';
 
   @override
   String get samsungHelp_keyboardDex =>
-      '활성화하면 물리 키보드 연결 중에도 화면 키보드를 사용할 수 있어 이모지, 필기, 음성 입력에 편리합니다. 작업 공간을 줄이고 Dextop IME와 충돌할 수 있습니다.';
+      '활성화하면 물리 키보드 연결 중에도 화면 키보드를 사용할 수 있어 이모지, 필기, 음성 입력에 편리합니다. 작업 공간을 줄이고 Área de Trabalho Móvel IME와 충돌할 수 있습니다.';
 
   @override
   String get samsungHelp_spenInputMode =>
@@ -1395,11 +1399,11 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungHelp_threeFingerGesture =>
-      'Samsung이 세 손가락 제스처를 감지하면 앱, 홈, 최근 앱, 뒤로 등 선택한 작업을 실행합니다. Dextop도 세 손가락을 사용하므로 오작동 방지를 위해 실행 중에는 숨깁니다.';
+      'Samsung이 세 손가락 제스처를 감지하면 앱, 홈, 최근 앱, 뒤로 등 선택한 작업을 실행합니다. Área de Trabalho Móvel도 세 손가락을 사용하므로 오작동 방지를 위해 실행 중에는 숨깁니다.';
 
   @override
   String get samsungHelp_fourFingerGesture =>
-      '지원 터치패드에서 네 손가락으로 선택한 시스템 작업을 빠르게 실행합니다. Dextop 멀티터치 감지와 충돌하므로 Dextop 실행 중에는 숨깁니다.';
+      '지원 터치패드에서 네 손가락으로 선택한 시스템 작업을 빠르게 실행합니다. Área de Trabalho Móvel 멀티터치 감지와 충돌하므로 Área de Trabalho Móvel 실행 중에는 숨깁니다.';
 
   @override
   String get samsungHelp_autoHideTaskbar =>
@@ -1407,7 +1411,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get samsungHelp_dexCommandArrow =>
-      '활성화하면 Samsung 명령 제어를 여는 화살표가 표시되어 보조 작업에 빠르게 접근할 수 있습니다. Dextop 오버레이나 가장자리 제스처와 겹칠 수 있습니다.';
+      '활성화하면 Samsung 명령 제어를 여는 화살표가 표시되어 보조 작업에 빠르게 접근할 수 있습니다. Área de Trabalho Móvel 오버레이나 가장자리 제스처와 겹칠 수 있습니다.';
 
   @override
   String get samsungHelp_includePhoneDisplay =>
@@ -1486,7 +1490,8 @@ class AppLocalizationsKo extends AppLocalizations {
   String get keyboardThemesSelectFirst => '먼저 이 테마를 선택하세요.';
 
   @override
-  String get keyboardThemesStartFirst => '키보드 데모를 표시하려면 먼저 Dextop을 시작하세요.';
+  String get keyboardThemesStartFirst =>
+      '키보드 데모를 표시하려면 먼저 Área de Trabalho Móvel을 시작하세요.';
 
   @override
   String get keyboardThemesAdd => '사용자 지정 테마 추가';
@@ -1556,7 +1561,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get autoMatchPhoneOrientationDescription =>
-      '휴대전화 미러링으로 Auto에 Dextop을 표시할 때 헤드 유닛 종횡비에 맞춰 방향을 조정합니다.';
+      '휴대전화 미러링으로 Auto에 Área de Trabalho Móvel을 표시할 때 헤드 유닛 종횡비에 맞춰 방향을 조정합니다.';
 
   @override
   String get autoExperimentalFeatures => '실험적 기능';
@@ -1573,11 +1578,11 @@ class AppLocalizationsKo extends AppLocalizations {
       'Android Auto는 연결된 헤드 유닛 크기에 맞춘 독립 데스크톱 디스플레이를 사용합니다.';
 
   @override
-  String get setupEmbeddedTitle => 'Dextop 액세스 설정';
+  String get setupEmbeddedTitle => 'Área de Trabalho Móvel 액세스 설정';
 
   @override
   String get setupEmbeddedDescription =>
-      'Dextop의 내장 액세스 서비스를 연결합니다.\n\n1. 알림을 허용합니다.\n2. 무선 디버깅을 열고 사용 설정합니다.\n3. 페어링 코드로 기기 페어링을 탭합니다.\n4. 알림 입력란에 Android가 표시한 6자리 코드를 입력합니다.';
+      'Área de Trabalho Móvel의 내장 액세스 서비스를 연결합니다.\n\n1. 알림을 허용합니다.\n2. 무선 디버깅을 열고 사용 설정합니다.\n3. 페어링 코드로 기기 페어링을 탭합니다.\n4. 알림 입력란에 Android가 표시한 6자리 코드를 입력합니다.';
 
   @override
   String get setupEmbeddedSetupDescription =>
@@ -1606,13 +1611,14 @@ class AppLocalizationsKo extends AppLocalizations {
   String get setupEmbeddedPair => '페어링 및 시작';
 
   @override
-  String get setupEmbeddedPairAndStart => 'Dextop 액세스 설정';
+  String get setupEmbeddedPairAndStart => 'Área de Trabalho Móvel 액세스 설정';
 
   @override
-  String get setupEmbeddedIncluded => 'Dextop 액세스 서비스 포함됨';
+  String get setupEmbeddedIncluded => 'Área de Trabalho Móvel 액세스 서비스 포함됨';
 
   @override
-  String get setupEmbeddedConnectedDescription => 'Dextop 액세스 권한을 사용할 수 있습니다.';
+  String get setupEmbeddedConnectedDescription =>
+      'Área de Trabalho Móvel 액세스 권한을 사용할 수 있습니다.';
 
   @override
   String get setupEmbeddedConfigure => '무선 디버깅 페어링';
@@ -1621,7 +1627,8 @@ class AppLocalizationsKo extends AppLocalizations {
   String get setupEmbeddedPairingFailed => '페어링에 실패했습니다';
 
   @override
-  String get setupEmbeddedStartFailed => 'Dextop 액세스 서비스를 시작할 수 없습니다';
+  String get setupEmbeddedStartFailed =>
+      'Área de Trabalho Móvel 액세스 서비스를 시작할 수 없습니다';
 
   @override
   String get setupEmbeddedNotificationPermission => '알림 권한';
@@ -1659,7 +1666,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get experimentalCoverDisplayDescription =>
-      '폴더블 커버 화면에서 Android 또는 독립적인 Dextop 세션을 사용합니다';
+      '폴더블 커버 화면에서 Android 또는 독립적인 Área de Trabalho Móvel 세션을 사용합니다';
 
   @override
   String get experimentalCoverDisplayUnavailable => '폴더블 기기에서만 사용할 수 있습니다';
@@ -1676,14 +1683,14 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get experimentalBlackBerryModeDescription =>
-      'Dextop 오버레이에서 스마트폰용 소형 물리 키보드 스타일 배열을 사용할 수 있습니다';
+      'Área de Trabalho Móvel 오버레이에서 스마트폰용 소형 물리 키보드 스타일 배열을 사용할 수 있습니다';
 
   @override
   String get blackBerryAutoStart => 'BlackBerry 모드 자동 시작';
 
   @override
   String get blackBerryAutoStartDescription =>
-      '세로 모드로 Dextop 세션을 시작할 때 BlackBerry 키보드를 자동으로 표시합니다';
+      '세로 모드로 Área de Trabalho Móvel 세션을 시작할 때 BlackBerry 키보드를 자동으로 표시합니다';
 
   @override
   String get keyboardHaptics => '키보드 햅틱';
@@ -1711,15 +1718,15 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get nativeCoverDisplayDescription =>
-      '커버 화면에서 Android를 열거나 독립적인 Dextop 세션을 만듭니다';
+      '커버 화면에서 Android를 열거나 독립적인 Área de Trabalho Móvel 세션을 만듭니다';
 
   @override
   String get nativeCoverAndroidDescription =>
-      '메인 Dextop 세션을 유지한 채 커버 화면을 일반 Android로 사용합니다.';
+      '메인 Área de Trabalho Móvel 세션을 유지한 채 커버 화면을 일반 Android로 사용합니다.';
 
   @override
   String get nativeCoverDextopDescription =>
-      '메인 세션과 독립된 Dextop 세션을 커버 화면에 만듭니다.';
+      '메인 세션과 독립된 Área de Trabalho Móvel 세션을 커버 화면에 만듭니다.';
 
   @override
   String get nativeOpenCoverAndroid => '커버 화면에서 Android 열기';
@@ -1728,10 +1735,10 @@ class AppLocalizationsKo extends AppLocalizations {
   String get nativeStopCoverAndroid => 'Android 세션 종료';
 
   @override
-  String get nativeStartCoverDextop => '커버 화면에 Dextop 세션 만들기';
+  String get nativeStartCoverDextop => '커버 화면에 Área de Trabalho Móvel 세션 만들기';
 
   @override
-  String get nativeStopCoverDextop => '커버 Dextop 세션 종료';
+  String get nativeStopCoverDextop => '커버 Área de Trabalho Móvel 세션 종료';
 
   @override
   String get nativeCoverDisplayFailed => '커버 디스플레이를 변경할 수 없습니다';
@@ -1797,15 +1804,15 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get nativePhysicalMouseDemo =>
-      '물리 마우스를 Android와 Dextop 사이에서 전환합니다. 지원 기기에 외부 디스플레이가 연결된 경우 사용할 수 있습니다.';
+      '물리 마우스를 Android와 Área de Trabalho Móvel 사이에서 전환합니다. 지원 기기에 외부 디스플레이가 연결된 경우 사용할 수 있습니다.';
 
   @override
   String get nativePhysicalKeyboardDemo =>
-      '물리 키보드를 Android와 Dextop 사이에서 전환합니다. 지원 기기에 외부 디스플레이가 연결된 경우 사용할 수 있습니다.';
+      '물리 키보드를 Android와 Área de Trabalho Móvel 사이에서 전환합니다. 지원 기기에 외부 디스플레이가 연결된 경우 사용할 수 있습니다.';
 
   @override
   String get nativeTheThreeFingerGestureIsAnEssential =>
-      '세 손가락 제스처는 Dextop 사용 중에 필수적인 조작 방법입니다. \\n각 버튼을 탭하면 여기에 기능 설명이 표시됩니다.';
+      '세 손가락 제스처는 Área de Trabalho Móvel 사용 중에 필수적인 조작 방법입니다. \\n각 버튼을 탭하면 여기에 기능 설명이 표시됩니다.';
 
   @override
   String get nativeAsusZenuiRogUiDesktop => 'ASUS ZenUI / ROG UI 데스크톱';
@@ -1818,25 +1825,27 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get nativeAdjustTheVolumeOfPlaybackOnDextop =>
-      'Dextop에서 재생할 볼륨을 조정합니다.';
+      'Área de Trabalho Móvel에서 재생할 볼륨을 조정합니다.';
 
   @override
   String get nativeSwitchBetweenPortraitAndLandscapeOrientationOf =>
-      'Dextop의 세로 방향과 가로 방향을 전환합니다.';
+      'Área de Trabalho Móvel의 세로 방향과 가로 방향을 전환합니다.';
 
   @override
-  String get nativeSwitchDextopResolutionAndDpi => 'Dextop 해상도와 DPI 간 전환';
+  String get nativeSwitchDextopResolutionAndDpi =>
+      'Área de Trabalho Móvel 해상도와 DPI 간 전환';
 
   @override
   String get nativePauseDextopAndReturnYourAndroidTo =>
-      'Dextop을 일시 중지하고 Android를 정상적으로 조작할 수 있는 상태로 되돌립니다.';
+      'Área de Trabalho Móvel을 일시 중지하고 Android를 정상적으로 조작할 수 있는 상태로 되돌립니다.';
 
   @override
-  String get nativeTerminateYourDextopSession => 'Dextop 세션을 종료합니다.';
+  String get nativeTerminateYourDextopSession =>
+      'Área de Trabalho Móvel 세션을 종료합니다.';
 
   @override
   String get nativeAdjustTheBrightnessOfTheDesktopDisplay =>
-      'Dextop 디스플레이의 밝기를 조정합니다.';
+      'Área de Trabalho Móvel 디스플레이의 밝기를 조정합니다.';
 
   @override
   String get nativeHonorMagicosDesktop => 'HONOR MagicOS 데스크톱';
@@ -2034,14 +2043,14 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get nativeOpenDextopWithYourSavedAppPlacement =>
-      '저장된 앱 배치에서 Dextop을 엽니다.';
+      '저장된 앱 배치에서 Área de Trabalho Móvel을 엽니다.';
 
   @override
   String get nativeSaveAndApply => '저장하고 적용';
 
   @override
   String get nativeFailedToSaveUnableToRetrieveRunning =>
-      '저장할 수 없습니다. Dextop에서 실행 중인 앱을 가져올 수 없습니다.';
+      '저장할 수 없습니다. Área de Trabalho Móvel에서 실행 중인 앱을 가져올 수 없습니다.';
 
   @override
   String get nativeFailedToSaveFailedToWriteTo =>
@@ -2055,7 +2064,8 @@ class AppLocalizationsKo extends AppLocalizations {
   String get nativeNoSavedWorkspaces => '저장된 작업공간 없음';
 
   @override
-  String get nativePleaseStartDextopFirst => '먼저 Dextop을 시작하십시오.';
+  String get nativePleaseStartDextopFirst =>
+      '먼저 Área de Trabalho Móvel을 시작하십시오.';
 
   @override
   String get nativeReconnect => '재연결';
@@ -2111,7 +2121,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get nativeSendsTheTouchedPositionDirectlyToDextop =>
-      '터치한 위치를 Dextop에 직접 탭으로 보냅니다.';
+      '터치한 위치를 Área de Trabalho Móvel에 직접 탭으로 보냅니다.';
 
   @override
   String get nativeAddAndApply => '추가 및 적용';
@@ -2149,20 +2159,20 @@ class AppLocalizationsKo extends AppLocalizations {
   }
 
   @override
-  String get appUpdatedMessage => 'Dextop이 최신 버전으로 업데이트되었습니다.';
+  String get appUpdatedMessage => 'Área de Trabalho Móvel이 최신 버전으로 업데이트되었습니다.';
 
   @override
-  String get androidSwipeImeLabel => 'Dextop 스와이프 입력';
+  String get androidSwipeImeLabel => 'Área de Trabalho Móvel 스와이프 입력';
 
   @override
   String get androidAccessibilityServiceDescription =>
-      'Dextop 가상 디스플레이, 입력 및 제어 패널을 제어합니다';
+      'Área de Trabalho Móvel 가상 디스플레이, 입력 및 제어 패널을 제어합니다';
 
   @override
   String get androidEmbeddedPairingChannel => '내장 액세스 설정';
 
   @override
-  String get androidEmbeddedPairingTitle => 'Dextop 페어링';
+  String get androidEmbeddedPairingTitle => 'Área de Trabalho Móvel 페어링';
 
   @override
   String get androidEmbeddedPairingNotificationText =>
@@ -2175,14 +2185,15 @@ class AppLocalizationsKo extends AppLocalizations {
   String get androidEmbeddedPairingEnterCode => '페어링 코드 입력';
 
   @override
-  String get androidEmbeddedPairingSuccess => 'Dextop이 연결되었습니다';
+  String get androidEmbeddedPairingSuccess => 'Área de Trabalho Móvel이 연결되었습니다';
 
   @override
   String get androidEmbeddedPairingSuccessMessage =>
-      '페어링이 완료되었습니다. Dextop으로 돌아가세요.';
+      '페어링이 완료되었습니다. Área de Trabalho Móvel으로 돌아가세요.';
 
   @override
-  String get androidEmbeddedPairingFailed => 'Dextop을 연결할 수 없습니다';
+  String get androidEmbeddedPairingFailed =>
+      'Área de Trabalho Móvel을 연결할 수 없습니다';
 
   @override
   String get androidEmbeddedPairingInvalidCode => '6자리 코드를 입력하세요';
@@ -2213,24 +2224,24 @@ class AppLocalizationsKo extends AppLocalizations {
       'Samsung DeX 또는 Android 데스크톱 창 기능을 그대로 사용합니다';
 
   @override
-  String get windowManagerPlasma => 'Dextop Plasma (자체 WM)';
+  String get windowManagerPlasma => 'Plasma (자체 WM)';
 
   @override
   String get windowManagerPlasmaDescription =>
-      'Dextop이 KDE Plasma 6 스타일의 데스크톱, 패널, 창 장식, 타일링, 가상 데스크톱을 직접 그립니다';
+      'Área de Trabalho Móvel이 KDE Plasma 6 스타일의 데스크톱, 패널, 창 장식, 타일링, 가상 데스크톱을 직접 그립니다';
 
   @override
-  String get windowManagerPlasmaV2 => 'Dextop Plasma v2 (합성형 WM)';
+  String get windowManagerPlasmaV2 => 'Plasma v2 (합성형 WM)';
 
   @override
   String get windowManagerPlasmaV2Description =>
-      '앱마다 전용 가상 디스플레이를 만들어 Dextop이 그리는 Breeze 창 안에 표시합니다. 드래그, 크기 조절, 애니메이션, 가상 데스크톱이 Dextop 안에서 이루어지며 패널에서 네트워크, 볼륨, 전원을 제어할 수 있습니다.';
+      '앱마다 전용 가상 디스플레이를 만들어 Área de Trabalho Móvel이 그리는 Breeze 창 안에 표시합니다. 드래그, 크기 조절, 애니메이션, 가상 데스크톱이 Área de Trabalho Móvel 안에서 이루어지며 패널에서 네트워크, 볼륨, 전원을 제어할 수 있습니다.';
 
   @override
   String get windowManagerAppliedLive => '실행 중인 데스크톱에 적용했습니다';
 
   @override
-  String get plasmaSettingsTitle => 'Dextop Plasma 설정';
+  String get plasmaSettingsTitle => 'Plasma 설정';
 
   @override
   String get plasmaSettingsSummary => '모양, 패널, 가상 데스크톱, 애니메이션';
@@ -2348,7 +2359,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get nativePlasmaDeviceSpeaker => '기기 스피커';
 
   @override
-  String get nativePlasmaDextopSettings => 'Dextop 설정';
+  String get nativePlasmaDextopSettings => 'Área de Trabalho Móvel 설정';
 
   @override
   String get nativePlasmaDischarging => '방전 중';
@@ -2466,7 +2477,8 @@ class AppLocalizationsKo extends AppLocalizations {
   String get nativePlasmaShutDown => '시스템 종료';
 
   @override
-  String get nativePlasmaShuttingDownIn => '%1\$d초 후 Dextop을 종료합니다';
+  String get nativePlasmaShuttingDownIn =>
+      '%1\$d초 후 Área de Trabalho Móvel을 종료합니다';
 
   @override
   String get nativePlasmaSleep => '절전';
@@ -2635,14 +2647,14 @@ class AppLocalizationsKo extends AppLocalizations {
   String get linuxUnsupportedDevice => 'Linux는 arm64 기기에서만 사용할 수 있습니다.';
 
   @override
-  String get linuxRequiresPlasma => 'Linux는 Dextop Plasma v2를 사용할 때만 쓸 수 있습니다.';
+  String get linuxRequiresPlasma => 'Linux는 Plasma v2를 사용할 때만 쓸 수 있습니다.';
 
   @override
   String get linuxSwitchToPlasma => 'Plasma v2로 전환';
 
   @override
   String get linuxRequiresPrivilege =>
-      'Linux는 Dextop 내장 접근 서비스를 사용합니다. Dextop 접근 설정에서 연결하세요. 외부 Stellar 또는 Shizuku 앱은 필수가 아닙니다.';
+      'Linux는 Área de Trabalho Móvel 내장 접근 서비스를 사용합니다. Área de Trabalho Móvel 접근 설정에서 연결하세요. 외부 Stellar 또는 Shizuku 앱은 필수가 아닙니다.';
 
   @override
   String get linuxEnable => 'Linux 사용';
@@ -2664,7 +2676,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get linuxStorageNote =>
-      '컨테이너는 /data/local/tmp/dextop/linux에 저장되며 Dextop을 제거해도 남습니다. 필요 없으면 여기서 삭제하세요.';
+      '컨테이너는 /data/local/tmp/dextop/linux에 저장되며 Área de Trabalho Móvel을 제거해도 남습니다. 필요 없으면 여기서 삭제하세요.';
 
   @override
   String get linuxInstall => '설치';
@@ -2720,7 +2732,8 @@ class AppLocalizationsKo extends AppLocalizations {
   String get linuxOpenDesktop => '데스크톱 열기';
 
   @override
-  String get linuxStartPlasmaFirst => '먼저 Plasma v2로 Dextop을 시작하세요.';
+  String get linuxStartPlasmaFirst =>
+      '먼저 Plasma v2로 Área de Trabalho Móvel을 시작하세요.';
 
   @override
   String get nativePlasmaShowKeyboard => '키보드 표시';

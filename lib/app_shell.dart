@@ -77,6 +77,22 @@ class _DextopAppState extends State<DextopApp> {
         GlobalCupertinoLocalizations.delegate,
       ],
       supportedLocales: AppLocalizations.supportedLocales,
+      // Português do Brasil é o idioma padrão quando o idioma do sistema
+      // não tem tradução disponível.
+      localeResolutionCallback: (locale, supported) {
+        if (locale == null) return const Locale('pt', 'BR');
+        for (final candidate in supported) {
+          if (candidate.languageCode == locale.languageCode &&
+              candidate.countryCode == locale.countryCode) {
+            return candidate;
+          }
+        }
+        if (locale.languageCode == 'pt') return const Locale('pt', 'BR');
+        for (final candidate in supported) {
+          if (candidate.languageCode == locale.languageCode) return candidate;
+        }
+        return const Locale('pt', 'BR');
+      },
       home: setupCompleted == null || desktopWindow == null
           ? const Scaffold(body: Center(child: CircularProgressIndicator()))
           : setupCompleted == false
@@ -296,13 +312,15 @@ class NativeBridge {
     required int height,
     required double refreshRate,
   }) async =>
-      await channel
-          .invokeMapMethod<String, dynamic>('setDisplayPreferredMode', {
-            'displayId': displayId,
-            'width': width,
-            'height': height,
-            'refreshRate': refreshRate,
-          }) ??
+      await channel.invokeMapMethod<String, dynamic>(
+        'setDisplayPreferredMode',
+        {
+          'displayId': displayId,
+          'width': width,
+          'height': height,
+          'refreshRate': refreshRate,
+        },
+      ) ??
       {};
   Future<Map<String, dynamic>> displayEnvironmentSettings() async =>
       await channel.invokeMapMethod<String, dynamic>(
@@ -318,6 +336,7 @@ class NativeBridge {
         {'id': id, 'enabled': enabled},
       ) ??
       {};
+
   /// Applies the saved `window_manager` preference to a running session.
   Future<void> setWindowManager() => channel.invokeMethod('setWindowManager');
 
@@ -344,6 +363,7 @@ class NativeBridge {
     'bounds': ?bounds,
     'position': ?position,
   });
+
   /// Routes a saved workspace directly to the active decorated Car Companion
   /// display. Returns false when that third display mode is not active.
   Future<bool> launchAutoWorkspace(String id) async =>

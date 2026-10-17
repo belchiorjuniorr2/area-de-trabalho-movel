@@ -14,7 +14,7 @@ AppLocalizations currentLocalizations() {
         candidate.countryCode == locale.countryCode,
     orElse: () => AppLocalizations.supportedLocales.firstWhere(
       (candidate) => candidate.languageCode == locale.languageCode,
-      orElse: () => const Locale('en'),
+      orElse: () => const Locale('pt', 'BR'),
     ),
   );
   return lookupAppLocalizations(supported);

@@ -43,7 +43,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "moe.n4tsu.dextop.cardex"
+        applicationId = "br.com.belchior.areadetrabalhomovel.cardex"
         minSdk = 35
         targetSdk = 36
         versionCode = 8

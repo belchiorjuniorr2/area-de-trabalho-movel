@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Dextop</string>
-    <string name="quick_settings_tile_label" translatable="false">Dextop</string>
-    <string name="dextop_swipe_ime_label">Dextop なぞり入力</string>
-    <string name="accessibility_service_description">Dextopの仮想ディスプレイ、入力、操作パネルを制御します</string>
-    <string name="embedded_pairing_channel">内蔵アクセスサービスの設定</string>
-    <string name="embedded_pairing_title">Dextopをペア設定</string>
-    <string name="embedded_pairing_notification_text">ワイヤレスデバッグに表示された6桁のコードを入力してください</string>
-    <string name="embedded_pairing_code">6桁のペア設定コード</string>
-    <string name="embedded_pairing_enter_code">ペア設定コードを入力</string>
-    <string name="embedded_pairing_success">Dextopの接続が完了しました</string>
-    <string name="embedded_pairing_success_message">ペア設定が完了しました。Dextopに戻ってください。</string>
-    <string name="embedded_pairing_failed">Dextopを接続できませんでした</string>
-    <string name="embedded_pairing_invalid_code">6桁のコードを入力してください</string>
-    <string name="embedded_pairing_searching">ペア設定サービスを検索中</string>
-    <string name="embedded_pairing_service_found">ペア設定サービスが見つかりました</string>
-    <string name="embedded_pairing_service_not_found">ペア設定サービスが見つかりません</string>
-    <string name="embedded_pairing_retry">再試行</string>
-    <string name="embedded_pairing_in_progress">ペア設定中</string>
+    <string name="app_name" translatable="false">Área de Trabalho Móvel</string>
+    <string name="quick_settings_tile_label" translatable="false">Área Móvel</string>
+    <string name="dextop_swipe_ime_label">Digitação por deslize — Área Móvel</string>
+    <string name="accessibility_service_description">Controla a tela virtual, a entrada e o painel de controle da Área de Trabalho Móvel</string>
+    <string name="embedded_pairing_channel">Configuração de acesso integrado</string>
+    <string name="embedded_pairing_title">Parear a Área de Trabalho Móvel</string>
+    <string name="embedded_pairing_notification_text">Digite o código de seis dígitos exibido na Depuração por Wi-Fi</string>
+    <string name="embedded_pairing_code">Código de pareamento de seis dígitos</string>
+    <string name="embedded_pairing_enter_code">Digitar código de pareamento</string>
+    <string name="embedded_pairing_success">A Área de Trabalho Móvel está conectada</string>
+    <string name="embedded_pairing_success_message">Pareamento concluído. Volte para a Área de Trabalho Móvel.</string>
+    <string name="embedded_pairing_failed">Não foi possível conectar a Área de Trabalho Móvel</string>
+    <string name="embedded_pairing_invalid_code">Digite um código de seis dígitos</string>
+    <string name="embedded_pairing_searching">Procurando serviço de pareamento</string>
+    <string name="embedded_pairing_service_found">Serviço de pareamento encontrado</string>
+    <string name="embedded_pairing_service_not_found">Serviço de pareamento não encontrado</string>
+    <string name="embedded_pairing_retry">Tentar novamente</string>
+    <string name="embedded_pairing_in_progress">Pareamento em andamento</string>
 </resources>

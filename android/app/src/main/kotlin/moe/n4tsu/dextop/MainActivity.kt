@@ -34,7 +34,7 @@ open class MainActivity : FlutterActivity() {
     companion object {
         private const val STELLAR_PACKAGE = "roro.stellar.manager"
         private const val SHEVERY_PACKAGE = "com.hamondev.shevery"
-        private const val CAR_COMPANION_PACKAGE = "moe.n4tsu.dextop.cardex"
+        private const val CAR_COMPANION_PACKAGE = "br.com.belchior.areadetrabalhomovel.cardex"
         private const val SHIZUKU_PERMISSION = "moe.shizuku.manager.permission.API_V23"
         private const val STELLAR_REQUEST_BINDER_ACTION = "roro.stellar.intent.action.REQUEST_BINDER"
         private const val EMBEDDED_NOTIFICATION_PERMISSION_REQUEST = 8104
@@ -604,25 +604,19 @@ open class MainActivity : FlutterActivity() {
                     }
                 ))
                 "sendDeviceReportEmail" -> {
-                    val recipient = "dextop-device@n4t.su"
+                    // Área de Trabalho Móvel: os relatórios não são mais enviados
+                    // por e-mail ao autor original. Abrimos uma issue pré-preenchida
+                    // no GitHub deste fork, que o usuário revisa antes de enviar.
                     val subject = call.argument<String>("subject").orEmpty()
-                    val body = call.argument<String>("body").orEmpty()
-                    // Keep the recipient in the literal mailto path. Some mail
-                    // clients ignore an address stored only in EXTRA_EMAIL or
-                    // in an opaque Uri.Builder part.
+                    val body = call.argument<String>("body").orEmpty().take(6000)
                     val uri = Uri.parse(
-                        "mailto:$recipient" +
-                            "?to=${Uri.encode(recipient)}" +
-                            "&subject=${Uri.encode(subject)}" +
+                        "https://github.com/belchiorjuniorr2/area-de-trabalho-movel/issues/new" +
+                            "?title=${Uri.encode(subject)}" +
                             "&body=${Uri.encode(body)}"
                     )
-                    val email = Intent(Intent.ACTION_SENDTO, uri).apply {
-                        putExtra(Intent.EXTRA_EMAIL, arrayOf(recipient))
-                        putExtra("android.intent.extra.EMAIL", arrayOf(recipient))
-                        putExtra(Intent.EXTRA_SUBJECT, subject)
-                        putExtra(Intent.EXTRA_TEXT, body)
-                    }
-                    runCatching { startActivity(email) }
+                    val browser = Intent(Intent.ACTION_VIEW, uri)
+                        .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+                    runCatching { startActivity(browser) }
                         .onSuccess { result.success(null) }
                         .onFailure { result.error("EMAIL_UNAVAILABLE", it.message, null) }
                 }

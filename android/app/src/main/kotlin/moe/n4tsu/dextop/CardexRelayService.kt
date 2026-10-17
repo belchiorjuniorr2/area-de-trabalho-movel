@@ -762,7 +762,7 @@ class CardexRelayService : Service() {
         val packages = packageManager.getPackagesForUid(uid).orEmpty()
         activeClientMode = when {
             packages.any { it.endsWith(".driving") } -> "Driving"
-            packages.any { it == "moe.n4tsu.dextop.cardex" } -> "Parking"
+            packages.any { it == "br.com.belchior.areadetrabalhomovel.cardex" } -> "Parking"
             else -> activeClientMode
         }
     }

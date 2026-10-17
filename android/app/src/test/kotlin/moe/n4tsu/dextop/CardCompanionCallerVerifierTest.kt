@@ -5,7 +5,7 @@ import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 class CardCompanionCallerVerifierTest {
-    private val packageName = setOf("moe.n4tsu.dextop.cardex")
+    private val packageName = setOf("br.com.belchior.areadetrabalhomovel.cardex")
 
     @Test
     fun acceptsGithubReleaseCertificate() {
@@ -34,7 +34,7 @@ class CardCompanionCallerVerifierTest {
         )
         assertFalse(
             CardCompanionCallerVerifier.matchesOfficialIdentity(
-                setOf("moe.n4tsu.dextop.cardex.fake"),
+                setOf("br.com.belchior.areadetrabalhomovel.cardex.fake"),
                 setOf("847833703f59daa31c28705ae694f1ceb11b6d0d4d1e93a5997c01a5303c34c5"),
             )
         )

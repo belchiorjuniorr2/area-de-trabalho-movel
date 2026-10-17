@@ -142,7 +142,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get accessibilitySettings => 'Специальные возможности';
 
   @override
-  String get accessibilityDescription => 'Открыть настройки службы Dextop';
+  String get accessibilityDescription =>
+      'Открыть настройки службы Área de Trabalho Móvel';
 
   @override
   String get appInfo => 'О приложении';
@@ -169,7 +170,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get appInfoEmbeddedBinderConnection => 'Подключение Binder';
 
   @override
-  String get appInfoEmbeddedBinderPermission => 'Разрешение Dextop';
+  String get appInfoEmbeddedBinderPermission =>
+      'Разрешение Área de Trabalho Móvel';
 
   @override
   String get appInfoEmbeddedBinderNotifications => 'Разрешение на уведомления';
@@ -238,7 +240,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get version => 'Версия 1.0.0';
 
   @override
-  String get setupWelcome => 'Добро пожаловать в Dextop.';
+  String get setupWelcome => 'Добро пожаловать в Área de Trabalho Móvel.';
 
   @override
   String get setupTagline =>
@@ -251,7 +253,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get setupPhaseTerms => 'Перед началом работы';
 
   @override
-  String get setupPhaseDriver => 'Подключение Dextop';
+  String get setupPhaseDriver => 'Подключение Área de Trabalho Móvel';
 
   @override
   String get setupTutorialTitle => 'Этапы настройки';
@@ -294,10 +296,11 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get setupSystemDescription =>
-      'Dextop использует Shizuku и ADB для управления виртуальными дисплеями, ориентацией экрана, вводом и системным интерфейсом. API AccessibilityService используется для отображения и управления оверлеем рабочего стола, передачи запрошенных пользователем сенсорных, указательных и навигационных действий и восстановления интерфейса устройства после завершения сеанса. Данные специальных возможностей не собираются, не сохраняются и не передаются.';
+      'Área de Trabalho Móvel использует Shizuku и ADB для управления виртуальными дисплеями, ориентацией экрана, вводом и системным интерфейсом. API AccessibilityService используется для отображения и управления оверлеем рабочего стола, передачи запрошенных пользователем сенсорных, указательных и навигационных действий и восстановления интерфейса устройства после завершения сеанса. Данные специальных возможностей не собираются, не сохраняются и не передаются.';
 
   @override
-  String get setupTutorialDriverTitle => 'Подключите Dextop к драйверу';
+  String get setupTutorialDriverTitle =>
+      'Подключите Área de Trabalho Móvel к драйверу';
 
   @override
   String get setupTutorialDriverDescription =>
@@ -309,7 +312,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get setupTutorialAccessibilityDescription =>
-      'Dextop использует специальные возможности для отображения рабочего стола и управления им. В настройках откройте раздел установленных приложений и включите Dextop.';
+      'Área de Trabalho Móvel использует специальные возможности для отображения рабочего стола и управления им. В настройках откройте раздел установленных приложений и включите Área de Trabalho Móvel.';
 
   @override
   String get setupTutorialAccessibilityButton =>
@@ -325,7 +328,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get accessibilityDisclosureBody =>
-      'Dextop использует службу специальных возможностей для отображения рабочего стола и управления им, определения активного поля ввода, перемещения приложений, открытых из уведомлений, а также управления с клавиатуры и мыши.\n\nСлужба может получать доступ к приложениям и окнам на экране, событиям взаимодействия, активному текстовому полю и его содержимому, а также вводу с клавиатуры и мыши. Эти данные обрабатываются только на устройстве для работы функций Dextop. Dextop не собирает, не хранит, не передаёт эти данные и не предоставляет их третьим лицам.';
+      'Área de Trabalho Móvel использует службу специальных возможностей для отображения рабочего стола и управления им, определения активного поля ввода, перемещения приложений, открытых из уведомлений, а также управления с клавиатуры и мыши.\n\nСлужба может получать доступ к приложениям и окнам на экране, событиям взаимодействия, активному текстовому полю и его содержимому, а также вводу с клавиатуры и мыши. Эти данные обрабатываются только на устройстве для работы функций Área de Trabalho Móvel. Área de Trabalho Móvel не собирает, не хранит, не передаёт эти данные и не предоставляет их третьим лицам.';
 
   @override
   String get accessibilityDisclosureAgree => 'Согласиться и открыть настройки';
@@ -334,11 +337,11 @@ class AppLocalizationsRu extends AppLocalizations {
   String get accessibilityDisclosureDecline => 'Не соглашаться';
 
   @override
-  String get setupTutorialReadyTitle => 'Dextop готов к работе';
+  String get setupTutorialReadyTitle => 'Área de Trabalho Móvel готов к работе';
 
   @override
   String get setupTutorialReadyDescription =>
-      'После выполнения этих двух шагов можно приступать к работе с Dextop.';
+      'После выполнения этих двух шагов можно приступать к работе с Área de Trabalho Móvel.';
 
   @override
   String get setupDisclaimer =>
@@ -349,7 +352,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get setupShizukuDescription =>
-      'Dextop использует Shizuku для безопасного доступа к функциям системы.';
+      'Área de Trabalho Móvel использует Shizuku для безопасного доступа к функциям системы.';
 
   @override
   String get setupInstallShizuku => 'Установить Shizuku';
@@ -368,7 +371,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get setupValidate => 'Настройка завершена? Проверить';
 
   @override
-  String get setupDextopPermission => 'Разрешения для Dextop';
+  String get setupDextopPermission => 'Разрешения для Área de Trabalho Móvel';
 
   @override
   String get setupInstallPlay => 'Установить из Google Play';
@@ -381,7 +384,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get setupProviderChoiceDescription =>
-      'Установлено несколько служб, совместимых с Shizuku. Выберите службу для Dextop.';
+      'Установлено несколько служб, совместимых с Shizuku. Выберите службу для Área de Trabalho Móvel.';
 
   @override
   String get setupUseStellar => 'Stellar (рекомендуется)';
@@ -394,7 +397,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get setupRootVerified =>
-      'Подтверждено, что Shizuku работает с правами root. Теперь предоставьте разрешение Dextop.';
+      'Подтверждено, что Shizuku работает с правами root. Теперь предоставьте разрешение Área de Trabalho Móvel.';
 
   @override
   String get setupRootNotRunning =>
@@ -496,33 +499,35 @@ class AppLocalizationsRu extends AppLocalizations {
   String get ui4Divisions => 'Разделение на четыре области';
 
   @override
-  String get uiDextopIsReady => 'Dextop готов.';
+  String get uiDextopIsReady => 'Área de Trabalho Móvel готов.';
 
   @override
-  String get uiDextopStopping => 'Завершение работы Dextop';
+  String get uiDextopStopping => 'Завершение работы Área de Trabalho Móvel';
 
   @override
-  String get uiStopDextop => 'Остановить Dextop';
+  String get uiStopDextop => 'Остановить Área de Trabalho Móvel';
 
   @override
-  String get uiDextopCanBeRestarted => 'Сеанс Dextop можно возобновить';
+  String get uiDextopCanBeRestarted =>
+      'Сеанс Área de Trabalho Móvel можно возобновить';
 
   @override
-  String get uiOpenDextop => 'Открыть Dextop';
+  String get uiOpenDextop => 'Открыть Área de Trabalho Móvel';
 
   @override
-  String get uiCreateADextopSession => 'Создать сеанс Dextop';
+  String get uiCreateADextopSession => 'Создать сеанс Área de Trabalho Móvel';
 
   @override
-  String get uiDextopWorkspaceJson => 'Рабочая область Dextop в формате JSON';
+  String get uiDextopWorkspaceJson =>
+      'Рабочая область Área de Trabalho Móvel в формате JSON';
 
   @override
   String get uiPerformanceDisplayOnDextop =>
-      'Показывать панель производительности в Dextop';
+      'Показывать панель производительности в Área de Trabalho Móvel';
 
   @override
   String get uiDoNotSleepWhileRunningDextop =>
-      'Не выключать экран во время работы Dextop';
+      'Не выключать экран во время работы Área de Trabalho Móvel';
 
   @override
   String get uiRealTimeDisplayOfFpsMemoryPower =>
@@ -699,7 +704,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get virtualPointerSoftwareDescription =>
-      'Использовать исходный курсор Dextop';
+      'Использовать исходный курсор Área de Trabalho Móvel';
 
   @override
   String get virtualMouseScrollDirection => 'Направление прокрутки';
@@ -754,7 +759,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get displaySupportedResolutions => 'Поддерживаемые разрешения';
 
   @override
-  String get displayDextopResolutionTitle => 'Разрешение сеанса Dextop';
+  String get displayDextopResolutionTitle =>
+      'Разрешение сеанса Área de Trabalho Móvel';
 
   @override
   String get displayDextopResolutionSummary =>
@@ -1066,7 +1072,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get uiRunningAutoPlus => 'Работает (Auto+)';
 
   @override
-  String get uiStartPhoneDextop => 'Запустить Dextop на этом телефоне';
+  String get uiStartPhoneDextop =>
+      'Запустить Área de Trabalho Móvel на этом телефоне';
 
   @override
   String get uiStopAndroidAuto => 'Остановить (Android Auto)';
@@ -1099,7 +1106,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get uiUnavailable => 'Unavailable';
 
   @override
-  String get appName => 'Dextop';
+  String get appName => 'Área de Trabalho Móvel';
 
   @override
   String get uiAndroid => 'Android';
@@ -1108,7 +1115,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get uiGitHub => 'GitHub';
 
   @override
-  String get uiGitHubRepository => 'NarYuki/Dextop';
+  String get uiGitHubRepository => 'belchiorjuniorr2/area-de-trabalho-movel';
 
   @override
   String get diagnosticLog => 'Журнал работы и диагностика устройства';
@@ -1165,21 +1172,21 @@ class AppLocalizationsRu extends AppLocalizations {
   String get reportEmailUnavailable => 'Не удалось открыть почтовое приложение';
 
   @override
-  String get reportTemplateTitle => 'Отчёт о работе Dextop';
+  String get reportTemplateTitle => 'Отчёт о работе Área de Trabalho Móvel';
 
   @override
   String get reportNoNotes => 'Нет';
 
   @override
   String get reportNoSessionLog =>
-      'Журнал завершённого сеанса Dextop пока отсутствует.';
+      'Журнал завершённого сеанса Área de Trabalho Móvel пока отсутствует.';
 
   @override
   String get reportFeatureStartup =>
       'Запуск приложения и обнаружение устройства';
 
   @override
-  String get reportFeatureSession => 'Запуск сеанса Dextop';
+  String get reportFeatureSession => 'Запуск сеанса Área de Trabalho Móvel';
 
   @override
   String get reportFeatureVirtualDisplay => 'Зеркалирование VirtualDisplay';
@@ -1247,7 +1254,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungExperimentalDescription =>
-      'Изменение скрытых параметров DeX из Dextop';
+      'Изменение скрытых параметров DeX из Área de Trabalho Móvel';
 
   @override
   String get samsungSettingsTitle => 'Настройки рабочего стола Samsung';
@@ -1263,7 +1270,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungPermanentWarning =>
-      'Эти параметры могут постоянно влиять на Dextop и обычную среду рабочего стола до их сброса.';
+      'Эти параметры могут постоянно влиять на Área de Trabalho Móvel и обычную среду рабочего стола до их сброса.';
 
   @override
   String get samsungAcceptEnable => 'Принять и включить';
@@ -1276,7 +1283,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungSettingsIntro =>
-      'Напрямую изменяет значения DeX, скрытые настройками Samsung при отсутствии внешнего дисплея. Изменения влияют на Samsung DeX и соответствующие функции Dextop.';
+      'Напрямую изменяет значения DeX, скрытые настройками Samsung при отсутствии внешнего дисплея. Изменения влияют на Samsung DeX и соответствующие функции Área de Trabalho Móvel.';
 
   @override
   String get samsungResolution => 'Разрешение внешнего экрана';
@@ -1307,7 +1314,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungInputLockedWhileRunning =>
-      'Конфликтующие параметры ввода Samsung нельзя менять во время работы Dextop.';
+      'Конфликтующие параметры ввода Samsung нельзя менять во время работы Área de Trabalho Móvel.';
 
   @override
   String get samsungAutorunTouchpad =>
@@ -1341,7 +1348,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungIncludePhoneDisplay =>
-      'Включить Dextop в топологию дисплеев';
+      'Включить Área de Trabalho Móvel в топологию дисплеев';
 
   @override
   String get samsungMirrorPhoneDisplay => 'Дублировать встроенный экран';
@@ -1403,7 +1410,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungHelp_resolution =>
-      'Определяет рабочую область, в которой Samsung Desktop размещает приложения и окна. Высокое разрешение вмещает больше содержимого, но уменьшает элементы и повышает нагрузку. Низкое улучшает читаемость и производительность. Настройка хранится отдельно от разрешения Dextop.';
+      'Определяет рабочую область, в которой Samsung Desktop размещает приложения и окна. Высокое разрешение вмещает больше содержимого, но уменьшает элементы и повышает нагрузку. Низкое улучшает читаемость и производительность. Настройка хранится отдельно от разрешения Área de Trabalho Móvel.';
 
   @override
   String get samsungHelp_screenZoom =>
@@ -1431,7 +1438,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungHelp_autorunTouchpad =>
-      'При включении панель Samsung автоматически открывается на телефоне после подключения и работает как тачпад ноутбука. Она дублирует ввод Dextop, поэтому параметр скрыт во время сеанса Dextop.';
+      'При включении панель Samsung автоматически открывается на телефоне после подключения и работает как тачпад ноутбука. Она дублирует ввод Área de Trabalho Móvel, поэтому параметр скрыт во время сеанса Área de Trabalho Móvel.';
 
   @override
   String get samsungHelp_touchpadScrollDirection =>
@@ -1439,11 +1446,11 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungHelp_touchKeyboard =>
-      'При включении экранная клавиатура появляется при выборе поля ввода в режиме рабочего стола. Это удобно без физической клавиатуры, но пересекается с управлением Dextop и скрывается во время сеанса.';
+      'При включении экранная клавиатура появляется при выборе поля ввода в режиме рабочего стола. Это удобно без физической клавиатуры, но пересекается с управлением Área de Trabalho Móvel и скрывается во время сеанса.';
 
   @override
   String get samsungHelp_keyboardDex =>
-      'При включении экранная клавиатура доступна даже при подключённой физической клавиатуре — для эмодзи, рукописного и голосового ввода. Она занимает рабочую область и может конфликтовать с IME Dextop.';
+      'При включении экранная клавиатура доступна даже при подключённой физической клавиатуре — для эмодзи, рукописного и голосового ввода. Она занимает рабочую область и может конфликтовать с IME Área de Trabalho Móvel.';
 
   @override
   String get samsungHelp_spenInputMode =>
@@ -1451,11 +1458,11 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungHelp_threeFingerGesture =>
-      'Выполняет выбранное действие Samsung — приложения, Домой, недавние или Назад — по жесту тремя пальцами. Dextop тоже использует три пальца, поэтому параметр скрыт во время его работы.';
+      'Выполняет выбранное действие Samsung — приложения, Домой, недавние или Назад — по жесту тремя пальцами. Área de Trabalho Móvel тоже использует три пальца, поэтому параметр скрыт во время его работы.';
 
   @override
   String get samsungHelp_fourFingerGesture =>
-      'Выполняет выбранное системное действие жестом четырьмя пальцами на поддерживаемой панели. Ускоряет навигацию, но конфликтует с мультитачем Dextop и скрывается во время сеанса.';
+      'Выполняет выбранное системное действие жестом четырьмя пальцами на поддерживаемой панели. Ускоряет навигацию, но конфликтует с мультитачем Área de Trabalho Móvel и скрывается во время сеанса.';
 
   @override
   String get samsungHelp_autoHideTaskbar =>
@@ -1463,7 +1470,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get samsungHelp_dexCommandArrow =>
-      'При включении отображается стрелка для вызова команд Samsung. Она ускоряет доступ к вспомогательным действиям, но может перекрывать оверлей или краевые жесты Dextop.';
+      'При включении отображается стрелка для вызова команд Samsung. Она ускоряет доступ к вспомогательным действиям, но может перекрывать оверлей или краевые жесты Área de Trabalho Móvel.';
 
   @override
   String get samsungHelp_includePhoneDisplay =>
@@ -1544,7 +1551,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get keyboardThemesStartFirst =>
-      'Сначала запустите Dextop для показа демонстрации.';
+      'Сначала запустите Área de Trabalho Móvel для показа демонстрации.';
 
   @override
   String get keyboardThemesAdd => 'Добавить свою тему';
@@ -1617,7 +1624,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get autoMatchPhoneOrientationDescription =>
-      'При показе Dextop в Auto через зеркало телефона менять ориентацию по соотношению сторон головного устройства.';
+      'При показе Área de Trabalho Móvel в Auto через зеркало телефона менять ориентацию по соотношению сторон головного устройства.';
 
   @override
   String get autoExperimentalFeatures => 'Экспериментальные функции';
@@ -1635,11 +1642,11 @@ class AppLocalizationsRu extends AppLocalizations {
       'Android Auto использует отдельный рабочий стол, размер которого соответствует подключённому головному устройству.';
 
   @override
-  String get setupEmbeddedTitle => 'Настройка доступа Dextop';
+  String get setupEmbeddedTitle => 'Настройка доступа Área de Trabalho Móvel';
 
   @override
   String get setupEmbeddedDescription =>
-      'Подключите встроенную службу доступа Dextop.\n\n1. Разрешите уведомления.\n2. Откройте и включите беспроводную отладку.\n3. Нажмите «Сопряжение устройства с помощью кода».\n4. Введите шестизначный код Android в поле уведомления.';
+      'Подключите встроенную службу доступа Área de Trabalho Móvel.\n\n1. Разрешите уведомления.\n2. Откройте и включите беспроводную отладку.\n3. Нажмите «Сопряжение устройства с помощью кода».\n4. Введите шестизначный код Android в поле уведомления.';
 
   @override
   String get setupEmbeddedSetupDescription =>
@@ -1671,14 +1678,16 @@ class AppLocalizationsRu extends AppLocalizations {
   String get setupEmbeddedPair => 'Сопрячь и запустить';
 
   @override
-  String get setupEmbeddedPairAndStart => 'Настроить доступ Dextop';
+  String get setupEmbeddedPairAndStart =>
+      'Настроить доступ Área de Trabalho Móvel';
 
   @override
-  String get setupEmbeddedIncluded => 'Служба доступа Dextop включена';
+  String get setupEmbeddedIncluded =>
+      'Служба доступа Área de Trabalho Móvel включена';
 
   @override
   String get setupEmbeddedConnectedDescription =>
-      'Разрешение доступа Dextop готово к использованию.';
+      'Разрешение доступа Área de Trabalho Móvel готово к использованию.';
 
   @override
   String get setupEmbeddedConfigure => 'Сопряжение беспроводной отладки';
@@ -1688,7 +1697,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get setupEmbeddedStartFailed =>
-      'Не удалось запустить службу доступа Dextop';
+      'Не удалось запустить службу доступа Área de Trabalho Móvel';
 
   @override
   String get setupEmbeddedNotificationPermission => 'Разрешение на уведомления';
@@ -1728,7 +1737,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get experimentalCoverDisplayDescription =>
-      'Используйте Android или отдельный сеанс Dextop на внешнем экране складного устройства';
+      'Используйте Android или отдельный сеанс Área de Trabalho Móvel на внешнем экране складного устройства';
 
   @override
   String get experimentalCoverDisplayUnavailable =>
@@ -1747,14 +1756,14 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get experimentalBlackBerryModeDescription =>
-      'Компактная раскладка в стиле физической клавиатуры для телефона в панели Dextop';
+      'Компактная раскладка в стиле физической клавиатуры для телефона в панели Área de Trabalho Móvel';
 
   @override
   String get blackBerryAutoStart => 'Автоматически открывать режим BlackBerry';
 
   @override
   String get blackBerryAutoStartDescription =>
-      'Автоматически показывать клавиатуру BlackBerry при запуске сеанса Dextop в портретном режиме';
+      'Автоматически показывать клавиатуру BlackBerry при запуске сеанса Área de Trabalho Móvel в портретном режиме';
 
   @override
   String get keyboardHaptics => 'Виброотклик клавиатуры';
@@ -1785,15 +1794,15 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get nativeCoverDisplayDescription =>
-      'Открывает Android или создаёт независимый сеанс Dextop на внешнем экране';
+      'Открывает Android или создаёт независимый сеанс Área de Trabalho Móvel на внешнем экране';
 
   @override
   String get nativeCoverAndroidDescription =>
-      'Использует внешний экран для обычного Android, не завершая сеанс Dextop на основном экране.';
+      'Использует внешний экран для обычного Android, не завершая сеанс Área de Trabalho Móvel на основном экране.';
 
   @override
   String get nativeCoverDextopDescription =>
-      'Создаёт на внешнем экране независимый от основного сеанс Dextop.';
+      'Создаёт на внешнем экране независимый от основного сеанс Área de Trabalho Móvel.';
 
   @override
   String get nativeOpenCoverAndroid => 'Открыть Android на внешнем экране';
@@ -1802,10 +1811,11 @@ class AppLocalizationsRu extends AppLocalizations {
   String get nativeStopCoverAndroid => 'Завершить сеанс Android';
 
   @override
-  String get nativeStartCoverDextop => 'Создать сеанс Dextop на внешнем экране';
+  String get nativeStartCoverDextop =>
+      'Создать сеанс Área de Trabalho Móvel на внешнем экране';
 
   @override
-  String get nativeStopCoverDextop => 'Завершить сеанс Dextop';
+  String get nativeStopCoverDextop => 'Завершить сеанс Área de Trabalho Móvel';
 
   @override
   String get nativeCoverDisplayFailed => 'Не удалось изменить внешний экран';
@@ -1878,15 +1888,15 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get nativePhysicalMouseDemo =>
-      'Переключает физическую мышь между Android и Dextop. Доступно на поддерживаемых устройствах при подключённом внешнем дисплее.';
+      'Переключает физическую мышь между Android и Área de Trabalho Móvel. Доступно на поддерживаемых устройствах при подключённом внешнем дисплее.';
 
   @override
   String get nativePhysicalKeyboardDemo =>
-      'Переключает физическую клавиатуру между Android и Dextop. Доступно на поддерживаемых устройствах при подключённом внешнем дисплее.';
+      'Переключает физическую клавиатуру между Android и Área de Trabalho Móvel. Доступно на поддерживаемых устройствах при подключённом внешнем дисплее.';
 
   @override
   String get nativeTheThreeFingerGestureIsAnEssential =>
-      'Жест тремя пальцами необходим при работе с Dextop.\\nНажмите кнопку, чтобы увидеть описание её функции.';
+      'Жест тремя пальцами необходим при работе с Área de Trabalho Móvel.\\nНажмите кнопку, чтобы увидеть описание её функции.';
 
   @override
   String get nativeAsusZenuiRogUiDesktop => 'Рабочий стол ASUS ZenUI/ROG UI';
@@ -1900,22 +1910,23 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get nativeAdjustTheVolumeOfPlaybackOnDextop =>
-      'Отрегулируйте громкость воспроизведения на Dextop';
+      'Отрегулируйте громкость воспроизведения на Área de Trabalho Móvel';
 
   @override
   String get nativeSwitchBetweenPortraitAndLandscapeOrientationOf =>
-      'Переключение между книжной и альбомной ориентацией Dextop';
+      'Переключение между книжной и альбомной ориентацией Área de Trabalho Móvel';
 
   @override
   String get nativeSwitchDextopResolutionAndDpi =>
-      'Переключение разрешения Dextop и DPI';
+      'Переключение разрешения Área de Trabalho Móvel и DPI';
 
   @override
   String get nativePauseDextopAndReturnYourAndroidTo =>
-      'Приостановить Dextop и вернуть Android в состояние обычного управления.';
+      'Приостановить Área de Trabalho Móvel и вернуть Android в состояние обычного управления.';
 
   @override
-  String get nativeTerminateYourDextopSession => 'Завершите сеанс Dextop';
+  String get nativeTerminateYourDextopSession =>
+      'Завершите сеанс Área de Trabalho Móvel';
 
   @override
   String get nativeAdjustTheBrightnessOfTheDesktopDisplay =>
@@ -2127,14 +2138,14 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get nativeOpenDextopWithYourSavedAppPlacement =>
-      'Откройте Dextop с сохраненным местом размещения приложения.';
+      'Откройте Área de Trabalho Móvel с сохраненным местом размещения приложения.';
 
   @override
   String get nativeSaveAndApply => 'Сохраните и примените';
 
   @override
   String get nativeFailedToSaveUnableToRetrieveRunning =>
-      'Не удалось сохранить: невозможно получить запущенные приложения на Dextop.';
+      'Не удалось сохранить: невозможно получить запущенные приложения на Área de Trabalho Móvel.';
 
   @override
   String get nativeFailedToSaveFailedToWriteTo =>
@@ -2149,7 +2160,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get nativePleaseStartDextopFirst =>
-      'Пожалуйста, сначала запустите Dextop';
+      'Пожалуйста, сначала запустите Área de Trabalho Móvel';
 
   @override
   String get nativeReconnect => 'Переподключиться';
@@ -2210,7 +2221,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get nativeSendsTheTouchedPositionDirectlyToDextop =>
-      'Отправляет положение касания непосредственно в Dextop как касание';
+      'Отправляет положение касания непосредственно в Área de Trabalho Móvel как касание';
 
   @override
   String get nativeAddAndApply => 'Добавить и применить';
@@ -2252,20 +2263,21 @@ class AppLocalizationsRu extends AppLocalizations {
   }
 
   @override
-  String get appUpdatedMessage => 'Dextop обновлён до последней версии.';
+  String get appUpdatedMessage =>
+      'Área de Trabalho Móvel обновлён до последней версии.';
 
   @override
-  String get androidSwipeImeLabel => 'Ввод жестами Dextop';
+  String get androidSwipeImeLabel => 'Ввод жестами Área de Trabalho Móvel';
 
   @override
   String get androidAccessibilityServiceDescription =>
-      'Управляет виртуальным дисплеем, вводом и панелью управления Dextop';
+      'Управляет виртуальным дисплеем, вводом и панелью управления Área de Trabalho Móvel';
 
   @override
   String get androidEmbeddedPairingChannel => 'Настройка встроенного доступа';
 
   @override
-  String get androidEmbeddedPairingTitle => 'Сопряжение Dextop';
+  String get androidEmbeddedPairingTitle => 'Сопряжение Área de Trabalho Móvel';
 
   @override
   String get androidEmbeddedPairingNotificationText =>
@@ -2278,14 +2290,16 @@ class AppLocalizationsRu extends AppLocalizations {
   String get androidEmbeddedPairingEnterCode => 'Ввести код сопряжения';
 
   @override
-  String get androidEmbeddedPairingSuccess => 'Dextop подключён';
+  String get androidEmbeddedPairingSuccess =>
+      'Área de Trabalho Móvel подключён';
 
   @override
   String get androidEmbeddedPairingSuccessMessage =>
-      'Сопряжение завершено. Вернитесь в Dextop.';
+      'Сопряжение завершено. Вернитесь в Área de Trabalho Móvel.';
 
   @override
-  String get androidEmbeddedPairingFailed => 'Не удалось подключить Dextop';
+  String get androidEmbeddedPairingFailed =>
+      'Не удалось подключить Área de Trabalho Móvel';
 
   @override
   String get androidEmbeddedPairingInvalidCode => 'Введите шестизначный код';
@@ -2317,25 +2331,25 @@ class AppLocalizationsRu extends AppLocalizations {
       'Использует Samsung DeX или оконный режим Android без изменений';
 
   @override
-  String get windowManagerPlasma => 'Dextop Plasma (собственный WM)';
+  String get windowManagerPlasma => 'Plasma (собственный WM)';
 
   @override
   String get windowManagerPlasmaDescription =>
-      'Dextop рисует рабочий стол в стиле KDE Plasma 6: панель, оформление окон, мозаику и виртуальные рабочие столы';
+      'Área de Trabalho Móvel рисует рабочий стол в стиле KDE Plasma 6: панель, оформление окон, мозаику и виртуальные рабочие столы';
 
   @override
-  String get windowManagerPlasmaV2 => 'Dextop Plasma v2 (композитный WM)';
+  String get windowManagerPlasmaV2 => 'Plasma v2 (композитный WM)';
 
   @override
   String get windowManagerPlasmaV2Description =>
-      'Запускает каждое приложение на отдельном виртуальном дисплее и показывает его в окне Breeze, которое рисует Dextop: перетаскивание, изменение размера, анимации и виртуальные рабочие столы работают внутри Dextop. Панель управляет сетью, звуком и питанием.';
+      'Запускает каждое приложение на отдельном виртуальном дисплее и показывает его в окне Breeze, которое рисует Área de Trabalho Móvel: перетаскивание, изменение размера, анимации и виртуальные рабочие столы работают внутри Área de Trabalho Móvel. Панель управляет сетью, звуком и питанием.';
 
   @override
   String get windowManagerAppliedLive =>
       'Применено к запущенному рабочему столу';
 
   @override
-  String get plasmaSettingsTitle => 'Настройки Dextop Plasma';
+  String get plasmaSettingsTitle => 'Настройки Plasma';
 
   @override
   String get plasmaSettingsSummary =>
@@ -2456,7 +2470,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get nativePlasmaDeviceSpeaker => 'Динамик устройства';
 
   @override
-  String get nativePlasmaDextopSettings => 'Настройки Dextop';
+  String get nativePlasmaDextopSettings => 'Настройки Área de Trabalho Móvel';
 
   @override
   String get nativePlasmaDischarging => 'Разряжается';
@@ -2574,7 +2588,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get nativePlasmaShutDown => 'Выключить';
 
   @override
-  String get nativePlasmaShuttingDownIn => 'Dextop завершится через %1\$d с';
+  String get nativePlasmaShuttingDownIn =>
+      'Área de Trabalho Móvel завершится через %1\$d с';
 
   @override
   String get nativePlasmaSleep => 'Сон';
@@ -2744,14 +2759,14 @@ class AppLocalizationsRu extends AppLocalizations {
       'Linux работает только на устройствах arm64.';
 
   @override
-  String get linuxRequiresPlasma => 'Linux доступен только с Dextop Plasma v2.';
+  String get linuxRequiresPlasma => 'Linux доступен только с Plasma v2.';
 
   @override
   String get linuxSwitchToPlasma => 'Перейти на Plasma v2';
 
   @override
   String get linuxRequiresPrivilege =>
-      'Linux использует встроенную службу доступа Dextop. Подключите её через настройку доступа Dextop. Внешние приложения Stellar и Shizuku необязательны.';
+      'Linux использует встроенную службу доступа Área de Trabalho Móvel. Подключите её через настройку доступа Área de Trabalho Móvel. Внешние приложения Stellar и Shizuku необязательны.';
 
   @override
   String get linuxEnable => 'Включить Linux';
@@ -2775,7 +2790,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get linuxStorageNote =>
-      'Контейнеры хранятся в /data/local/tmp/dextop/linux и остаются после удаления Dextop. Удаляйте ненужные здесь.';
+      'Контейнеры хранятся в /data/local/tmp/dextop/linux и остаются после удаления Área de Trabalho Móvel. Удаляйте ненужные здесь.';
 
   @override
   String get linuxInstall => 'Установить';
@@ -2831,7 +2846,8 @@ class AppLocalizationsRu extends AppLocalizations {
   String get linuxOpenDesktop => 'Открыть рабочий стол';
 
   @override
-  String get linuxStartPlasmaFirst => 'Сначала запустите Dextop с Plasma v2.';
+  String get linuxStartPlasmaFirst =>
+      'Сначала запустите Área de Trabalho Móvel с Plasma v2.';
 
   @override
   String get nativePlasmaShowKeyboard => 'Показать клавиатуру';

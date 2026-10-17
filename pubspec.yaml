@@ -1,7 +1,7 @@
 name: free_dextop
-description: Turn an Android device into a flexible desktop workspace.
+description: Área de Trabalho Móvel — transforme seu Android em um ambiente de desktop flexível (fork em pt-BR do Dextop).
 publish_to: none
-version: 1.7.1+38
+version: 1.0.0+1
 
 environment:
   sdk: ^3.11.4
@@ -14,8 +14,6 @@ dependencies:
   intl: any
   cupertino_icons: ^1.0.8
   shared_preferences: ^2.5.5
-  firebase_core: ^4.2.1
-  firebase_analytics: ^12.0.4
   in_app_update: ^4.2.5
   archive: ^4.0.7
   file_picker: ^10.3.3

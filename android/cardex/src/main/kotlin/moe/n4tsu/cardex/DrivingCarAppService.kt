@@ -458,7 +458,7 @@ private class DrivingScreen(context: androidx.car.app.CarContext) : Screen(conte
     }
 
     companion object {
-        private const val DEXTOP_PACKAGE = "moe.n4tsu.dextop"
+        private const val DEXTOP_PACKAGE = "br.com.belchior.areadetrabalhomovel"
         private const val RELAY_SERVICE = "moe.n4tsu.dextop.CardexRelayService"
         private const val MSG_START = 1
         private const val MSG_TOUCH = 2

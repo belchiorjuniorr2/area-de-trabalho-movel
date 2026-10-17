@@ -31,13 +31,14 @@ LOCALES = {
     "pt_BR": "app_pt_BR.arb",
 }
 ANDROID_RESOURCE_DIRS = {
-    "ja": "values",
+    "pt_BR": "values",
+    "ja": "values-ja",
     "en": "values-en",
     "zh": "values-zh",
     "ko": "values-ko",
     "ru": "values-ru",
     "pt": "values-pt",
-    "pt_BR": "values-pt-rBR",
+    "pt_BR_regional": "values-pt-rBR",
 }
 ANDROID_KEYS = {
     "androidSwipeImeLabel": "dextop_swipe_ime_label",
@@ -96,8 +97,8 @@ def render_native(catalog: dict[str, dict[str, str]]) -> str:
         "    fun text(key: String): String {",
         "        val locale = Locale.getDefault()",
         '        val regional = if (locale.country.isBlank()) locale.language else "${locale.language}_${locale.country}"',
-        '        return ((values[regional] ?: values[locale.language] ?: values.getValue("en"))[key]',
-        '            ?: values.getValue("en")[key]',
+        '        return ((values[regional] ?: values[locale.language] ?: values.getValue("pt_BR"))[key]',
+        '            ?: values.getValue("pt_BR")[key]',
         '            ?: key).replace("\\\\n", "\\n")',
         "    }",
         "",
@@ -116,8 +117,8 @@ def render_android(arb: dict[str, str], default: bool) -> str:
     lines = ['<?xml version="1.0" encoding="utf-8"?>', "<resources>"]
     if default:
         lines.extend([
-            '    <string name="app_name" translatable="false">Dextop</string>',
-            '    <string name="quick_settings_tile_label" translatable="false">Dextop</string>',
+            '    <string name="app_name" translatable="false">Área de Trabalho Móvel</string>',
+            '    <string name="quick_settings_tile_label" translatable="false">Área Móvel</string>',
         ])
     for arb_key, resource_key in ANDROID_KEYS.items():
         lines.append(f'    <string name="{resource_key}">{escape(arb[arb_key])}</string>')
@@ -133,7 +134,7 @@ def main() -> None:
     generated = render_native(catalog)
     android_outputs = {
         ROOT / "android" / "app" / "src" / "main" / "res" / directory / "strings.xml":
-            render_android(catalog[locale], locale == "ja")
+            render_android(catalog[locale.replace("_regional", "")], directory == "values")
         for locale, directory in ANDROID_RESOURCE_DIRS.items()
     }
     if args.check:

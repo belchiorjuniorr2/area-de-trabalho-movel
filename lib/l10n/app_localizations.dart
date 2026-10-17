@@ -109,5768 +109,5768 @@ abstract class AppLocalizations {
 
   /// No description provided for @home.
   ///
-  /// In ja, this message translates to:
-  /// **'ホーム'**
+  /// In pt_BR, this message translates to:
+  /// **'Início'**
   String get home;
 
   /// No description provided for @settings.
   ///
-  /// In ja, this message translates to:
-  /// **'設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações'**
   String get settings;
 
   /// No description provided for @resolution.
   ///
-  /// In ja, this message translates to:
-  /// **'解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução'**
   String get resolution;
 
   /// No description provided for @displayMagnification.
   ///
-  /// In ja, this message translates to:
-  /// **'表示倍率'**
+  /// In pt_BR, this message translates to:
+  /// **'Ampliação da área de trabalho'**
   String get displayMagnification;
 
   /// No description provided for @displayMagnificationDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップ全体を見やすく拡大します。倍率を上げるほど作業領域は小さくなります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Aumenta toda a área de trabalho para facilitar a leitura. Valores maiores deixam menos espaço livre.'**
   String get displayMagnificationDescription;
 
   /// No description provided for @magnifyWindowsWithDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'ウィンドウにも倍率を適用'**
+  /// In pt_BR, this message translates to:
+  /// **'Aplicar escala às janelas'**
   String get magnifyWindowsWithDisplay;
 
   /// No description provided for @magnifyWindowsWithDisplayDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ウィンドウ、文字、操作部品も表示倍率に合わせて大きくします。'**
+  /// In pt_BR, this message translates to:
+  /// **'Também amplia janelas, texto e controles de acordo com a escala da tela.'**
   String get magnifyWindowsWithDisplayDescription;
 
   /// No description provided for @theme.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマ'**
+  /// In pt_BR, this message translates to:
+  /// **'Tema'**
   String get theme;
 
   /// No description provided for @system.
   ///
-  /// In ja, this message translates to:
-  /// **'システム'**
+  /// In pt_BR, this message translates to:
+  /// **'Sistema'**
   String get system;
 
   /// No description provided for @light.
   ///
-  /// In ja, this message translates to:
-  /// **'ライト'**
+  /// In pt_BR, this message translates to:
+  /// **'Claro'**
   String get light;
 
   /// No description provided for @dark.
   ///
-  /// In ja, this message translates to:
-  /// **'ダーク'**
+  /// In pt_BR, this message translates to:
+  /// **'Escuro'**
   String get dark;
 
   /// No description provided for @display.
   ///
-  /// In ja, this message translates to:
-  /// **'表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Tela'**
   String get display;
 
   /// No description provided for @secureDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'セキュア表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Tela segura'**
   String get secureDisplay;
 
   /// No description provided for @secureDisplayDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'保護されたコンテンツの表示を許可します'**
+  /// In pt_BR, this message translates to:
+  /// **'Permitir que conteúdo protegido seja exibido'**
   String get secureDisplayDescription;
 
   /// No description provided for @mirrorBackend.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイのミラーリング方式'**
+  /// In pt_BR, this message translates to:
+  /// **'Método de espelhamento da tela'**
   String get mirrorBackend;
 
   /// No description provided for @mirrorBackendAuto.
   ///
-  /// In ja, this message translates to:
-  /// **'自動（互換性優先）'**
+  /// In pt_BR, this message translates to:
+  /// **'Automático (compatibilidade)'**
   String get mirrorBackendAuto;
 
   /// No description provided for @mirrorBackendAutoDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'この端末で利用可能な最適な方式を使用します'**
+  /// In pt_BR, this message translates to:
+  /// **'Usar o melhor método disponível para este dispositivo'**
   String get mirrorBackendAutoDescription;
 
   /// No description provided for @mirrorBackendWindowManager.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'WindowManager'**
   String get mirrorBackendWindowManager;
 
   /// No description provided for @mirrorBackendSurfaceControl.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'SurfaceControl'**
   String get mirrorBackendSurfaceControl;
 
   /// No description provided for @mirrorBackendVirtualDisplay.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'VirtualDisplay'**
   String get mirrorBackendVirtualDisplay;
 
   /// No description provided for @castMode.
   ///
-  /// In ja, this message translates to:
-  /// **'Google Cast方式'**
+  /// In pt_BR, this message translates to:
+  /// **'Método Google Cast'**
   String get castMode;
 
   /// No description provided for @castModeSimple.
   ///
-  /// In ja, this message translates to:
-  /// **'互換モード'**
+  /// In pt_BR, this message translates to:
+  /// **'Compatibilidade'**
   String get castModeSimple;
 
   /// No description provided for @castModeSimpleDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'接続の安定性と幅広い表示機器との互換性を優先します'**
+  /// In pt_BR, this message translates to:
+  /// **'Prioriza a estabilidade da conexão e a compatibilidade com mais telas'**
   String get castModeSimpleDescription;
 
   /// No description provided for @castModeReceiver.
   ///
-  /// In ja, this message translates to:
-  /// **'低遅延モード'**
+  /// In pt_BR, this message translates to:
+  /// **'Baixa latência'**
   String get castModeReceiver;
 
   /// No description provided for @castModeReceiverDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'操作の応答性を優先して映像を転送します'**
+  /// In pt_BR, this message translates to:
+  /// **'Prioriza controles ágeis durante a transmissão da tela'**
   String get castModeReceiverDescription;
 
   /// No description provided for @updateAvailable.
   ///
-  /// In ja, this message translates to:
-  /// **'アップデートがあります'**
+  /// In pt_BR, this message translates to:
+  /// **'Atualização disponível'**
   String get updateAvailable;
 
   /// No description provided for @updateAvailableTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'GitHubに最新リリースが公開されています！'**
+  /// In pt_BR, this message translates to:
+  /// **'Uma nova versão está disponível no GitHub!'**
   String get updateAvailableTitle;
 
   /// No description provided for @playUpdateAvailableTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Google Playにアップデートがあります'**
+  /// In pt_BR, this message translates to:
+  /// **'Uma atualização está disponível no Google Play'**
   String get playUpdateAvailableTitle;
 
   /// No description provided for @playUpdateAvailableDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Google Playから最新バージョンに更新できます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Você pode atualizar para a versão mais recente através do Google Play.'**
   String get playUpdateAvailableDescription;
 
   /// No description provided for @updateNow.
   ///
-  /// In ja, this message translates to:
-  /// **'今すぐ更新'**
+  /// In pt_BR, this message translates to:
+  /// **'Atualizar agora'**
   String get updateNow;
 
   /// No description provided for @checkForUpdates.
   ///
-  /// In ja, this message translates to:
-  /// **'更新を確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Verificar atualizações'**
   String get checkForUpdates;
 
   /// No description provided for @checkingForUpdates.
   ///
-  /// In ja, this message translates to:
-  /// **'更新情報を取得しています'**
+  /// In pt_BR, this message translates to:
+  /// **'Obtendo informações de atualização'**
   String get checkingForUpdates;
 
   /// No description provided for @updateNotChecked.
   ///
-  /// In ja, this message translates to:
-  /// **'更新情報をまだ取得していません'**
+  /// In pt_BR, this message translates to:
+  /// **'As informações de atualização ainda não foram obtidas'**
   String get updateNotChecked;
 
   /// No description provided for @upToDate.
   ///
-  /// In ja, this message translates to:
-  /// **'最新バージョンです'**
+  /// In pt_BR, this message translates to:
+  /// **'Você está com a versão mais recente'**
   String get upToDate;
 
   /// No description provided for @updateCheckFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'更新情報を取得できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível obter as informações de atualização'**
   String get updateCheckFailed;
 
   /// No description provided for @currentVersion.
   ///
-  /// In ja, this message translates to:
-  /// **'現在のバージョン'**
+  /// In pt_BR, this message translates to:
+  /// **'Atual'**
   String get currentVersion;
 
   /// No description provided for @latestVersion.
   ///
-  /// In ja, this message translates to:
-  /// **'最新バージョン'**
+  /// In pt_BR, this message translates to:
+  /// **'Mais recente'**
   String get latestVersion;
 
   /// No description provided for @openOnGitHub.
   ///
-  /// In ja, this message translates to:
-  /// **'GitHubを開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir no GitHub'**
   String get openOnGitHub;
 
   /// No description provided for @close.
   ///
-  /// In ja, this message translates to:
-  /// **'閉じる'**
+  /// In pt_BR, this message translates to:
+  /// **'Fechar'**
   String get close;
 
   /// No description provided for @deviceInfo.
   ///
-  /// In ja, this message translates to:
-  /// **'端末情報'**
+  /// In pt_BR, this message translates to:
+  /// **'Informações do dispositivo'**
   String get deviceInfo;
 
   /// No description provided for @desktopMode.
   ///
-  /// In ja, this message translates to:
-  /// **'使用するデスクトップモード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo desktop em uso'**
   String get desktopMode;
 
   /// No description provided for @accessibilitySettings.
   ///
-  /// In ja, this message translates to:
-  /// **'アクセシビリティ設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações de acessibilidade'**
   String get accessibilitySettings;
 
   /// No description provided for @accessibilityDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopのサービス設定を開きます'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir as configurações do serviço da Área de Trabalho Móvel'**
   String get accessibilityDescription;
 
   /// No description provided for @appInfo.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリ情報'**
+  /// In pt_BR, this message translates to:
+  /// **'Informações do app'**
   String get appInfo;
 
   /// No description provided for @appInfoEmbeddedBinder.
   ///
-  /// In ja, this message translates to:
-  /// **'内蔵Binder'**
+  /// In pt_BR, this message translates to:
+  /// **'Binder embutido'**
   String get appInfoEmbeddedBinder;
 
   /// No description provided for @appInfoEmbeddedBinderIncluded.
   ///
-  /// In ja, this message translates to:
-  /// **'このビルドに内蔵されています'**
+  /// In pt_BR, this message translates to:
+  /// **'Incluído nesta compilação'**
   String get appInfoEmbeddedBinderIncluded;
 
   /// No description provided for @appInfoEmbeddedBinderNotIncluded.
   ///
-  /// In ja, this message translates to:
-  /// **'このビルドには内蔵されていません'**
+  /// In pt_BR, this message translates to:
+  /// **'Não incluído nesta compilação'**
   String get appInfoEmbeddedBinderNotIncluded;
 
   /// No description provided for @appInfoEmbeddedBinderProvider.
   ///
-  /// In ja, this message translates to:
-  /// **'使用状態'**
+  /// In pt_BR, this message translates to:
+  /// **'Status de uso'**
   String get appInfoEmbeddedBinderProvider;
 
   /// No description provided for @appInfoEmbeddedBinderSelected.
   ///
-  /// In ja, this message translates to:
-  /// **'使用中'**
+  /// In pt_BR, this message translates to:
+  /// **'Em uso'**
   String get appInfoEmbeddedBinderSelected;
 
   /// No description provided for @appInfoEmbeddedBinderStandby.
   ///
-  /// In ja, this message translates to:
-  /// **'外部プロバイダーを使用中'**
+  /// In pt_BR, this message translates to:
+  /// **'Usando um provedor externo'**
   String get appInfoEmbeddedBinderStandby;
 
   /// No description provided for @appInfoEmbeddedBinderConnection.
   ///
-  /// In ja, this message translates to:
-  /// **'Binder接続'**
+  /// In pt_BR, this message translates to:
+  /// **'Conexão com o binder'**
   String get appInfoEmbeddedBinderConnection;
 
   /// No description provided for @appInfoEmbeddedBinderPermission.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop権限'**
+  /// In pt_BR, this message translates to:
+  /// **'Permissão da Área de Trabalho Móvel'**
   String get appInfoEmbeddedBinderPermission;
 
   /// No description provided for @appInfoEmbeddedBinderNotifications.
   ///
-  /// In ja, this message translates to:
-  /// **'通知権限'**
+  /// In pt_BR, this message translates to:
+  /// **'Permissão de notificação'**
   String get appInfoEmbeddedBinderNotifications;
 
   /// No description provided for @appInfoStatusConnected.
   ///
-  /// In ja, this message translates to:
-  /// **'接続済み'**
+  /// In pt_BR, this message translates to:
+  /// **'Conectado'**
   String get appInfoStatusConnected;
 
   /// No description provided for @appInfoStatusDisconnected.
   ///
-  /// In ja, this message translates to:
-  /// **'未接続'**
+  /// In pt_BR, this message translates to:
+  /// **'Desconectado'**
   String get appInfoStatusDisconnected;
 
   /// No description provided for @appInfoStatusGranted.
   ///
-  /// In ja, this message translates to:
-  /// **'許可済み'**
+  /// In pt_BR, this message translates to:
+  /// **'Concedido'**
   String get appInfoStatusGranted;
 
   /// No description provided for @appInfoStatusNotGranted.
   ///
-  /// In ja, this message translates to:
-  /// **'未許可'**
+  /// In pt_BR, this message translates to:
+  /// **'Não concedido'**
   String get appInfoStatusNotGranted;
 
   /// No description provided for @licenses.
   ///
-  /// In ja, this message translates to:
-  /// **'オープンソースライセンス'**
+  /// In pt_BR, this message translates to:
+  /// **'Licenças de código aberto'**
   String get licenses;
 
   /// No description provided for @licensesDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Flutterと使用ライブラリのライセンスを表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Ver as licenças do Flutter e das dependências'**
   String get licensesDescription;
 
   /// No description provided for @landscape.
   ///
-  /// In ja, this message translates to:
-  /// **'横向き'**
+  /// In pt_BR, this message translates to:
+  /// **'Paisagem'**
   String get landscape;
 
   /// No description provided for @portrait.
   ///
-  /// In ja, this message translates to:
-  /// **'縦向き'**
+  /// In pt_BR, this message translates to:
+  /// **'Retrato'**
   String get portrait;
 
   /// No description provided for @stopped.
   ///
-  /// In ja, this message translates to:
-  /// **'停止中'**
+  /// In pt_BR, this message translates to:
+  /// **'Parado'**
   String get stopped;
 
   /// No description provided for @running.
   ///
-  /// In ja, this message translates to:
-  /// **'起動中'**
+  /// In pt_BR, this message translates to:
+  /// **'Em execução'**
   String get running;
 
   /// No description provided for @start.
   ///
-  /// In ja, this message translates to:
-  /// **'起動'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar'**
   String get start;
 
   /// No description provided for @stop.
   ///
-  /// In ja, this message translates to:
-  /// **'停止'**
+  /// In pt_BR, this message translates to:
+  /// **'Parar'**
   String get stop;
 
   /// No description provided for @customAdd.
   ///
-  /// In ja, this message translates to:
-  /// **'カスタム解像度を追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar resolução personalizada'**
   String get customAdd;
 
   /// No description provided for @editResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'解像度を編集'**
+  /// In pt_BR, this message translates to:
+  /// **'Editar resolução'**
   String get editResolution;
 
   /// No description provided for @add.
   ///
-  /// In ja, this message translates to:
-  /// **'追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar'**
   String get add;
 
   /// No description provided for @save.
   ///
-  /// In ja, this message translates to:
-  /// **'保存'**
+  /// In pt_BR, this message translates to:
+  /// **'Salvar'**
   String get save;
 
   /// No description provided for @deleteResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'この解像度を削除'**
+  /// In pt_BR, this message translates to:
+  /// **'Excluir esta resolução'**
   String get deleteResolution;
 
   /// No description provided for @width.
   ///
-  /// In ja, this message translates to:
-  /// **'幅'**
+  /// In pt_BR, this message translates to:
+  /// **'Largura'**
   String get width;
 
   /// No description provided for @height.
   ///
-  /// In ja, this message translates to:
-  /// **'高さ'**
+  /// In pt_BR, this message translates to:
+  /// **'Altura'**
   String get height;
 
   /// No description provided for @protectedContent.
   ///
-  /// In ja, this message translates to:
-  /// **'保護されたコンテンツの表示を許可します'**
+  /// In pt_BR, this message translates to:
+  /// **'Permitir que conteúdo protegido seja exibido'**
   String get protectedContent;
 
   /// No description provided for @version.
   ///
-  /// In ja, this message translates to:
-  /// **'バージョン 1.0.0'**
+  /// In pt_BR, this message translates to:
+  /// **'Versão 1.0.0'**
   String get version;
 
   /// No description provided for @setupWelcome.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopへようこそ。'**
+  /// In pt_BR, this message translates to:
+  /// **'Boas-vindas à Área de Trabalho Móvel.'**
   String get setupWelcome;
 
   /// No description provided for @setupTagline.
   ///
-  /// In ja, this message translates to:
-  /// **'スマホ単体で、完璧なデスクトップ環境を。'**
+  /// In pt_BR, this message translates to:
+  /// **'Um ambiente de desktop completo no seu celular.'**
   String get setupTagline;
 
   /// No description provided for @setupBegin.
   ///
-  /// In ja, this message translates to:
-  /// **'はじめる'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar'**
   String get setupBegin;
 
   /// No description provided for @setupPhaseTerms.
   ///
-  /// In ja, this message translates to:
-  /// **'ご利用にあたって'**
+  /// In pt_BR, this message translates to:
+  /// **'Termos de uso'**
   String get setupPhaseTerms;
 
   /// No description provided for @setupPhaseDriver.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopを接続'**
+  /// In pt_BR, this message translates to:
+  /// **'Conectar a Área de Trabalho Móvel'**
   String get setupPhaseDriver;
 
   /// No description provided for @setupTutorialTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'セットアップの流れ'**
+  /// In pt_BR, this message translates to:
+  /// **'Visão geral da configuração'**
   String get setupTutorialTitle;
 
   /// No description provided for @setupPhaseAccessibility.
   ///
-  /// In ja, this message translates to:
-  /// **'ユーザー補助'**
+  /// In pt_BR, this message translates to:
+  /// **'Acessibilidade'**
   String get setupPhaseAccessibility;
 
   /// No description provided for @setupPhaseReady.
   ///
-  /// In ja, this message translates to:
-  /// **'準備完了'**
+  /// In pt_BR, this message translates to:
+  /// **'Pronto'**
   String get setupPhaseReady;
 
   /// No description provided for @setupPhaseShizuku.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Shizuku'**
   String get setupPhaseShizuku;
 
   /// No description provided for @setupPhaseDevice.
   ///
-  /// In ja, this message translates to:
-  /// **'端末の確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Verificar o dispositivo'**
   String get setupPhaseDevice;
 
   /// No description provided for @setupPhaseDemo.
   ///
-  /// In ja, this message translates to:
-  /// **'操作を体験'**
+  /// In pt_BR, this message translates to:
+  /// **'Experimente os controles'**
   String get setupPhaseDemo;
 
   /// No description provided for @back.
   ///
-  /// In ja, this message translates to:
-  /// **'戻る'**
+  /// In pt_BR, this message translates to:
+  /// **'Voltar'**
   String get back;
 
   /// No description provided for @review.
   ///
-  /// In ja, this message translates to:
-  /// **'再確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Revisar'**
   String get review;
 
   /// No description provided for @reviewThreeFingerGesture.
   ///
-  /// In ja, this message translates to:
-  /// **'3本指ジェスチャーを再確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Revisar o gesto de três dedos'**
   String get reviewThreeFingerGesture;
 
   /// No description provided for @continueLabel.
   ///
-  /// In ja, this message translates to:
-  /// **'続ける'**
+  /// In pt_BR, this message translates to:
+  /// **'Continuar'**
   String get continueLabel;
 
   /// No description provided for @done.
   ///
-  /// In ja, this message translates to:
-  /// **'完了'**
+  /// In pt_BR, this message translates to:
+  /// **'Concluído'**
   String get done;
 
   /// No description provided for @incomplete.
   ///
-  /// In ja, this message translates to:
-  /// **'未完了'**
+  /// In pt_BR, this message translates to:
+  /// **'Incompleto'**
   String get incomplete;
 
   /// No description provided for @setupSystemTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'システム機能を利用します'**
+  /// In pt_BR, this message translates to:
+  /// **'Usa recursos do sistema'**
   String get setupSystemTitle;
 
   /// No description provided for @setupSystemDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'DextopはShizukuとADBを使用し、仮想ディスプレイ、画面方向、入力、システムUIを制御します。また、AccessibilityService API（ユーザー補助）をデスクトップオーバーレイの表示と操作、ユーザーが行ったタッチ・ポインター・ナビゲーション入力の転送、セッション終了時の端末UI復元に使用します。ユーザー補助のデータを収集、保存、共有することはありません。'**
+  /// In pt_BR, this message translates to:
+  /// **'A Área de Trabalho Móvel usa o Shizuku e o ADB para controlar telas virtuais, orientação da tela, entrada e a interface do sistema. A API AccessibilityService exibe e opera a sobreposição da área de trabalho, encaminha toques, ponteiro e navegação solicitados por você e restaura a interface do aparelho ao fim da sessão. Nenhum dado de acessibilidade é coletado, armazenado ou compartilhado.'**
   String get setupSystemDescription;
 
   /// No description provided for @setupTutorialDriverTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopをドライバに接続します'**
+  /// In pt_BR, this message translates to:
+  /// **'Conecte a Área de Trabalho Móvel ao serviço de acesso'**
   String get setupTutorialDriverTitle;
 
   /// No description provided for @setupTutorialDriverDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ペアリングが必要なのは初回のみです。必要な作業を案内します。'**
+  /// In pt_BR, this message translates to:
+  /// **'O pareamento é necessário apenas na primeira vez. Vamos orientar você nas etapas necessárias.'**
   String get setupTutorialDriverDescription;
 
   /// No description provided for @setupTutorialAccessibilityTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'ユーザー補助をON'**
+  /// In pt_BR, this message translates to:
+  /// **'Ative a acessibilidade'**
   String get setupTutorialAccessibilityTitle;
 
   /// No description provided for @setupTutorialAccessibilityDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップ環境の表示や操作にユーザー補助を利用します。設定画面が開きますので、「インストール済みアプリ」からDextopをオンにしてください。'**
+  /// In pt_BR, this message translates to:
+  /// **'A Área de Trabalho Móvel usa a acessibilidade para exibir e controlar o ambiente de desktop. Na tela de configurações, abra Apps instalados e ative a Área de Trabalho Móvel.'**
   String get setupTutorialAccessibilityDescription;
 
   /// No description provided for @setupTutorialAccessibilityButton.
   ///
-  /// In ja, this message translates to:
-  /// **'ユーザー補助設定を開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir configurações de acessibilidade'**
   String get setupTutorialAccessibilityButton;
 
   /// No description provided for @setupTutorialAccessibilityEnabled.
   ///
-  /// In ja, this message translates to:
-  /// **'ユーザー補助権限'**
+  /// In pt_BR, this message translates to:
+  /// **'Permissão de acessibilidade'**
   String get setupTutorialAccessibilityEnabled;
 
   /// No description provided for @accessibilityDisclosureTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'ユーザー補助サービスに関する開示'**
+  /// In pt_BR, this message translates to:
+  /// **'Aviso sobre o serviço de acessibilidade'**
   String get accessibilityDisclosureTitle;
 
   /// No description provided for @accessibilityDisclosureBody.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopは、デスクトップ画面の表示と操作、入力先の検出、通知から開いたアプリの移動、キーボードとマウスによる操作を提供するために、ユーザー補助サービスを使用します。\n\nこのサービスにより、画面上のアプリとウィンドウ、操作イベント、フォーカス中の入力欄とその入力内容、キーボードとマウスの入力にアクセスする場合があります。これらの情報は、Dextopの機能を端末上で提供するためだけに処理されます。Dextopが収集、保存、外部送信、第三者への共有を行うことはありません。'**
+  /// In pt_BR, this message translates to:
+  /// **'A Área de Trabalho Móvel usa o Serviço de Acessibilidade para exibir e controlar a área de trabalho, detectar o campo de entrada ativo, mover apps abertos pelas notificações e oferecer controle por teclado e mouse.\n\nO serviço pode acessar os apps e janelas exibidos na tela, eventos de interação, o campo de texto em foco e seu conteúdo, além das entradas de teclado e mouse. Essas informações são processadas somente no seu aparelho para oferecer os recursos do app. A Área de Trabalho Móvel não coleta, armazena, transmite nem compartilha essas informações com terceiros.'**
   String get accessibilityDisclosureBody;
 
   /// No description provided for @accessibilityDisclosureAgree.
   ///
-  /// In ja, this message translates to:
-  /// **'同意して設定を開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Concordar e abrir configurações'**
   String get accessibilityDisclosureAgree;
 
   /// No description provided for @accessibilityDisclosureDecline.
   ///
-  /// In ja, this message translates to:
-  /// **'同意しない'**
+  /// In pt_BR, this message translates to:
+  /// **'Não concordo'**
   String get accessibilityDisclosureDecline;
 
   /// No description provided for @setupTutorialReadyTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'これで準備は完了です'**
+  /// In pt_BR, this message translates to:
+  /// **'Tudo pronto para usar a Área de Trabalho Móvel'**
   String get setupTutorialReadyTitle;
 
   /// No description provided for @setupTutorialReadyDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'この二つが完了すれば、あとは利用を開始するだけです。'**
+  /// In pt_BR, this message translates to:
+  /// **'Depois de concluir essas duas etapas, é só começar a usar a Área de Trabalho Móvel.'**
   String get setupTutorialReadyDescription;
 
   /// No description provided for @setupDisclaimer.
   ///
-  /// In ja, this message translates to:
-  /// **'端末やOSの実装差、システム更新、他のアプリとの競合などにより生じた不具合、データ損失、端末機能への影響について、開発者は責任を負いません。内容を理解したうえで使用してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'O desenvolvedor não se responsabiliza por defeitos, perda de dados ou impactos no funcionamento do aparelho causados por diferenças de implementação do aparelho ou do sistema, atualizações do sistema, conflitos com outros apps etc. Leia e entenda este aviso antes de usar.'**
   String get setupDisclaimer;
 
   /// No description provided for @setupShizukuTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuを準備'**
+  /// In pt_BR, this message translates to:
+  /// **'Preparar o Shizuku'**
   String get setupShizukuTitle;
 
   /// No description provided for @setupShizukuDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopがシステム機能へ安全にアクセスするためにShizukuを使用します。'**
+  /// In pt_BR, this message translates to:
+  /// **'A Área de Trabalho Móvel usa o Shizuku para acessar funções do sistema com segurança.'**
   String get setupShizukuDescription;
 
   /// No description provided for @setupInstallShizuku.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuをインストール'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalar o Shizuku'**
   String get setupInstallShizuku;
 
   /// No description provided for @setupConfigureShizuku.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuを設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurar o Shizuku'**
   String get setupConfigureShizuku;
 
   /// No description provided for @setupShizukuHint.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuを開き、「ペアリング」に表示される順序に従って設定し、Shizukuを開始してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Abra o Shizuku, siga na ordem os passos em \"Pareamento\" e depois inicie o Shizuku.'**
   String get setupShizukuHint;
 
   /// No description provided for @setupOpenShizuku.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuを開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir o Shizuku'**
   String get setupOpenShizuku;
 
   /// No description provided for @setupValidate.
   ///
-  /// In ja, this message translates to:
-  /// **'設定が完了しましたか？ 有効性をチェック'**
+  /// In pt_BR, this message translates to:
+  /// **'Terminou a configuração? Verifique agora'**
   String get setupValidate;
 
   /// No description provided for @setupDextopPermission.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopへの権限'**
+  /// In pt_BR, this message translates to:
+  /// **'Permissão da Área de Trabalho Móvel'**
   String get setupDextopPermission;
 
   /// No description provided for @setupInstallPlay.
   ///
-  /// In ja, this message translates to:
-  /// **'Google Playからインストール'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalar pelo Google Play'**
   String get setupInstallPlay;
 
   /// No description provided for @setupAllowPermission.
   ///
-  /// In ja, this message translates to:
-  /// **'権限を許可'**
+  /// In pt_BR, this message translates to:
+  /// **'Conceder permissão'**
   String get setupAllowPermission;
 
   /// No description provided for @setupProviderChoiceTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'特権サービスを選択'**
+  /// In pt_BR, this message translates to:
+  /// **'Escolha um serviço de privilégio'**
   String get setupProviderChoiceTitle;
 
   /// No description provided for @setupProviderChoiceDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'複数のShizuku互換サービスがインストールされています。Dextopで使用するサービスを選択してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Há mais de um serviço compatível com o Shizuku instalado. Escolha qual deles a Área de Trabalho Móvel deve usar.'**
   String get setupProviderChoiceDescription;
 
   /// No description provided for @setupUseStellar.
   ///
-  /// In ja, this message translates to:
-  /// **'Stellar（推奨）'**
+  /// In pt_BR, this message translates to:
+  /// **'Stellar (recomendado)'**
   String get setupUseStellar;
 
   /// No description provided for @setupUseShizuku.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Shizuku'**
   String get setupUseShizuku;
 
   /// No description provided for @setupRunningAsRoot.
   ///
-  /// In ja, this message translates to:
-  /// **'rootでサービスを実行中です'**
+  /// In pt_BR, this message translates to:
+  /// **'O serviço está em execução como root'**
   String get setupRunningAsRoot;
 
   /// No description provided for @setupRootVerified.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuがrootで実行中であることを確認しました。Dextopへの権限を付与してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Confirmamos que o Shizuku está rodando com privilégios de root. Agora conceda a permissão à Área de Trabalho Móvel.'**
   String get setupRootVerified;
 
   /// No description provided for @setupRootNotRunning.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuがrootで実行中であることを確認できませんでした。rootで起動してから、もう一度確認してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível confirmar que o Shizuku está rodando com privilégios de root. Inicie-o como root e tente novamente.'**
   String get setupRootNotRunning;
 
   /// No description provided for @setupQuestionOpen.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuを開きましたか？'**
+  /// In pt_BR, this message translates to:
+  /// **'Você já abriu o Shizuku?'**
   String get setupQuestionOpen;
 
   /// No description provided for @setupQuestionPair.
   ///
-  /// In ja, this message translates to:
-  /// **'「ペアリング」に表示された手順をすべて完了しましたか？'**
+  /// In pt_BR, this message translates to:
+  /// **'Você concluiu todos os passos listados em \"Pareamento\"?'**
   String get setupQuestionPair;
 
   /// No description provided for @setupQuestionStart.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuで「開始」を押し、「Shizukuは実行中です」と表示されていますか？'**
+  /// In pt_BR, this message translates to:
+  /// **'Você tocou em \"Iniciar\" no Shizuku e confirmou que aparece \"O Shizuku está em execução\"?'**
   String get setupQuestionStart;
 
   /// No description provided for @yes.
   ///
-  /// In ja, this message translates to:
-  /// **'はい'**
+  /// In pt_BR, this message translates to:
+  /// **'Sim'**
   String get yes;
 
   /// No description provided for @no.
   ///
-  /// In ja, this message translates to:
-  /// **'いいえ'**
+  /// In pt_BR, this message translates to:
+  /// **'Não'**
   String get no;
 
   /// No description provided for @setupVerified.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuの設定を確認しました'**
+  /// In pt_BR, this message translates to:
+  /// **'A configuração do Shizuku foi verificada'**
   String get setupVerified;
 
   /// No description provided for @setupAccessVerified.
   ///
-  /// In ja, this message translates to:
-  /// **'アクセス権限の設定を確認しました'**
+  /// In pt_BR, this message translates to:
+  /// **'Configuração da permissão de acesso verificada'**
   String get setupAccessVerified;
 
   /// No description provided for @setupVerificationFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuの設定または開始を確認できません。Shizuku内の手順を完了してから、もう一度確認してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível confirmar que o Shizuku está configurado e em execução. Conclua os passos no Shizuku e tente novamente.'**
   String get setupVerificationFailed;
 
   /// No description provided for @setupPermissionCheckFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuの権限を確認できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível verificar as permissões para o Shizuku'**
   String get setupPermissionCheckFailed;
 
   /// No description provided for @setupDeviceTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'この端末での構成'**
+  /// In pt_BR, this message translates to:
+  /// **'Configuração neste dispositivo'**
   String get setupDeviceTitle;
 
   /// No description provided for @model.
   ///
-  /// In ja, this message translates to:
-  /// **'機種'**
+  /// In pt_BR, this message translates to:
+  /// **'Modelo'**
   String get model;
 
   /// No description provided for @vendor.
   ///
-  /// In ja, this message translates to:
-  /// **'ベンダー'**
+  /// In pt_BR, this message translates to:
+  /// **'Fabricante'**
   String get vendor;
 
   /// No description provided for @desktopUi.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップUI'**
+  /// In pt_BR, this message translates to:
+  /// **'Interface de área de trabalho'**
   String get desktopUi;
 
   /// No description provided for @detectedResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'自動検出解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução detectada automaticamente'**
   String get detectedResolution;
 
   /// No description provided for @automaticResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'自動'**
+  /// In pt_BR, this message translates to:
+  /// **'Automático'**
   String get automaticResolution;
 
   /// No description provided for @loadingLabel.
   ///
-  /// In ja, this message translates to:
-  /// **'取得中…'**
+  /// In pt_BR, this message translates to:
+  /// **'Carregando...'**
   String get loadingLabel;
 
   /// No description provided for @setupDeviceDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'この情報をもとに、初回の解像度と端末固有のデスクトップ制御を設定します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Essas informações são usadas para definir a resolução inicial e os controles de desktop específicos do aparelho.'**
   String get setupDeviceDescription;
 
   /// No description provided for @setupGestureTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'ジェスチャーで操作パネルを呼び出しましょう'**
+  /// In pt_BR, this message translates to:
+  /// **'Abra o painel de controle com um gesto'**
   String get setupGestureTitle;
 
   /// No description provided for @setupGestureDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'下の3つの円へ、3本の指を同時に置いてください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Coloque três dedos nos três círculos abaixo ao mesmo tempo.'**
   String get setupGestureDescription;
 
   /// No description provided for @setupInstallGitHub.
   ///
-  /// In ja, this message translates to:
-  /// **'GitHubからダウンロード'**
+  /// In pt_BR, this message translates to:
+  /// **'Baixar do GitHub'**
   String get setupInstallGitHub;
 
   /// No description provided for @setupGestureReviewed.
   ///
-  /// In ja, this message translates to:
-  /// **'新しいジェスチャーの確認が完了しました。'**
+  /// In pt_BR, this message translates to:
+  /// **'Você já conferiu os novos gestos.'**
   String get setupGestureReviewed;
 
   /// No description provided for @setupGestureReview.
   ///
-  /// In ja, this message translates to:
-  /// **'デモを再確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Ver a demonstração de novo'**
   String get setupGestureReview;
 
   /// No description provided for @setupGestureStart.
   ///
-  /// In ja, this message translates to:
-  /// **'デモを開始'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar demonstração'**
   String get setupGestureStart;
 
   /// No description provided for @setupGestureLandscape.
   ///
-  /// In ja, this message translates to:
-  /// **'横向きの場合\n画面左から右に3本指でスワイプ'**
+  /// In pt_BR, this message translates to:
+  /// **'Paisagem\nDeslize três dedos para a direita a partir da borda esquerda'**
   String get setupGestureLandscape;
 
   /// No description provided for @setupGesturePortrait.
   ///
-  /// In ja, this message translates to:
-  /// **'縦持ちの場合\n画面上から下に3本指でスワイプ'**
+  /// In pt_BR, this message translates to:
+  /// **'Retrato\nDeslize três dedos para baixo a partir da borda superior'**
   String get setupGesturePortrait;
 
   /// No description provided for @setupGestureNext.
   ///
-  /// In ja, this message translates to:
-  /// **'次へ'**
+  /// In pt_BR, this message translates to:
+  /// **'Próximo'**
   String get setupGestureNext;
 
   /// No description provided for @uiTwoFingerTap.
   ///
-  /// In ja, this message translates to:
-  /// **'2本指タップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque com dois dedos'**
   String get uiTwoFingerTap;
 
   /// No description provided for @ui3FingerTap.
   ///
-  /// In ja, this message translates to:
-  /// **'3本指タップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque com três dedos'**
   String get ui3FingerTap;
 
   /// No description provided for @ui4Divisions.
   ///
-  /// In ja, this message translates to:
-  /// **'4分割'**
+  /// In pt_BR, this message translates to:
+  /// **'Dividir em quatro'**
   String get ui4Divisions;
 
   /// No description provided for @uiDextopIsReady.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopの準備ができました'**
+  /// In pt_BR, this message translates to:
+  /// **'A Área de Trabalho Móvel está pronta'**
   String get uiDextopIsReady;
 
   /// No description provided for @uiDextopStopping.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopの終了処理中'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrando a Área de Trabalho Móvel'**
   String get uiDextopStopping;
 
   /// No description provided for @uiStopDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopを停止'**
+  /// In pt_BR, this message translates to:
+  /// **'Parar a Área de Trabalho Móvel'**
   String get uiStopDextop;
 
   /// No description provided for @uiDextopCanBeRestarted.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopを再開できます'**
+  /// In pt_BR, this message translates to:
+  /// **'A Área de Trabalho Móvel pode ser retomada'**
   String get uiDextopCanBeRestarted;
 
   /// No description provided for @uiOpenDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopを開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir a Área de Trabalho Móvel'**
   String get uiOpenDextop;
 
   /// No description provided for @uiCreateADextopSession.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopセッション作成'**
+  /// In pt_BR, this message translates to:
+  /// **'Criar uma sessão da Área de Trabalho Móvel'**
   String get uiCreateADextopSession;
 
   /// No description provided for @uiDextopWorkspaceJson.
   ///
-  /// In ja, this message translates to:
-  /// **'DextopワークスペースJSON'**
+  /// In pt_BR, this message translates to:
+  /// **'JSON do espaço de trabalho'**
   String get uiDextopWorkspaceJson;
 
   /// No description provided for @uiPerformanceDisplayOnDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop上にパフォーマンス表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar sobreposição de desempenho na Área de Trabalho Móvel'**
   String get uiPerformanceDisplayOnDextop;
 
   /// No description provided for @uiDoNotSleepWhileRunningDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop実行中はスリープしない'**
+  /// In pt_BR, this message translates to:
+  /// **'Manter a tela ligada enquanto a Área de Trabalho Móvel estiver em execução'**
   String get uiDoNotSleepWhileRunningDextop;
 
   /// No description provided for @uiRealTimeDisplayOfFpsMemoryPower.
   ///
-  /// In ja, this message translates to:
-  /// **'FPS、メモリ、消費電力、バッテリーをリアルタイム表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar FPS, memória, uso de energia e bateria em tempo real'**
   String get uiRealTimeDisplayOfFpsMemoryPower;
 
   /// No description provided for @uiCouldNotLoadJson.
   ///
-  /// In ja, this message translates to:
-  /// **'JSONを読み込めませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível carregar o JSON'**
   String get uiCouldNotLoadJson;
 
   /// No description provided for @uiSecureSettingsPermission.
   ///
-  /// In ja, this message translates to:
-  /// **'Secure Settings権限'**
+  /// In pt_BR, this message translates to:
+  /// **'Permissão de configurações seguras'**
   String get uiSecureSettingsPermission;
 
   /// No description provided for @uiAllowShizukuPermissions.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizuku の権限を許可'**
+  /// In pt_BR, this message translates to:
+  /// **'Conceder permissões do Shizuku'**
   String get uiAllowShizukuPermissions;
 
   /// No description provided for @uiInstallShizuku.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizuku をインストール'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalar o Shizuku'**
   String get uiInstallShizuku;
 
   /// No description provided for @uiCheckingShizukuConnection.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizuku 接続確認中'**
+  /// In pt_BR, this message translates to:
+  /// **'Verificando a conexão com o Shizuku'**
   String get uiCheckingShizukuConnection;
 
   /// No description provided for @uiShizukuConnection.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizuku接続'**
+  /// In pt_BR, this message translates to:
+  /// **'Conexão com o Shizuku'**
   String get uiShizukuConnection;
 
   /// No description provided for @uiCopy.
   ///
-  /// In ja, this message translates to:
-  /// **'のコピー'**
+  /// In pt_BR, this message translates to:
+  /// **' (cópia)'**
   String get uiCopy;
 
   /// No description provided for @uiOthers.
   ///
-  /// In ja, this message translates to:
-  /// **'その他'**
+  /// In pt_BR, this message translates to:
+  /// **'Outros'**
   String get uiOthers;
 
   /// No description provided for @uiAccessibilityOverlay.
   ///
-  /// In ja, this message translates to:
-  /// **'アクセシビリティオーバーレイ'**
+  /// In pt_BR, this message translates to:
+  /// **'Sobreposição de acessibilidade'**
   String get uiAccessibilityOverlay;
 
   /// No description provided for @uiAccessibilityServices.
   ///
-  /// In ja, this message translates to:
-  /// **'アクセシビリティサービス'**
+  /// In pt_BR, this message translates to:
+  /// **'Serviço de acessibilidade'**
   String get uiAccessibilityServices;
 
   /// No description provided for @uiAppNotFound.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリが見つかりません'**
+  /// In pt_BR, this message translates to:
+  /// **'Aplicativo não encontrado'**
   String get uiAppNotFound;
 
   /// No description provided for @uiAppsAndWorkspace.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリとワークスペース'**
+  /// In pt_BR, this message translates to:
+  /// **'Apps e espaços de trabalho'**
   String get uiAppsAndWorkspace;
 
   /// No description provided for @uiLaunchTheAppAndConfigureYourWorkspace.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリの起動とワークスペースの構成'**
+  /// In pt_BR, this message translates to:
+  /// **'Inicie aplicativos e configure espaços de trabalho'**
   String get uiLaunchTheAppAndConfigureYourWorkspace;
 
   /// No description provided for @uiRestartTheApp.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリを再起動'**
+  /// In pt_BR, this message translates to:
+  /// **'Reiniciar o app'**
   String get uiRestartTheApp;
 
   /// No description provided for @uiSearchApp.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリを検索'**
+  /// In pt_BR, this message translates to:
+  /// **'Pesquisar apps'**
   String get uiSearchApp;
 
   /// No description provided for @uiAppMemory.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリメモリ'**
+  /// In pt_BR, this message translates to:
+  /// **'Memória do app'**
   String get uiAppMemory;
 
   /// No description provided for @uiAppLauncher.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリランチャー'**
+  /// In pt_BR, this message translates to:
+  /// **'Menu de apps'**
   String get uiAppLauncher;
 
   /// No description provided for @uiAppLauncherSettings.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリランチャー設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações do menu de apps'**
   String get uiAppLauncherSettings;
 
   /// No description provided for @uiAppLaunchFunction.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリ起動機能'**
+  /// In pt_BR, this message translates to:
+  /// **'Abertura de apps'**
   String get uiAppLaunchFunction;
 
   /// No description provided for @uiImport.
   ///
-  /// In ja, this message translates to:
-  /// **'インポート'**
+  /// In pt_BR, this message translates to:
+  /// **'Importar'**
   String get uiImport;
 
   /// No description provided for @uiExport.
   ///
-  /// In ja, this message translates to:
-  /// **'エクスポート'**
+  /// In pt_BR, this message translates to:
+  /// **'Exportar'**
   String get uiExport;
 
   /// No description provided for @uiCursor.
   ///
-  /// In ja, this message translates to:
-  /// **'カーソル'**
+  /// In pt_BR, this message translates to:
+  /// **'Cursor'**
   String get uiCursor;
 
   /// No description provided for @uiCancel.
   ///
-  /// In ja, this message translates to:
-  /// **'キャンセル'**
+  /// In pt_BR, this message translates to:
+  /// **'Cancelar'**
   String get uiCancel;
 
   /// No description provided for @uiQuickSettingsTile.
   ///
-  /// In ja, this message translates to:
-  /// **'クイック設定タイル'**
+  /// In pt_BR, this message translates to:
+  /// **'Bloco de Configurações rápidas'**
   String get uiQuickSettingsTile;
 
   /// No description provided for @uiGesture.
   ///
-  /// In ja, this message translates to:
-  /// **'ジェスチャー'**
+  /// In pt_BR, this message translates to:
+  /// **'Gesto'**
   String get uiGesture;
 
   /// No description provided for @uiSecondaryIme.
   ///
-  /// In ja, this message translates to:
-  /// **'セカンダリIME'**
+  /// In pt_BR, this message translates to:
+  /// **'Teclado (IME) secundário'**
   String get uiSecondaryIme;
 
   /// No description provided for @uiSecureDisplayFoldable.
   ///
-  /// In ja, this message translates to:
-  /// **'セキュア表示、ミラーリング方式、Foldable'**
+  /// In pt_BR, this message translates to:
+  /// **'Tela segura, método de espelhamento, dobráveis'**
   String get uiSecureDisplayFoldable;
 
   /// No description provided for @uiSecurity.
   ///
-  /// In ja, this message translates to:
-  /// **'セキュリティ'**
+  /// In pt_BR, this message translates to:
+  /// **'Segurança'**
   String get uiSecurity;
 
   /// No description provided for @topologyTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイ配置'**
+  /// In pt_BR, this message translates to:
+  /// **'Disposição das telas'**
   String get topologyTitle;
 
   /// No description provided for @topologyArrangeDisplays.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイの配置'**
+  /// In pt_BR, this message translates to:
+  /// **'Disposição das telas'**
   String get topologyArrangeDisplays;
 
   /// No description provided for @topologySummary.
   ///
-  /// In ja, this message translates to:
-  /// **'実際のモニター配置に最適化することができます'**
+  /// In pt_BR, this message translates to:
+  /// **'Ajuste a disposição de acordo com a posição física dos monitores'**
   String get topologySummary;
 
   /// No description provided for @topologyDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイをドラッグして再配置します。画面間のポインター移動が実際の設置位置と一致するように並べてください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Arraste as telas para reorganizá-las. Posicione cada uma de forma que o ponteiro passe de uma tela para outra do mesmo jeito que elas estão na mesa.'**
   String get topologyDescription;
 
   /// No description provided for @topologyApply.
   ///
-  /// In ja, this message translates to:
-  /// **'適用'**
+  /// In pt_BR, this message translates to:
+  /// **'Aplicar'**
   String get topologyApply;
 
   /// No description provided for @topologyApplied.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイ配置を適用しました'**
+  /// In pt_BR, this message translates to:
+  /// **'Disposição das telas aplicada'**
   String get topologyApplied;
 
   /// No description provided for @topologyIdentify.
   ///
-  /// In ja, this message translates to:
-  /// **'識別'**
+  /// In pt_BR, this message translates to:
+  /// **'Identificar'**
   String get topologyIdentify;
 
   /// No description provided for @topologyRefresh.
   ///
-  /// In ja, this message translates to:
-  /// **'再読み込み'**
+  /// In pt_BR, this message translates to:
+  /// **'Atualizar'**
   String get topologyRefresh;
 
   /// No description provided for @topologyReset.
   ///
-  /// In ja, this message translates to:
-  /// **'リセット'**
+  /// In pt_BR, this message translates to:
+  /// **'Redefinir'**
   String get topologyReset;
 
   /// No description provided for @topologyBuiltInScreen.
   ///
-  /// In ja, this message translates to:
-  /// **'内蔵スクリーン'**
+  /// In pt_BR, this message translates to:
+  /// **'Tela do aparelho'**
   String get topologyBuiltInScreen;
 
   /// No description provided for @displayIncludePhoneSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にすると、ディスプレイ間でアプリやマウスポインタを跨いで移動できるようになります'**
+  /// In pt_BR, this message translates to:
+  /// **'Permite mover apps e o ponteiro do mouse entre as telas'**
   String get displayIncludePhoneSummary;
 
   /// No description provided for @displayAutoHideTaskbarSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'未使用時にデスクトップのタスクバーを自動的に隠します'**
+  /// In pt_BR, this message translates to:
+  /// **'Esconder automaticamente a barra de tarefas da área de trabalho quando não estiver em uso'**
   String get displayAutoHideTaskbarSummary;
 
   /// No description provided for @displayForceInternal120Hz.
   ///
-  /// In ja, this message translates to:
-  /// **'最高リフレッシュレートで出力'**
+  /// In pt_BR, this message translates to:
+  /// **'Saída na taxa de atualização máxima'**
   String get displayForceInternal120Hz;
 
   /// No description provided for @displayForceInternal120HzSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'OSが提供する最高のリフレッシュレートでミラーを作成します'**
+  /// In pt_BR, this message translates to:
+  /// **'Cria o espelho na taxa de atualização máxima fornecida pelo sistema operacional'**
   String get displayForceInternal120HzSummary;
 
   /// No description provided for @displaySoftwareCursorFallback.
   ///
-  /// In ja, this message translates to:
-  /// **'ソフトウェアカーソルに戻す'**
+  /// In pt_BR, this message translates to:
+  /// **'Usar cursor por software'**
   String get displaySoftwareCursorFallback;
 
   /// No description provided for @displaySoftwareCursorFallbackSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にすると従来のソフトウェアカーソルを使用します'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, usa o cursor por software anterior'**
   String get displaySoftwareCursorFallbackSummary;
 
   /// No description provided for @mouseSettingsTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'マウス'**
+  /// In pt_BR, this message translates to:
+  /// **'Mouse'**
   String get mouseSettingsTitle;
 
   /// No description provided for @mouseSettingsDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'仮想マウスの入力とカーソルを設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configure a entrada do mouse virtual e o comportamento do cursor'**
   String get mouseSettingsDescription;
 
   /// No description provided for @virtualPointerProfile.
   ///
-  /// In ja, this message translates to:
-  /// **'入力デバイス'**
+  /// In pt_BR, this message translates to:
+  /// **'Dispositivo de entrada'**
   String get virtualPointerProfile;
 
   /// No description provided for @virtualTouchpad.
   ///
-  /// In ja, this message translates to:
-  /// **'タッチパッド'**
+  /// In pt_BR, this message translates to:
+  /// **'Touchpad'**
   String get virtualTouchpad;
 
   /// No description provided for @virtualTouchpadDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'仮想タッチパッドとして登録します'**
+  /// In pt_BR, this message translates to:
+  /// **'Registrar como touchpad virtual'**
   String get virtualTouchpadDescription;
 
   /// No description provided for @virtualPointerMouse.
   ///
-  /// In ja, this message translates to:
-  /// **'仮想マウス'**
+  /// In pt_BR, this message translates to:
+  /// **'Mouse virtual'**
   String get virtualPointerMouse;
 
   /// No description provided for @virtualPointerMouseDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'相対マウスデバイスとして登録します'**
+  /// In pt_BR, this message translates to:
+  /// **'Registrar como mouse de movimento relativo'**
   String get virtualPointerMouseDescription;
 
   /// No description provided for @virtualPointerSoftware.
   ///
-  /// In ja, this message translates to:
-  /// **'ソフトウェアカーソル'**
+  /// In pt_BR, this message translates to:
+  /// **'Cursor por software'**
   String get virtualPointerSoftware;
 
   /// No description provided for @virtualPointerSoftwareDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop内の従来のカーソルを使用します'**
+  /// In pt_BR, this message translates to:
+  /// **'Usar o cursor por software próprio do app'**
   String get virtualPointerSoftwareDescription;
 
   /// No description provided for @virtualMouseScrollDirection.
   ///
-  /// In ja, this message translates to:
-  /// **'スクロール方向'**
+  /// In pt_BR, this message translates to:
+  /// **'Direção de rolagem'**
   String get virtualMouseScrollDirection;
 
   /// No description provided for @virtualMouseNaturalScroll.
   ///
-  /// In ja, this message translates to:
-  /// **'ナチュラル（Mac）'**
+  /// In pt_BR, this message translates to:
+  /// **'Natural (Mac)'**
   String get virtualMouseNaturalScroll;
 
   /// No description provided for @virtualMouseStandardScroll.
   ///
-  /// In ja, this message translates to:
-  /// **'標準（Windows）'**
+  /// In pt_BR, this message translates to:
+  /// **'Padrão (Windows)'**
   String get virtualMouseStandardScroll;
 
   /// No description provided for @uiConvenience.
   ///
-  /// In ja, this message translates to:
-  /// **'便利機能'**
+  /// In pt_BR, this message translates to:
+  /// **'Conveniência'**
   String get uiConvenience;
 
   /// No description provided for @uiDisplayCategory.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイ'**
+  /// In pt_BR, this message translates to:
+  /// **'Tela'**
   String get uiDisplayCategory;
 
   /// No description provided for @foldableLaptopMode.
   ///
-  /// In ja, this message translates to:
-  /// **'ラップトップモードを自動で検知'**
+  /// In pt_BR, this message translates to:
+  /// **'Detectar o modo notebook automaticamente'**
   String get foldableLaptopMode;
 
   /// No description provided for @foldableLaptopModeDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'折りたたみ角度を検知して、ラップトップモードを自動で有効にします'**
+  /// In pt_BR, this message translates to:
+  /// **'Ativa o modo notebook automaticamente quando um ângulo de dobra compatível é detectado'**
   String get foldableLaptopModeDescription;
 
   /// No description provided for @topologyNoDisplays.
   ///
-  /// In ja, this message translates to:
-  /// **'配置できるディスプレイがありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Não há telas disponíveis para organizar'**
   String get topologyNoDisplays;
 
   /// No description provided for @topologyUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'この端末ではディスプレイトポロジーを利用できません'**
+  /// In pt_BR, this message translates to:
+  /// **'A disposição de telas não está disponível neste aparelho'**
   String get topologyUnavailable;
 
   /// No description provided for @displaySettingsTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイ設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações de tela'**
   String get displaySettingsTitle;
 
   /// No description provided for @displaySettingsSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイの配置と解像度を管理します'**
+  /// In pt_BR, this message translates to:
+  /// **'Gerencie a disposição e a resolução das telas'**
   String get displaySettingsSummary;
 
   /// No description provided for @displayResolutionListTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイの解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução da tela'**
   String get displayResolutionListTitle;
 
   /// No description provided for @displayResolutionListSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'接続されているディスプレイの情報と対応モードを確認します'**
+  /// In pt_BR, this message translates to:
+  /// **'Veja as telas conectadas e os modos compatíveis'**
   String get displayResolutionListSummary;
 
   /// No description provided for @displayDetailsTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイ情報'**
+  /// In pt_BR, this message translates to:
+  /// **'Informações da tela'**
   String get displayDetailsTitle;
 
   /// No description provided for @displayNoLongerAvailable.
   ///
-  /// In ja, this message translates to:
-  /// **'選択したディスプレイは利用できなくなりました'**
+  /// In pt_BR, this message translates to:
+  /// **'A tela selecionada não está mais disponível'**
   String get displayNoLongerAvailable;
 
   /// No description provided for @displaySupportedResolutions.
   ///
-  /// In ja, this message translates to:
-  /// **'対応する解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resoluções compatíveis'**
   String get displaySupportedResolutions;
 
   /// No description provided for @displayDextopResolutionTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopセッションの解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução da sessão'**
   String get displayDextopResolutionTitle;
 
   /// No description provided for @displayDextopResolutionSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'ホーム画面の解像度から変更できます'**
+  /// In pt_BR, this message translates to:
+  /// **'Altere pela opção de resolução na tela inicial'**
   String get displayDextopResolutionSummary;
 
   /// No description provided for @displayCurrentMode.
   ///
-  /// In ja, this message translates to:
-  /// **'現在使用中'**
+  /// In pt_BR, this message translates to:
+  /// **'Em uso'**
   String get displayCurrentMode;
 
   /// No description provided for @displayModeApplied.
   ///
-  /// In ja, this message translates to:
-  /// **'ディスプレイの解像度を変更しました'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução da tela alterada'**
   String get displayModeApplied;
 
   /// No description provided for @uiTap.
   ///
-  /// In ja, this message translates to:
-  /// **'タップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque'**
   String get uiTap;
 
   /// No description provided for @uiTapPressAndHoldMultiFingerOperation.
   ///
-  /// In ja, this message translates to:
-  /// **'タップ、長押し、複数指操作'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque, toque longo e controles com vários dedos'**
   String get uiTapPressAndHoldMultiFingerOperation;
 
   /// No description provided for @uiOpenAppOnDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップでアプリを開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir app na área de trabalho'**
   String get uiOpenAppOnDesktop;
 
   /// No description provided for @uiDesktopMode.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップモード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo desktop'**
   String get uiDesktopMode;
 
   /// No description provided for @uiDesktopFeatures.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップ機能'**
+  /// In pt_BR, this message translates to:
+  /// **'Recursos de desktop'**
   String get uiDesktopFeatures;
 
   /// No description provided for @uiTrackpad.
   ///
-  /// In ja, this message translates to:
-  /// **'トラックパッド'**
+  /// In pt_BR, this message translates to:
+  /// **'Trackpad'**
   String get uiTrackpad;
 
   /// No description provided for @uiDrag.
   ///
-  /// In ja, this message translates to:
-  /// **'ドラッグ'**
+  /// In pt_BR, this message translates to:
+  /// **'Arrastar'**
   String get uiDrag;
 
   /// No description provided for @uiBattery.
   ///
-  /// In ja, this message translates to:
-  /// **'バッテリー'**
+  /// In pt_BR, this message translates to:
+  /// **'Bateria'**
   String get uiBattery;
 
   /// No description provided for @uiPerformance.
   ///
-  /// In ja, this message translates to:
-  /// **'パフォーマンス'**
+  /// In pt_BR, this message translates to:
+  /// **'Desempenho'**
   String get uiPerformance;
 
   /// No description provided for @uiPerformanceCompatibility.
   ///
-  /// In ja, this message translates to:
-  /// **'パフォーマンス、互換性'**
+  /// In pt_BR, this message translates to:
+  /// **'Desempenho e compatibilidade'**
   String get uiPerformanceCompatibility;
 
   /// No description provided for @uiItSupportsMultiTouchAndTheThree.
   ///
-  /// In ja, this message translates to:
-  /// **'マルチタッチに対応し、3本指ジェスチャーは画面左からに変更されます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Ativa o multitoque e muda o gesto de três dedos para um deslize a partir da borda esquerda.'**
   String get uiItSupportsMultiTouchAndTheThree;
 
   /// No description provided for @uiMainLarge2Sub.
   ///
-  /// In ja, this message translates to:
-  /// **'メイン大・サブ2枚'**
+  /// In pt_BR, this message translates to:
+  /// **'Principal grande + duas secundárias'**
   String get uiMainLarge2Sub;
 
   /// No description provided for @uiMainLeft.
   ///
-  /// In ja, this message translates to:
-  /// **'メイン（左）'**
+  /// In pt_BR, this message translates to:
+  /// **'Principal (esquerda)'**
   String get uiMainLeft;
 
   /// No description provided for @uiLayout.
   ///
-  /// In ja, this message translates to:
-  /// **'レイアウト'**
+  /// In pt_BR, this message translates to:
+  /// **'Layout'**
   String get uiLayout;
 
   /// No description provided for @uiWorkSpace.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペース'**
+  /// In pt_BR, this message translates to:
+  /// **'Espaço de trabalho'**
   String get uiWorkSpace;
 
   /// No description provided for @uiCopiedWorkspaceJsonToClipboard.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペースJSONをクリップボードへコピーしました'**
+  /// In pt_BR, this message translates to:
+  /// **'JSON do espaço de trabalho copiado para a área de transferência'**
   String get uiCopiedWorkspaceJsonToClipboard;
 
   /// No description provided for @uiImportWorkspace.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペースをインポート'**
+  /// In pt_BR, this message translates to:
+  /// **'Importar espaço de trabalho'**
   String get uiImportWorkspace;
 
   /// No description provided for @uiSaveWorkspace.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペースを保存'**
+  /// In pt_BR, this message translates to:
+  /// **'Salvar espaço de trabalho'**
   String get uiSaveWorkspace;
 
   /// No description provided for @uiDeleteWorkspace.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペースを削除'**
+  /// In pt_BR, this message translates to:
+  /// **'Excluir espaço de trabalho'**
   String get uiDeleteWorkspace;
 
   /// No description provided for @uiEditWorkspace.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペースを編集'**
+  /// In pt_BR, this message translates to:
+  /// **'Editar espaço de trabalho'**
   String get uiEditWorkspace;
 
   /// No description provided for @uiUp.
   ///
-  /// In ja, this message translates to:
-  /// **'上へ'**
+  /// In pt_BR, this message translates to:
+  /// **'Subir'**
   String get uiUp;
 
   /// No description provided for @uiDividedIntoUpperAndLowerParts.
   ///
-  /// In ja, this message translates to:
-  /// **'上下2分割'**
+  /// In pt_BR, this message translates to:
+  /// **'Dividir em cima/embaixo'**
   String get uiDividedIntoUpperAndLowerParts;
 
   /// No description provided for @uiUpperHalf.
   ///
-  /// In ja, this message translates to:
-  /// **'上半分'**
+  /// In pt_BR, this message translates to:
+  /// **'Metade de cima'**
   String get uiUpperHalf;
 
   /// No description provided for @uiMoveDown.
   ///
-  /// In ja, this message translates to:
-  /// **'下へ移動'**
+  /// In pt_BR, this message translates to:
+  /// **'Mover para baixo'**
   String get uiMoveDown;
 
   /// No description provided for @uiLowerHalf.
   ///
-  /// In ja, this message translates to:
-  /// **'下半分'**
+  /// In pt_BR, this message translates to:
+  /// **'Metade de baixo'**
   String get uiLowerHalf;
 
   /// No description provided for @uiCenter.
   ///
-  /// In ja, this message translates to:
-  /// **'中央'**
+  /// In pt_BR, this message translates to:
+  /// **'Centro'**
   String get uiCenter;
 
   /// No description provided for @uiCompatibilityDiagnosis.
   ///
-  /// In ja, this message translates to:
-  /// **'互換性診断'**
+  /// In pt_BR, this message translates to:
+  /// **'Diagnósticos de compatibilidade'**
   String get uiCompatibilityDiagnosis;
 
   /// No description provided for @uiVirtualDisplayCreation.
   ///
-  /// In ja, this message translates to:
-  /// **'仮想ディスプレイ作成'**
+  /// In pt_BR, this message translates to:
+  /// **'Criação de tela virtual'**
   String get uiVirtualDisplayCreation;
 
   /// No description provided for @uiOpenASavedAppConfiguration.
   ///
-  /// In ja, this message translates to:
-  /// **'保存したアプリ構成を開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir uma disposição de apps salva'**
   String get uiOpenASavedAppConfiguration;
 
   /// No description provided for @uiNoSavedWorkspaces.
   ///
-  /// In ja, this message translates to:
-  /// **'保存済みワークスペースはありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhum espaço de trabalho salvo'**
   String get uiNoSavedWorkspaces;
 
   /// No description provided for @uiInputAndGestures.
   ///
-  /// In ja, this message translates to:
-  /// **'入力とジェスチャー'**
+  /// In pt_BR, this message translates to:
+  /// **'Entrada e gestos'**
   String get uiInputAndGestures;
 
   /// No description provided for @uiInputMode.
   ///
-  /// In ja, this message translates to:
-  /// **'入力モード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo de entrada'**
   String get uiInputMode;
 
   /// No description provided for @uiCancelFullScreen.
   ///
-  /// In ja, this message translates to:
-  /// **'全画面を解除'**
+  /// In pt_BR, this message translates to:
+  /// **'Sair da tela cheia'**
   String get uiCancelFullScreen;
 
   /// No description provided for @uiReDiagnosis.
   ///
-  /// In ja, this message translates to:
-  /// **'再診断'**
+  /// In pt_BR, this message translates to:
+  /// **'Executar diagnósticos novamente'**
   String get uiReDiagnosis;
 
   /// No description provided for @uiRestart.
   ///
-  /// In ja, this message translates to:
-  /// **'再開'**
+  /// In pt_BR, this message translates to:
+  /// **'Retomar'**
   String get uiRestart;
 
   /// No description provided for @uiAvailableMemory.
   ///
-  /// In ja, this message translates to:
-  /// **'利用可能メモリ'**
+  /// In pt_BR, this message translates to:
+  /// **'Memória disponível'**
   String get uiAvailableMemory;
 
   /// No description provided for @uiDelete.
   ///
-  /// In ja, this message translates to:
-  /// **'削除'**
+  /// In pt_BR, this message translates to:
+  /// **'Excluir'**
   String get uiDelete;
 
   /// No description provided for @uiYouCanRestoreYourPreviousSession.
   ///
-  /// In ja, this message translates to:
-  /// **'前回のセッションを復旧できます'**
+  /// In pt_BR, this message translates to:
+  /// **'Você pode restaurar sua sessão anterior'**
   String get uiYouCanRestoreYourPreviousSession;
 
   /// No description provided for @uiRight.
   ///
-  /// In ja, this message translates to:
-  /// **'右'**
+  /// In pt_BR, this message translates to:
+  /// **'Direita'**
   String get uiRight;
 
   /// No description provided for @uiRight13.
   ///
-  /// In ja, this message translates to:
-  /// **'右1/3'**
+  /// In pt_BR, this message translates to:
+  /// **'Direita 1/3'**
   String get uiRight13;
 
   /// No description provided for @uiRight23.
   ///
-  /// In ja, this message translates to:
-  /// **'右2/3'**
+  /// In pt_BR, this message translates to:
+  /// **'Direita 2/3'**
   String get uiRight23;
 
   /// No description provided for @uiRightClick.
   ///
-  /// In ja, this message translates to:
-  /// **'右クリック'**
+  /// In pt_BR, this message translates to:
+  /// **'Botão direito'**
   String get uiRightClick;
 
   /// No description provided for @uiUpperRight.
   ///
-  /// In ja, this message translates to:
-  /// **'右上'**
+  /// In pt_BR, this message translates to:
+  /// **'Canto superior direito'**
   String get uiUpperRight;
 
   /// No description provided for @uiLowerRight.
   ///
-  /// In ja, this message translates to:
-  /// **'右下'**
+  /// In pt_BR, this message translates to:
+  /// **'Canto inferior direito'**
   String get uiLowerRight;
 
   /// No description provided for @uiRightHalf.
   ///
-  /// In ja, this message translates to:
-  /// **'右半分'**
+  /// In pt_BR, this message translates to:
+  /// **'Metade direita'**
   String get uiRightHalf;
 
   /// No description provided for @uiName.
   ///
-  /// In ja, this message translates to:
-  /// **'名前'**
+  /// In pt_BR, this message translates to:
+  /// **'Nome'**
   String get uiName;
 
   /// No description provided for @uiLargeScreenFoldable.
   ///
-  /// In ja, this message translates to:
-  /// **'大画面・Foldable'**
+  /// In pt_BR, this message translates to:
+  /// **'Tela grande/dobrável'**
   String get uiLargeScreenFoldable;
 
   /// No description provided for @uiActualFps.
   ///
-  /// In ja, this message translates to:
-  /// **'実測FPS'**
+  /// In pt_BR, this message translates to:
+  /// **'FPS real'**
   String get uiActualFps;
 
   /// No description provided for @uiExperimentalMultiTouch.
   ///
-  /// In ja, this message translates to:
-  /// **'実験的なマルチタッチ'**
+  /// In pt_BR, this message translates to:
+  /// **'Multitoque experimental'**
   String get uiExperimentalMultiTouch;
 
   /// No description provided for @uiExperimentalFeatures.
   ///
-  /// In ja, this message translates to:
-  /// **'実験的な機能'**
+  /// In pt_BR, this message translates to:
+  /// **'Recursos experimentais'**
   String get uiExperimentalFeatures;
 
   /// No description provided for @uiLeft.
   ///
-  /// In ja, this message translates to:
-  /// **'左'**
+  /// In pt_BR, this message translates to:
+  /// **'Esquerda'**
   String get uiLeft;
 
   /// No description provided for @uiLeft13.
   ///
-  /// In ja, this message translates to:
-  /// **'左1/3'**
+  /// In pt_BR, this message translates to:
+  /// **'Esquerda 1/3'**
   String get uiLeft13;
 
   /// No description provided for @uiLeft13Right23.
   ///
-  /// In ja, this message translates to:
-  /// **'左1/3・右2/3'**
+  /// In pt_BR, this message translates to:
+  /// **'Esquerda 1/3 + direita 2/3'**
   String get uiLeft13Right23;
 
   /// No description provided for @uiLeft23.
   ///
-  /// In ja, this message translates to:
-  /// **'左2/3'**
+  /// In pt_BR, this message translates to:
+  /// **'Esquerda 2/3'**
   String get uiLeft23;
 
   /// No description provided for @uiLeft23Right13.
   ///
-  /// In ja, this message translates to:
-  /// **'左2/3・右1/3'**
+  /// In pt_BR, this message translates to:
+  /// **'Esquerda 2/3 + direita 1/3'**
   String get uiLeft23Right13;
 
   /// No description provided for @uiLeftCenterRight.
   ///
-  /// In ja, this message translates to:
-  /// **'左・中央・右'**
+  /// In pt_BR, this message translates to:
+  /// **'Esquerda / centro / direita'**
   String get uiLeftCenterRight;
 
   /// No description provided for @uiUpperLeft.
   ///
-  /// In ja, this message translates to:
-  /// **'左上'**
+  /// In pt_BR, this message translates to:
+  /// **'Canto superior esquerdo'**
   String get uiUpperLeft;
 
   /// No description provided for @uiUpperLeftUpperRightLowerHalf.
   ///
-  /// In ja, this message translates to:
-  /// **'左上・右上・下半分'**
+  /// In pt_BR, this message translates to:
+  /// **'Superior esquerdo, superior direito, metade de baixo'**
   String get uiUpperLeftUpperRightLowerHalf;
 
   /// No description provided for @uiLowerLeft.
   ///
-  /// In ja, this message translates to:
-  /// **'左下'**
+  /// In pt_BR, this message translates to:
+  /// **'Canto inferior esquerdo'**
   String get uiLowerLeft;
 
   /// No description provided for @uiLeftHalf.
   ///
-  /// In ja, this message translates to:
-  /// **'左半分'**
+  /// In pt_BR, this message translates to:
+  /// **'Metade esquerda'**
   String get uiLeftHalf;
 
   /// No description provided for @uiDividedIntoLeftAndRight.
   ///
-  /// In ja, this message translates to:
-  /// **'左右2分割'**
+  /// In pt_BR, this message translates to:
+  /// **'Dividir esquerda/direita'**
   String get uiDividedIntoLeftAndRight;
 
   /// No description provided for @uiSwipeRightWithThreeFingersFromThe.
   ///
-  /// In ja, this message translates to:
-  /// **'左端から3本指で右へスワイプ'**
+  /// In pt_BR, this message translates to:
+  /// **'Deslize três dedos para a direita a partir da borda esquerda'**
   String get uiSwipeRightWithThreeFingersFromThe;
 
   /// No description provided for @uiRecoverySession.
   ///
-  /// In ja, this message translates to:
-  /// **'復旧セッション'**
+  /// In pt_BR, this message translates to:
+  /// **'Recuperação de sessão'**
   String get uiRecoverySession;
 
   /// No description provided for @uiEstimatedPowerConsumption.
   ///
-  /// In ja, this message translates to:
-  /// **'推定消費電力'**
+  /// In pt_BR, this message translates to:
+  /// **'Consumo de energia estimado'**
   String get uiEstimatedPowerConsumption;
 
   /// No description provided for @uiOperationOverlay.
   ///
-  /// In ja, this message translates to:
-  /// **'操作オーバーレイ'**
+  /// In pt_BR, this message translates to:
+  /// **'Sobreposição de controles'**
   String get uiOperationOverlay;
 
   /// No description provided for @uiShowActionOverlay.
   ///
-  /// In ja, this message translates to:
-  /// **'操作オーバーレイを表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar sobreposição de controles'**
   String get uiShowActionOverlay;
 
   /// No description provided for @uiOperationMenu.
   ///
-  /// In ja, this message translates to:
-  /// **'操作メニュー'**
+  /// In pt_BR, this message translates to:
+  /// **'Menu de controle'**
   String get uiOperationMenu;
 
   /// No description provided for @uiThereIsAnExistingSession.
   ///
-  /// In ja, this message translates to:
-  /// **'既存のセッションがあります'**
+  /// In pt_BR, this message translates to:
+  /// **'Já existe uma sessão aberta'**
   String get uiThereIsAnExistingSession;
 
   /// No description provided for @uiSaveConfiguration.
   ///
-  /// In ja, this message translates to:
-  /// **'構成を保存'**
+  /// In pt_BR, this message translates to:
+  /// **'Salvar configuração'**
   String get uiSaveConfiguration;
 
   /// No description provided for @uiRestorePrivileges.
   ///
-  /// In ja, this message translates to:
-  /// **'権限を復旧'**
+  /// In pt_BR, this message translates to:
+  /// **'Restaurar permissões'**
   String get uiRestorePrivileges;
 
   /// No description provided for @uiChangeToHorizontalHold.
   ///
-  /// In ja, this message translates to:
-  /// **'横持ちに変更'**
+  /// In pt_BR, this message translates to:
+  /// **'Mudar para paisagem'**
   String get uiChangeToHorizontalHold;
 
   /// No description provided for @uiPreparationIsRequired.
   ///
-  /// In ja, this message translates to:
-  /// **'準備が必要です'**
+  /// In pt_BR, this message translates to:
+  /// **'Configuração necessária'**
   String get uiPreparationIsRequired;
 
   /// No description provided for @uiPhysicalKeyboard.
   ///
-  /// In ja, this message translates to:
-  /// **'物理キーボード'**
+  /// In pt_BR, this message translates to:
+  /// **'Teclado físico'**
   String get uiPhysicalKeyboard;
 
   /// No description provided for @uiPhysicalMouse.
   ///
-  /// In ja, this message translates to:
-  /// **'物理マウス'**
+  /// In pt_BR, this message translates to:
+  /// **'Mouse físico'**
   String get uiPhysicalMouse;
 
   /// No description provided for @uiConditionAndDiagnosis.
   ///
-  /// In ja, this message translates to:
-  /// **'状態と診断'**
+  /// In pt_BR, this message translates to:
+  /// **'Status e diagnóstico'**
   String get uiConditionAndDiagnosis;
 
   /// No description provided for @uiPreventsTheScreenFromTurningOffAutomatically.
   ///
-  /// In ja, this message translates to:
-  /// **'画面の自動消灯を防止します'**
+  /// In pt_BR, this message translates to:
+  /// **'Impede que a tela desligue automaticamente'**
   String get uiPreventsTheScreenFromTurningOffAutomatically;
 
   /// No description provided for @uiDestruction.
   ///
-  /// In ja, this message translates to:
-  /// **'破棄'**
+  /// In pt_BR, this message translates to:
+  /// **'Descartar'**
   String get uiDestruction;
 
   /// No description provided for @uiTerminalAndPermissions.
   ///
-  /// In ja, this message translates to:
-  /// **'端末と権限'**
+  /// In pt_BR, this message translates to:
+  /// **'Dispositivo e permissões'**
   String get uiTerminalAndPermissions;
 
   /// No description provided for @uiDeviceInformationDesktopModeAccessibility.
   ///
-  /// In ja, this message translates to:
-  /// **'端末情報、デスクトップモード、アクセシビリティ'**
+  /// In pt_BR, this message translates to:
+  /// **'Informações do aparelho, modo desktop, acessibilidade'**
   String get uiDeviceInformationDesktopModeAccessibility;
 
   /// No description provided for @uiTerminalResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'端末解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução do aparelho'**
   String get uiTerminalResolution;
 
   /// No description provided for @uiEnd.
   ///
-  /// In ja, this message translates to:
-  /// **'終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrar'**
   String get uiEnd;
 
   /// No description provided for @uiTerminationProcessingCompletedSuccessfully.
   ///
-  /// In ja, this message translates to:
-  /// **'終了処理は正常に完了しました。'**
+  /// In pt_BR, this message translates to:
+  /// **'Sessão encerrada com sucesso.'**
   String get uiTerminationProcessingCompletedSuccessfully;
 
   /// No description provided for @uiEdit.
   ///
-  /// In ja, this message translates to:
-  /// **'編集'**
+  /// In pt_BR, this message translates to:
+  /// **'Editar'**
   String get uiEdit;
 
   /// No description provided for @uiChangeToPortraitOrientation.
   ///
-  /// In ja, this message translates to:
-  /// **'縦持ちに変更'**
+  /// In pt_BR, this message translates to:
+  /// **'Mudar para retrato'**
   String get uiChangeToPortraitOrientation;
 
   /// No description provided for @uiVerticalHorizontalSwitching.
   ///
-  /// In ja, this message translates to:
-  /// **'縦横切り替え'**
+  /// In pt_BR, this message translates to:
+  /// **'Retrato / paisagem'**
   String get uiVerticalHorizontalSwitching;
 
   /// No description provided for @uiDisplayOptimization.
   ///
-  /// In ja, this message translates to:
-  /// **'表示の最適化'**
+  /// In pt_BR, this message translates to:
+  /// **'Otimização da tela'**
   String get uiDisplayOptimization;
 
   /// No description provided for @uiDisplayRefreshRate.
   ///
-  /// In ja, this message translates to:
-  /// **'表示リフレッシュレート'**
+  /// In pt_BR, this message translates to:
+  /// **'Taxa de atualização da tela'**
   String get uiDisplayRefreshRate;
 
   /// No description provided for @uiReproduction.
   ///
-  /// In ja, this message translates to:
-  /// **'複製'**
+  /// In pt_BR, this message translates to:
+  /// **'Duplicar'**
   String get uiReproduction;
 
   /// No description provided for @uiManageLaunchedAppsAndConfigurations.
   ///
-  /// In ja, this message translates to:
-  /// **'起動するアプリと構成の管理'**
+  /// In pt_BR, this message translates to:
+  /// **'Gerencie os apps que serão abertos e seus layouts'**
   String get uiManageLaunchedAppsAndConfigurations;
 
   /// No description provided for @uiCouldNotStart.
   ///
-  /// In ja, this message translates to:
-  /// **'起動できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível iniciar'**
   String get uiCouldNotStart;
 
   /// No description provided for @uiLongPress.
   ///
-  /// In ja, this message translates to:
-  /// **'長押し'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque longo'**
   String get uiLongPress;
 
   /// No description provided for @uiAutomaticallyUsesMeasuredResolutionForOpenAnd.
   ///
-  /// In ja, this message translates to:
-  /// **'開いた状態と閉じた状態の実測解像度を自動使用'**
+  /// In pt_BR, this message translates to:
+  /// **'Usa automaticamente a resolução medida para o aparelho aberto e fechado'**
   String get uiAutomaticallyUsesMeasuredResolutionForOpenAnd;
 
   /// No description provided for @uiStart.
   ///
-  /// In ja, this message translates to:
-  /// **'開始'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar'**
   String get uiStart;
 
   /// No description provided for @uiRunningAuto.
   ///
-  /// In ja, this message translates to:
-  /// **'起動中（Auto）'**
+  /// In pt_BR, this message translates to:
+  /// **'Em execução (Auto)'**
   String get uiRunningAuto;
 
   /// No description provided for @uiRunningAutoPlus.
   ///
-  /// In ja, this message translates to:
-  /// **'起動中（Auto+）'**
+  /// In pt_BR, this message translates to:
+  /// **'Em execução (Auto+)'**
   String get uiRunningAutoPlus;
 
   /// No description provided for @uiStartPhoneDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'この端末でDextopを開始'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar neste celular'**
   String get uiStartPhoneDextop;
 
   /// No description provided for @uiStopAndroidAuto.
   ///
-  /// In ja, this message translates to:
-  /// **'停止（Android Auto）'**
+  /// In pt_BR, this message translates to:
+  /// **'Parar (Android Auto)'**
   String get uiStopAndroidAuto;
 
   /// No description provided for @uiAutomaticSwitchingAccordingToOpenClosedState.
   ///
-  /// In ja, this message translates to:
-  /// **'開閉状態に合わせて自動切り替え'**
+  /// In pt_BR, this message translates to:
+  /// **'Alternar automaticamente conforme o aparelho estiver aberto ou fechado'**
   String get uiAutomaticSwitchingAccordingToOpenClosedState;
 
   /// No description provided for @uiOpeningQuote.
   ///
-  /// In ja, this message translates to:
-  /// **'「'**
+  /// In pt_BR, this message translates to:
+  /// **'“'**
   String get uiOpeningQuote;
 
   /// No description provided for @uiDeleteWorkspaceQuestionSuffix.
   ///
-  /// In ja, this message translates to:
-  /// **'」を削除しますか？'**
+  /// In pt_BR, this message translates to:
+  /// **'” — excluir este espaço de trabalho?'**
   String get uiDeleteWorkspaceQuestionSuffix;
 
   /// No description provided for @uiAbnormalSessionWarning.
   ///
-  /// In ja, this message translates to:
-  /// **'不正な状態でセッションが終了されたため、\n一部のAndroid側の機能が無効化されている可能性があります。'**
+  /// In pt_BR, this message translates to:
+  /// **'A sessão terminou em um estado inválido.\nAlgumas funções do sistema Android podem continuar desativadas.'**
   String get uiAbnormalSessionWarning;
 
   /// No description provided for @uiChecking.
   ///
-  /// In ja, this message translates to:
-  /// **'確認中'**
+  /// In pt_BR, this message translates to:
+  /// **'Verificando'**
   String get uiChecking;
 
   /// No description provided for @uiIdle.
   ///
-  /// In ja, this message translates to:
-  /// **'待機中'**
+  /// In pt_BR, this message translates to:
+  /// **'Inativo'**
   String get uiIdle;
 
   /// No description provided for @uiAvailable.
   ///
-  /// In ja, this message translates to:
-  /// **'Available'**
+  /// In pt_BR, this message translates to:
+  /// **'Disponível'**
   String get uiAvailable;
 
   /// No description provided for @uiUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'Unavailable'**
+  /// In pt_BR, this message translates to:
+  /// **'Indisponível'**
   String get uiUnavailable;
 
   /// No description provided for @appName.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop'**
+  /// In pt_BR, this message translates to:
+  /// **'Área de Trabalho Móvel'**
   String get appName;
 
   /// No description provided for @uiAndroid.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Android'**
   String get uiAndroid;
 
   /// No description provided for @uiGitHub.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'GitHub'**
   String get uiGitHub;
 
   /// No description provided for @uiGitHubRepository.
   ///
-  /// In ja, this message translates to:
-  /// **'NarYuki/Dextop'**
+  /// In pt_BR, this message translates to:
+  /// **'belchiorjuniorr2/area-de-trabalho-movel'**
   String get uiGitHubRepository;
 
   /// No description provided for @diagnosticLog.
   ///
-  /// In ja, this message translates to:
-  /// **'動作ログと端末診断'**
+  /// In pt_BR, this message translates to:
+  /// **'Registro de operação e diagnóstico do aparelho'**
   String get diagnosticLog;
 
   /// No description provided for @diagnosticLogDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリのログ、能力判定、端末の詳細スペックを表示します'**
+  /// In pt_BR, this message translates to:
+  /// **'Veja os registros do app, a detecção de recursos e as especificações detalhadas do aparelho'**
   String get diagnosticLogDescription;
 
   /// No description provided for @loadDiagnosticLog.
   ///
-  /// In ja, this message translates to:
-  /// **'診断レポートを読み込む'**
+  /// In pt_BR, this message translates to:
+  /// **'Carregar relatório de diagnóstico'**
   String get loadDiagnosticLog;
 
   /// No description provided for @copyDiagnosticLog.
   ///
-  /// In ja, this message translates to:
-  /// **'コピー'**
+  /// In pt_BR, this message translates to:
+  /// **'Copiar'**
   String get copyDiagnosticLog;
 
   /// No description provided for @shareDiagnosticLog.
   ///
-  /// In ja, this message translates to:
-  /// **'共有'**
+  /// In pt_BR, this message translates to:
+  /// **'Compartilhar'**
   String get shareDiagnosticLog;
 
   /// No description provided for @clearDiagnosticLog.
   ///
-  /// In ja, this message translates to:
-  /// **'ログを消去'**
+  /// In pt_BR, this message translates to:
+  /// **'Limpar registro'**
   String get clearDiagnosticLog;
 
   /// No description provided for @deviceReport.
   ///
-  /// In ja, this message translates to:
-  /// **'動作報告'**
+  /// In pt_BR, this message translates to:
+  /// **'Relatório do aparelho'**
   String get deviceReport;
 
   /// No description provided for @uiCpuTemperature.
   ///
-  /// In ja, this message translates to:
-  /// **'CPU温度'**
+  /// In pt_BR, this message translates to:
+  /// **'Temperatura da CPU'**
   String get uiCpuTemperature;
 
   /// No description provided for @deviceReportDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'端末情報と機能の対応状況をメールで報告'**
+  /// In pt_BR, this message translates to:
+  /// **'Informe a compatibilidade do aparelho e dos recursos abrindo uma issue no GitHub'**
   String get deviceReportDescription;
 
   /// No description provided for @deviceReportIntro.
   ///
-  /// In ja, this message translates to:
-  /// **'端末情報は自動収集されます。各機能の動作状況を選択してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Os dados do aparelho são coletados automaticamente. Escolha o resultado de cada recurso.'**
   String get deviceReportIntro;
 
   /// No description provided for @reportWorking.
   ///
-  /// In ja, this message translates to:
-  /// **'動作した'**
+  /// In pt_BR, this message translates to:
+  /// **'Funciona'**
   String get reportWorking;
 
   /// No description provided for @reportNotWorking.
   ///
-  /// In ja, this message translates to:
-  /// **'動作しない'**
+  /// In pt_BR, this message translates to:
+  /// **'Não funciona'**
   String get reportNotWorking;
 
   /// No description provided for @reportUntested.
   ///
-  /// In ja, this message translates to:
-  /// **'未確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Não testado'**
   String get reportUntested;
 
   /// No description provided for @reportOverall.
   ///
-  /// In ja, this message translates to:
-  /// **'総合的な動作状況'**
+  /// In pt_BR, this message translates to:
+  /// **'Situação geral'**
   String get reportOverall;
 
   /// No description provided for @reportNotes.
   ///
-  /// In ja, this message translates to:
-  /// **'その他・特記事項'**
+  /// In pt_BR, this message translates to:
+  /// **'Outras observações'**
   String get reportNotes;
 
   /// No description provided for @sendDeviceReport.
   ///
-  /// In ja, this message translates to:
-  /// **'メールで動作報告を送る'**
+  /// In pt_BR, this message translates to:
+  /// **'Enviar relatório pelo GitHub'**
   String get sendDeviceReport;
 
   /// No description provided for @reportEmailUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'メールアプリを開けませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível abrir o navegador'**
   String get reportEmailUnavailable;
 
   /// No description provided for @reportTemplateTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop端末動作報告'**
+  /// In pt_BR, this message translates to:
+  /// **'Relatório de aparelho — Área de Trabalho Móvel'**
   String get reportTemplateTitle;
 
   /// No description provided for @reportNoNotes.
   ///
-  /// In ja, this message translates to:
-  /// **'なし'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhum'**
   String get reportNoNotes;
 
   /// No description provided for @reportNoSessionLog.
   ///
-  /// In ja, this message translates to:
-  /// **'完了したDextopセッションのログはまだありません。'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhuma sessão concluída foi registrada ainda.'**
   String get reportNoSessionLog;
 
   /// No description provided for @reportFeatureStartup.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリ起動と端末検出'**
+  /// In pt_BR, this message translates to:
+  /// **'Abertura do app e detecção do aparelho'**
   String get reportFeatureStartup;
 
   /// No description provided for @reportFeatureSession.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopセッションの起動'**
+  /// In pt_BR, this message translates to:
+  /// **'Início da sessão'**
   String get reportFeatureSession;
 
   /// No description provided for @reportFeatureVirtualDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'VirtualDisplayミラーリング'**
+  /// In pt_BR, this message translates to:
+  /// **'Espelhamento via VirtualDisplay'**
   String get reportFeatureVirtualDisplay;
 
   /// No description provided for @reportFeatureWindowManager.
   ///
-  /// In ja, this message translates to:
-  /// **'WindowManagerミラーリング'**
+  /// In pt_BR, this message translates to:
+  /// **'Espelhamento via WindowManager'**
   String get reportFeatureWindowManager;
 
   /// No description provided for @reportFeatureSurfaceControl.
   ///
-  /// In ja, this message translates to:
-  /// **'SurfaceControlミラーリング'**
+  /// In pt_BR, this message translates to:
+  /// **'Espelhamento via SurfaceControl'**
   String get reportFeatureSurfaceControl;
 
   /// No description provided for @reportFeatureLandscape.
   ///
-  /// In ja, this message translates to:
-  /// **'横向きモード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo paisagem'**
   String get reportFeatureLandscape;
 
   /// No description provided for @reportFeaturePortrait.
   ///
-  /// In ja, this message translates to:
-  /// **'縦向きモード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo retrato'**
   String get reportFeaturePortrait;
 
   /// No description provided for @reportFeatureSecureDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'セキュア表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Tela segura'**
   String get reportFeatureSecureDisplay;
 
   /// No description provided for @reportFeatureLauncher.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリランチャーとフリーフォームウィンドウ'**
+  /// In pt_BR, this message translates to:
+  /// **'Menu de apps e janelas livres'**
   String get reportFeatureLauncher;
 
   /// No description provided for @reportFeatureWorkspace.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペースの保存と復元'**
+  /// In pt_BR, this message translates to:
+  /// **'Salvar e restaurar espaço de trabalho'**
   String get reportFeatureWorkspace;
 
   /// No description provided for @reportFeatureCursor.
   ///
-  /// In ja, this message translates to:
-  /// **'カーソル・タッチパッド入力'**
+  /// In pt_BR, this message translates to:
+  /// **'Entrada por cursor e touchpad'**
   String get reportFeatureCursor;
 
   /// No description provided for @reportFeatureDirectTouch.
   ///
-  /// In ja, this message translates to:
-  /// **'ダイレクトタッチ入力'**
+  /// In pt_BR, this message translates to:
+  /// **'Entrada por toque direto'**
   String get reportFeatureDirectTouch;
 
   /// No description provided for @reportFeatureMultiTouch.
   ///
-  /// In ja, this message translates to:
-  /// **'マルチタッチのスクロールとピンチズーム'**
+  /// In pt_BR, this message translates to:
+  /// **'Rolagem multitoque e zoom com pinça'**
   String get reportFeatureMultiTouch;
 
   /// No description provided for @reportFeatureGesture.
   ///
-  /// In ja, this message translates to:
-  /// **'3本指オーバーレイジェスチャー'**
+  /// In pt_BR, this message translates to:
+  /// **'Gesto de três dedos da sobreposição'**
   String get reportFeatureGesture;
 
   /// No description provided for @reportFeatureMouse.
   ///
-  /// In ja, this message translates to:
-  /// **'物理マウス'**
+  /// In pt_BR, this message translates to:
+  /// **'Mouse físico'**
   String get reportFeatureMouse;
 
   /// No description provided for @reportFeatureKeyboard.
   ///
-  /// In ja, this message translates to:
-  /// **'物理キーボード'**
+  /// In pt_BR, this message translates to:
+  /// **'Teclado físico'**
   String get reportFeatureKeyboard;
 
   /// No description provided for @reportFeatureRouting.
   ///
-  /// In ja, this message translates to:
-  /// **'物理マウス・キーボードのディスプレイルーティング'**
+  /// In pt_BR, this message translates to:
+  /// **'Direcionamento do mouse e teclado físicos entre telas'**
   String get reportFeatureRouting;
 
   /// No description provided for @reportFeatureFoldable.
   ///
-  /// In ja, this message translates to:
-  /// **'折りたたみ端末の自動解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução automática em dobráveis'**
   String get reportFeatureFoldable;
 
   /// No description provided for @reportFeaturePerformance.
   ///
-  /// In ja, this message translates to:
-  /// **'パフォーマンスオーバーレイ'**
+  /// In pt_BR, this message translates to:
+  /// **'Sobreposição de desempenho'**
   String get reportFeaturePerformance;
 
   /// No description provided for @reportFeatureCleanup.
   ///
-  /// In ja, this message translates to:
-  /// **'セッション終了処理とAndroid状態の復元'**
+  /// In pt_BR, this message translates to:
+  /// **'Limpeza da sessão e restauração do Android'**
   String get reportFeatureCleanup;
 
   /// No description provided for @samsungExperimentalTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'実験的なSamsungデスクトップ設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações experimentais do desktop Samsung'**
   String get samsungExperimentalTitle;
 
   /// No description provided for @samsungUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsung端末でのみ利用できます'**
+  /// In pt_BR, this message translates to:
+  /// **'Disponível apenas em dispositivos Samsung'**
   String get samsungUnavailable;
 
   /// No description provided for @samsungExperimentalDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'純正DeX設定で非表示になる項目をDextopから変更します'**
+  /// In pt_BR, this message translates to:
+  /// **'Altere configurações ocultas pela tela nativa de configurações do DeX'**
   String get samsungExperimentalDescription;
 
   /// No description provided for @samsungSettingsTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsungデスクトップ設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações do desktop Samsung'**
   String get samsungSettingsTitle;
 
   /// No description provided for @samsungSettingsSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'表示・入力・タスクバー設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações de tela, entrada e barra de tarefas'**
   String get samsungSettingsSummary;
 
   /// No description provided for @samsungRestoreSuccess.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsung設定を元の環境へ復元しました'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações da Samsung restauradas'**
   String get samsungRestoreSuccess;
 
   /// No description provided for @samsungConfirmTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'設定変更の確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Confirmar acesso às configurações'**
   String get samsungConfirmTitle;
 
   /// No description provided for @samsungPermanentWarning.
   ///
-  /// In ja, this message translates to:
-  /// **'この項目はDextopの体験と通常使用時のデスクトップ環境に恒久的（初期化されるまで）な影響を及ぼす可能性があります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Estas configurações podem afetar de forma permanente a Área de Trabalho Móvel e o ambiente de desktop usado normalmente, até serem redefinidas.'**
   String get samsungPermanentWarning;
 
   /// No description provided for @samsungAcceptEnable.
   ///
-  /// In ja, this message translates to:
-  /// **'同意して有効化'**
+  /// In pt_BR, this message translates to:
+  /// **'Aceitar e ativar'**
   String get samsungAcceptEnable;
 
   /// No description provided for @samsungAboutSetting.
   ///
-  /// In ja, this message translates to:
-  /// **'この設定について'**
+  /// In pt_BR, this message translates to:
+  /// **'Sobre esta configuração'**
   String get samsungAboutSetting;
 
   /// No description provided for @samsungRestoreEnvironment.
   ///
-  /// In ja, this message translates to:
-  /// **'環境を復元'**
+  /// In pt_BR, this message translates to:
+  /// **'Restaurar ambiente'**
   String get samsungRestoreEnvironment;
 
   /// No description provided for @samsungSettingsIntro.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsung純正設定が外部ディスプレイ未接続として隠すDeX設定値を直接変更します。変更はSamsung DeXと対応するDextop機能に反映されます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Altera diretamente valores do DeX que ficam ocultos quando as Configurações da Samsung não detectam uma tela externa. As mudanças afetam o Samsung DeX e os recursos correspondentes da Área de Trabalho Móvel.'**
   String get samsungSettingsIntro;
 
   /// No description provided for @samsungResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'外部画面の解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução externa'**
   String get samsungResolution;
 
   /// No description provided for @samsungScreenZoom.
   ///
-  /// In ja, this message translates to:
-  /// **'画面ズーム（DPI）'**
+  /// In pt_BR, this message translates to:
+  /// **'Ampliação da tela (DPI)'**
   String get samsungScreenZoom;
 
   /// No description provided for @samsungFontScale.
   ///
-  /// In ja, this message translates to:
-  /// **'フォントサイズ'**
+  /// In pt_BR, this message translates to:
+  /// **'Tamanho da fonte'**
   String get samsungFontScale;
 
   /// No description provided for @samsungScreenTimeout.
   ///
-  /// In ja, this message translates to:
-  /// **'画面タイムアウト'**
+  /// In pt_BR, this message translates to:
+  /// **'Tempo limite da tela'**
   String get samsungScreenTimeout;
 
   /// No description provided for @samsungAudioOutput.
   ///
-  /// In ja, this message translates to:
-  /// **'外部画面から音声を出力'**
+  /// In pt_BR, this message translates to:
+  /// **'Reproduzir áudio na tela externa'**
   String get samsungAudioOutput;
 
   /// No description provided for @samsungDisplayOrientation.
   ///
-  /// In ja, this message translates to:
-  /// **'外部画面の回転'**
+  /// In pt_BR, this message translates to:
+  /// **'Rotação da tela externa'**
   String get samsungDisplayOrientation;
 
   /// No description provided for @samsungDisplayArrangement.
   ///
-  /// In ja, this message translates to:
-  /// **'画面配置'**
+  /// In pt_BR, this message translates to:
+  /// **'Disposição das telas'**
   String get samsungDisplayArrangement;
 
   /// No description provided for @samsungSectionInput.
   ///
-  /// In ja, this message translates to:
-  /// **'入力'**
+  /// In pt_BR, this message translates to:
+  /// **'Entrada'**
   String get samsungSectionInput;
 
   /// No description provided for @samsungSectionDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Área de trabalho'**
   String get samsungSectionDesktop;
 
   /// No description provided for @samsungInputLockedWhileRunning.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop使用中は、競合するSamsung入力設定を変更できません。'**
+  /// In pt_BR, this message translates to:
+  /// **'As configurações de entrada da Samsung que entram em conflito não podem ser alteradas enquanto a Área de Trabalho Móvel estiver em execução.'**
   String get samsungInputLockedWhileRunning;
 
   /// No description provided for @samsungAutorunTouchpad.
   ///
-  /// In ja, this message translates to:
-  /// **'タッチパッドを自動起動'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar o touchpad automaticamente'**
   String get samsungAutorunTouchpad;
 
   /// No description provided for @samsungTouchpadScrollDirection.
   ///
-  /// In ja, this message translates to:
-  /// **'スクロール方向を反転'**
+  /// In pt_BR, this message translates to:
+  /// **'Inverter direção da rolagem'**
   String get samsungTouchpadScrollDirection;
 
   /// No description provided for @samsungTouchKeyboard.
   ///
-  /// In ja, this message translates to:
-  /// **'接続時に画面キーボードを表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar o teclado na tela quando conectado'**
   String get samsungTouchKeyboard;
 
   /// No description provided for @samsungKeyboardDex.
   ///
-  /// In ja, this message translates to:
-  /// **'物理キーボード使用中も表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar teclado virtual com teclado físico conectado'**
   String get samsungKeyboardDex;
 
   /// No description provided for @samsungSpenInputMode.
   ///
-  /// In ja, this message translates to:
-  /// **'S Penをマウスとして使用'**
+  /// In pt_BR, this message translates to:
+  /// **'Usar a S Pen como mouse'**
   String get samsungSpenInputMode;
 
   /// No description provided for @samsungThreeFingerGesture.
   ///
-  /// In ja, this message translates to:
-  /// **'3本指ジェスチャー'**
+  /// In pt_BR, this message translates to:
+  /// **'Gesto de três dedos'**
   String get samsungThreeFingerGesture;
 
   /// No description provided for @samsungFourFingerGesture.
   ///
-  /// In ja, this message translates to:
-  /// **'4本指ジェスチャー'**
+  /// In pt_BR, this message translates to:
+  /// **'Gesto de quatro dedos'**
   String get samsungFourFingerGesture;
 
   /// No description provided for @samsungAutoHideTaskbar.
   ///
-  /// In ja, this message translates to:
-  /// **'タスクバーを自動的に隠す'**
+  /// In pt_BR, this message translates to:
+  /// **'Ocultar a barra de tarefas automaticamente'**
   String get samsungAutoHideTaskbar;
 
   /// No description provided for @samsungDexCommandArrow.
   ///
-  /// In ja, this message translates to:
-  /// **'コマンド矢印を表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar seta de comando'**
   String get samsungDexCommandArrow;
 
   /// No description provided for @samsungIncludePhoneDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopをディスプレイトポロジーに含める'**
+  /// In pt_BR, this message translates to:
+  /// **'Incluir a tela do celular na disposição das telas'**
   String get samsungIncludePhoneDisplay;
 
   /// No description provided for @samsungMirrorPhoneDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'端末画面をミラーリング'**
+  /// In pt_BR, this message translates to:
+  /// **'Espelhar a tela do aparelho'**
   String get samsungMirrorPhoneDisplay;
 
   /// No description provided for @samsungReviewEnable.
   ///
-  /// In ja, this message translates to:
-  /// **'注意事項を確認して設定変更を有効化'**
+  /// In pt_BR, this message translates to:
+  /// **'Ler o aviso e permitir alterações'**
   String get samsungReviewEnable;
 
   /// No description provided for @samsungSeconds15.
   ///
-  /// In ja, this message translates to:
-  /// **'15秒'**
+  /// In pt_BR, this message translates to:
+  /// **'15 segundos'**
   String get samsungSeconds15;
 
   /// No description provided for @samsungSeconds30.
   ///
-  /// In ja, this message translates to:
-  /// **'30秒'**
+  /// In pt_BR, this message translates to:
+  /// **'30 segundos'**
   String get samsungSeconds30;
 
   /// No description provided for @samsungMinute1.
   ///
-  /// In ja, this message translates to:
-  /// **'1分'**
+  /// In pt_BR, this message translates to:
+  /// **'1 minuto'**
   String get samsungMinute1;
 
   /// No description provided for @samsungMinutes2.
   ///
-  /// In ja, this message translates to:
-  /// **'2分'**
+  /// In pt_BR, this message translates to:
+  /// **'2 minutos'**
   String get samsungMinutes2;
 
   /// No description provided for @samsungMinutes5.
   ///
-  /// In ja, this message translates to:
-  /// **'5分'**
+  /// In pt_BR, this message translates to:
+  /// **'5 minutos'**
   String get samsungMinutes5;
 
   /// No description provided for @samsungMinutes10.
   ///
-  /// In ja, this message translates to:
-  /// **'10分'**
+  /// In pt_BR, this message translates to:
+  /// **'10 minutos'**
   String get samsungMinutes10;
 
   /// No description provided for @samsungMinutes20.
   ///
-  /// In ja, this message translates to:
-  /// **'20分'**
+  /// In pt_BR, this message translates to:
+  /// **'20 minutos'**
   String get samsungMinutes20;
 
   /// No description provided for @samsungMinutes30.
   ///
-  /// In ja, this message translates to:
-  /// **'30分'**
+  /// In pt_BR, this message translates to:
+  /// **'30 minutos'**
   String get samsungMinutes30;
 
   /// No description provided for @samsungHour1.
   ///
-  /// In ja, this message translates to:
-  /// **'1時間'**
+  /// In pt_BR, this message translates to:
+  /// **'1 hora'**
   String get samsungHour1;
 
   /// No description provided for @samsungLeft.
   ///
-  /// In ja, this message translates to:
-  /// **'左'**
+  /// In pt_BR, this message translates to:
+  /// **'Esquerda'**
   String get samsungLeft;
 
   /// No description provided for @samsungRight.
   ///
-  /// In ja, this message translates to:
-  /// **'右'**
+  /// In pt_BR, this message translates to:
+  /// **'Direita'**
   String get samsungRight;
 
   /// No description provided for @samsungAutomatic.
   ///
-  /// In ja, this message translates to:
-  /// **'自動'**
+  /// In pt_BR, this message translates to:
+  /// **'Automático'**
   String get samsungAutomatic;
 
   /// No description provided for @samsungGestureNone.
   ///
-  /// In ja, this message translates to:
-  /// **'なし'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhum'**
   String get samsungGestureNone;
 
   /// No description provided for @samsungGestureApps.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリ一覧'**
+  /// In pt_BR, this message translates to:
+  /// **'Apps'**
   String get samsungGestureApps;
 
   /// No description provided for @samsungGestureRecents.
   ///
-  /// In ja, this message translates to:
-  /// **'履歴'**
+  /// In pt_BR, this message translates to:
+  /// **'Recentes'**
   String get samsungGestureRecents;
 
   /// No description provided for @samsungGestureNotifications.
   ///
-  /// In ja, this message translates to:
-  /// **'通知'**
+  /// In pt_BR, this message translates to:
+  /// **'Notificações'**
   String get samsungGestureNotifications;
 
   /// No description provided for @samsungGestureQuickSettings.
   ///
-  /// In ja, this message translates to:
-  /// **'クイック設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações rápidas'**
   String get samsungGestureQuickSettings;
 
   /// No description provided for @samsungHelp_resolution.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsungデスクトップがアプリやウィンドウを描画する作業領域を決めます。高い解像度ほど一度に多くの情報を表示できますが、文字やボタンは小さくなり、描画負荷も増えます。低い解像度は見やすさと動作の軽さを優先できます。Dextop本体の解像度とは別に保存されます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Define a área que o desktop da Samsung usa para desenhar apps e janelas. Resoluções maiores cabem mais conteúdo, mas deixam os controles menores e exigem mais processamento. Resoluções menores favorecem a leitura e o desempenho. Esta opção é salva separadamente da resolução da Área de Trabalho Móvel.'**
   String get samsungHelp_resolution;
 
   /// No description provided for @samsungHelp_screenZoom.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsungデスクトップ上の文字・アイコン・ボタンをまとめて拡大または縮小します。DPIを高くすると各要素が大きく見やすくなり、低くすると同じ画面により多くの内容を表示できます。解像度そのものは変わりません。'**
+  /// In pt_BR, this message translates to:
+  /// **'Ajusta o tamanho de textos, ícones e controles em todo o desktop da Samsung. Um DPI maior deixa tudo maior e mais fácil de ler; um DPI menor cabe mais conteúdo na tela. Não altera a resolução real.'**
   String get samsungHelp_screenZoom;
 
   /// No description provided for @samsungHelp_fontScale.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsungデスクトップ内の文字だけを拡大・縮小します。アイコンやウィンドウの大きさを大きく変えずに読みやすさを調整したい場合に使います。大きくしすぎると一部の画面で文章が折り返されたり、ボタンからはみ出す場合があります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Altera o tamanho do texto sem redimensionar muito ícones e janelas. Use para melhorar a leitura sem perder espaço de trabalho. Valores muito grandes podem fazer o texto quebrar ou transbordar em alguns apps.'**
   String get samsungHelp_fontScale;
 
   /// No description provided for @samsungHelp_screenTimeout.
   ///
-  /// In ja, this message translates to:
-  /// **'操作がないときにSamsungデスクトップ画面が消灯するまでの時間を決めます。長くすると資料や動画を表示したままにしやすくなりますが、消費電力と発熱が増える可能性があります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Define por quanto tempo o desktop da Samsung fica aceso sem uso. Um tempo maior é útil para documentos ou vídeos, mas pode aumentar o consumo de energia e o aquecimento.'**
   String get samsungHelp_screenTimeout;
 
   /// No description provided for @samsungHelp_audioOutput.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にすると、音楽・動画・通知などの音声をHDMIモニターやドックなど外部画面側へ出力します。無効にすると通常は端末側のスピーカーや現在選択中の音声機器が使われます。外部画面にスピーカーがない場合は音が聞こえなくなることがあります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, o áudio de mídia e de notificações sai pela tela HDMI ou pela dock. Quando desativado, normalmente é usado o celular ou o dispositivo de áudio selecionado no momento. Se a tela não tiver alto-falantes, pode ficar sem som.'**
   String get samsungHelp_audioOutput;
 
   /// No description provided for @samsungHelp_displayOrientation.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsungデスクトップを指定した角度で表示します。縦置きモニターや回転可能な外部画面に向きを合わせるための設定です。実際の画面の向きと合わない値にすると、表示とマウス操作の方向がずれる場合があります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Gira o desktop da Samsung para o ângulo escolhido. Use com monitores na vertical ou giratórios. Um valor diferente da posição real da tela pode deixar a imagem e a direção do ponteiro desalinhadas.'**
   String get samsungHelp_displayOrientation;
 
   /// No description provided for @samsungHelp_displayArrangement.
   ///
-  /// In ja, this message translates to:
-  /// **'端末画面が外部画面の左側・右側のどちらにあるかをSamsungへ伝えます。マウスポインターを画面間で移動するときのつながる辺が変わります。実際の設置位置と合わせると、自然に別画面へ移動できます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Informa à Samsung se o celular fica à esquerda ou à direita da tela externa. Isso muda por qual borda o ponteiro passa de uma tela para a outra, para que o movimento corresponda à posição física.'**
   String get samsungHelp_displayArrangement;
 
   /// No description provided for @samsungHelp_autorunTouchpad.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にするとデスクトップ接続時に端末画面へSamsungのタッチパッドが自動表示され、端末をノートPCのタッチパッドのように使えます。Dextop独自のタッチ入力と二重に反応するため、Dextop実行中は非表示にしています。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, o touchpad da Samsung abre automaticamente no celular ao conectar, para usar o celular como o touchpad de um notebook. Ele duplica a entrada da Área de Trabalho Móvel, por isso esta opção fica oculta enquanto ela estiver em execução.'**
   String get samsungHelp_autorunTouchpad;
 
   /// No description provided for @samsungHelp_touchpadScrollDirection.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsungタッチパッドで2本指を動かした方向と、画面がスクロールする方向の関係を反転します。マウスホイール式とスマートフォンの直接操作式のうち、慣れている方向へ合わせるための設定です。'**
+  /// In pt_BR, this message translates to:
+  /// **'Inverte a relação entre o movimento de dois dedos e o movimento da página no touchpad da Samsung. Use para escolher entre a rolagem estilo roda do mouse e a rolagem estilo toque direto.'**
   String get samsungHelp_touchpadScrollDirection;
 
   /// No description provided for @samsungHelp_touchKeyboard.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にするとデスクトップ接続時でも文字入力欄を選んだ際に画面キーボードを表示できます。物理キーボードがない環境では便利ですが、Dextopのキーボード表示制御と重複するため、Dextop実行中は非表示にしています。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, o teclado virtual pode aparecer ao selecionar um campo de texto no modo desktop. É útil sem teclado físico, mas se sobrepõe ao teclado da Área de Trabalho Móvel, por isso fica oculto enquanto ela estiver em execução.'**
   String get samsungHelp_touchKeyboard;
 
   /// No description provided for @samsungHelp_keyboardDex.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にすると物理キーボードを接続していても画面キーボードを表示できます。絵文字・手書き・音声入力を併用したい場合に便利ですが、作業領域が狭くなりDextopのIME制御とも競合するため、Dextop実行中は非表示にしています。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, o teclado virtual continua disponível mesmo com um teclado físico conectado. Ajuda com emojis, escrita à mão e entrada por voz, mas reduz o espaço de trabalho e conflita com o teclado (IME) da Área de Trabalho Móvel.'**
   String get samsungHelp_keyboardDex;
 
   /// No description provided for @samsungHelp_spenInputMode.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にするとS Penを画面へ触れる前のホバー位置も含めてマウスポインターとして利用できます。細かな位置指定やペンでのデスクトップ操作がしやすくなります。描画アプリで筆圧を使いたい場合は、アプリ側の挙動が変わらないか確認してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, a S Pen funciona como ponteiro, inclusive passando sobre a tela antes de tocar. Isso melhora a precisão na área de trabalho. Confira os apps de desenho se você depende do comportamento normal da caneta sensível à pressão.'**
   String get samsungHelp_spenInputMode;
 
   /// No description provided for @samsungHelp_threeFingerGesture.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsungデスクトップで3本指操作を行ったときに、アプリ一覧・ホーム・履歴・戻るなど指定した操作を実行します。Dextopも3本指を操作メニューに使用するため、同時に有効だと誤動作しやすく、Dextop実行中は非表示にしています。'**
+  /// In pt_BR, this message translates to:
+  /// **'Executa a ação escolhida (como Apps, Início, Recentes ou Voltar) quando a Samsung detecta um gesto de três dedos. A Área de Trabalho Móvel também usa três dedos nos controles, por isso esta opção fica oculta enquanto ela estiver em execução.'**
   String get samsungHelp_threeFingerGesture;
 
   /// No description provided for @samsungHelp_fourFingerGesture.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsungデスクトップで4本指操作を行ったときに、選択したシステム操作を実行します。対応タッチパッドでは素早く画面を切り替えられますが、Dextopのマルチタッチ判定と競合するため、Dextop実行中は非表示にしています。'**
+  /// In pt_BR, this message translates to:
+  /// **'Executa a ação do sistema escolhida com um gesto de quatro dedos no touchpad. Pode agilizar a navegação, mas conflita com a detecção multitoque da Área de Trabalho Móvel, por isso fica oculta durante uma sessão.'**
   String get samsungHelp_fourFingerGesture;
 
   /// No description provided for @samsungHelp_autoHideTaskbar.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にすると操作していない間はSamsungデスクトップのタスクバーを隠し、アプリが使える縦方向の領域を広げます。画面下端へポインターを移動すると再表示されます。常にアプリ切り替えを見せたい場合は無効にしてください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, o desktop da Samsung oculta a barra de tarefas enquanto ela não está em uso, dando mais espaço vertical aos apps. Leve o ponteiro até a borda inferior para mostrá-la. Desative se preferir que a troca de apps fique sempre visível.'**
   String get samsungHelp_autoHideTaskbar;
 
   /// No description provided for @samsungHelp_dexCommandArrow.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にするとSamsungデスクトップの操作コマンドを呼び出す矢印を表示します。Samsung側の補助操作へ素早くアクセスできますが、Dextopのオーバーレイや画面端操作と重なる場合があります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, o desktop da Samsung mostra uma seta para abrir os controles de comando da Samsung. Dá acesso mais rápido às ações da Samsung, mas pode se sobrepor às sobreposições ou aos gestos de borda da Área de Trabalho Móvel.'**
   String get samsungHelp_dexCommandArrow;
 
   /// No description provided for @samsungHelp_includePhoneDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にすると端末内蔵画面を外部画面と同じデスクトップの画面構成に含めます。アプリやポインターを端末画面と外部画面の間で移動できる構成になります。端末画面を独立したAndroid操作用として残したい場合は無効にしてください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, a tela do celular passa a fazer parte da mesma disposição de telas que a tela externa, permitindo mover apps e o ponteiro entre elas. Deixe desativado para manter o celular como uma tela de controle Android independente.'**
   String get samsungHelp_includePhoneDisplay;
 
   /// No description provided for @samsungHelp_mirrorPhoneDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'有効にすると端末内蔵画面と同じ内容をデスクトップ側にも表示します。説明やデモで同じ画面を見せたい場合に便利ですが、作業領域を拡張する機能ではなく、両画面に別々のアプリを表示できなくなります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando ativado, a área de trabalho externa mostra o mesmo conteúdo da tela do celular. É útil para demonstrações, mas duplica em vez de ampliar o espaço de trabalho, então as duas telas não podem mostrar apps diferentes.'**
   String get samsungHelp_mirrorPhoneDisplay;
 
   /// No description provided for @keyboardSettingsTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボード'**
+  /// In pt_BR, this message translates to:
+  /// **'Teclado'**
   String get keyboardSettingsTitle;
 
   /// No description provided for @keyboardSettingsDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードテーマとスワイプ入力言語を設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Temas do teclado e idiomas de digitação por gesto'**
   String get keyboardSettingsDescription;
 
   /// No description provided for @keyboardSwipeLanguages.
   ///
-  /// In ja, this message translates to:
-  /// **'スワイプ入力の言語'**
+  /// In pt_BR, this message translates to:
+  /// **'Idiomas de digitação por gesto'**
   String get keyboardSwipeLanguages;
 
   /// No description provided for @keyboardSwipeLanguagesDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'MENUを長押しした時に表示する言語を選択します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Escolha os idiomas exibidos ao manter MENU pressionado.'**
   String get keyboardSwipeLanguagesDescription;
 
   /// No description provided for @keyboardSwipeAddLanguage.
   ///
-  /// In ja, this message translates to:
-  /// **'言語を追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar idioma'**
   String get keyboardSwipeAddLanguage;
 
   /// No description provided for @keyboardSwipeDefaultLanguage.
   ///
-  /// In ja, this message translates to:
-  /// **'デフォルト'**
+  /// In pt_BR, this message translates to:
+  /// **'Padrão'**
   String get keyboardSwipeDefaultLanguage;
 
   /// No description provided for @keyboardSwipeInput.
   ///
-  /// In ja, this message translates to:
-  /// **'なぞり入力'**
+  /// In pt_BR, this message translates to:
+  /// **'Digitação por gesto'**
   String get keyboardSwipeInput;
 
   /// No description provided for @keyboardSwipeInputDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードをなぞって単語を入力します。初期状態では無効です。'**
+  /// In pt_BR, this message translates to:
+  /// **'Digite palavras deslizando pelo teclado. Desativado por padrão.'**
   String get keyboardSwipeInputDescription;
 
   /// No description provided for @keyboardSwipeCandidates.
   ///
-  /// In ja, this message translates to:
-  /// **'変換候補を表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar sugestões de conversão'**
   String get keyboardSwipeCandidates;
 
   /// No description provided for @keyboardSwipeCandidatesDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'なぞり入力後に選択できる変換候補を表示します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostra uma lista de sugestões selecionáveis após a digitação por gesto.'**
   String get keyboardSwipeCandidatesDescription;
 
   /// No description provided for @keyboardThemesTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードテーマ'**
+  /// In pt_BR, this message translates to:
+  /// **'Temas do teclado'**
   String get keyboardThemesTitle;
 
   /// No description provided for @keyboardThemesChoose.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマを選択'**
+  /// In pt_BR, this message translates to:
+  /// **'Escolha um tema'**
   String get keyboardThemesChoose;
 
   /// No description provided for @keyboardThemesNew.
   ///
-  /// In ja, this message translates to:
-  /// **'新しいキーボードテーマ'**
+  /// In pt_BR, this message translates to:
+  /// **'Novo tema de teclado'**
   String get keyboardThemesNew;
 
   /// No description provided for @keyboardThemesName.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマ名'**
+  /// In pt_BR, this message translates to:
+  /// **'Nome do tema'**
   String get keyboardThemesName;
 
   /// No description provided for @keyboardThemesCreate.
   ///
-  /// In ja, this message translates to:
-  /// **'作成'**
+  /// In pt_BR, this message translates to:
+  /// **'Criar'**
   String get keyboardThemesCreate;
 
   /// No description provided for @keyboardThemesEdit.
   ///
-  /// In ja, this message translates to:
-  /// **'編集'**
+  /// In pt_BR, this message translates to:
+  /// **'Editar'**
   String get keyboardThemesEdit;
 
   /// No description provided for @keyboardThemesDone.
   ///
-  /// In ja, this message translates to:
-  /// **'完了'**
+  /// In pt_BR, this message translates to:
+  /// **'Concluído'**
   String get keyboardThemesDone;
 
   /// No description provided for @keyboardThemesDeleteTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマを削除しますか？'**
+  /// In pt_BR, this message translates to:
+  /// **'Excluir o tema?'**
   String get keyboardThemesDeleteTitle;
 
   /// No description provided for @keyboardThemesDeleteBody.
   ///
-  /// In ja, this message translates to:
-  /// **'「{name}」を削除しますか？この操作は元に戻せません。'**
+  /// In pt_BR, this message translates to:
+  /// **'Excluir “{name}”? Não é possível desfazer.'**
   String keyboardThemesDeleteBody(String name);
 
   /// No description provided for @keyboardThemesBuiltIn.
   ///
-  /// In ja, this message translates to:
-  /// **'組み込みテーマは削除できません'**
+  /// In pt_BR, this message translates to:
+  /// **'Os temas integrados não podem ser excluídos'**
   String get keyboardThemesBuiltIn;
 
   /// No description provided for @keyboardThemesSelectFirst.
   ///
-  /// In ja, this message translates to:
-  /// **'先にこのテーマを選択してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Selecione este tema primeiro para visualizá-lo.'**
   String get keyboardThemesSelectFirst;
 
   /// No description provided for @keyboardThemesStartFirst.
   ///
-  /// In ja, this message translates to:
-  /// **'実際のキーボードデモを表示するには、先にDextopを開始してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Inicie a Área de Trabalho Móvel primeiro para ver a sobreposição real do notebook.'**
   String get keyboardThemesStartFirst;
 
   /// No description provided for @keyboardThemesAdd.
   ///
-  /// In ja, this message translates to:
-  /// **'カスタムテーマを追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar um tema personalizado'**
   String get keyboardThemesAdd;
 
   /// No description provided for @keyboardThemesPreview.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードデモを表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Ver demonstração do teclado'**
   String get keyboardThemesPreview;
 
   /// No description provided for @keyboardThemesEditTip.
   ///
-  /// In ja, this message translates to:
-  /// **'編集'**
+  /// In pt_BR, this message translates to:
+  /// **'Editar'**
   String get keyboardThemesEditTip;
 
   /// No description provided for @keyboardThemesImage.
   ///
-  /// In ja, this message translates to:
-  /// **'背景画像を選択'**
+  /// In pt_BR, this message translates to:
+  /// **'Escolher imagem de fundo'**
   String get keyboardThemesImage;
 
   /// No description provided for @keyboardThemesExport.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマをエクスポート'**
+  /// In pt_BR, this message translates to:
+  /// **'Exportar tema'**
   String get keyboardThemesExport;
 
   /// No description provided for @keyboardThemesExportDialog.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードテーマをエクスポート'**
+  /// In pt_BR, this message translates to:
+  /// **'Exportar tema do teclado'**
   String get keyboardThemesExportDialog;
 
   /// No description provided for @keyboardThemesOpacity.
   ///
-  /// In ja, this message translates to:
-  /// **'不透明度'**
+  /// In pt_BR, this message translates to:
+  /// **'Opacidade'**
   String get keyboardThemesOpacity;
 
   /// No description provided for @keyboardThemesBlur.
   ///
-  /// In ja, this message translates to:
-  /// **'ぼかし'**
+  /// In pt_BR, this message translates to:
+  /// **'Desfoque'**
   String get keyboardThemesBlur;
 
   /// No description provided for @keyboardThemesRadius.
   ///
-  /// In ja, this message translates to:
-  /// **'角の丸み'**
+  /// In pt_BR, this message translates to:
+  /// **'Arredondamento dos cantos'**
   String get keyboardThemesRadius;
 
   /// No description provided for @keyboardThemesBackground.
   ///
-  /// In ja, this message translates to:
-  /// **'背景'**
+  /// In pt_BR, this message translates to:
+  /// **'Fundo'**
   String get keyboardThemesBackground;
 
   /// No description provided for @keyboardThemesKey.
   ///
-  /// In ja, this message translates to:
-  /// **'キー'**
+  /// In pt_BR, this message translates to:
+  /// **'Tecla'**
   String get keyboardThemesKey;
 
   /// No description provided for @keyboardThemesBorder.
   ///
-  /// In ja, this message translates to:
-  /// **'枠線'**
+  /// In pt_BR, this message translates to:
+  /// **'Borda'**
   String get keyboardThemesBorder;
 
   /// No description provided for @keyboardThemesText.
   ///
-  /// In ja, this message translates to:
-  /// **'文字'**
+  /// In pt_BR, this message translates to:
+  /// **'Texto'**
   String get keyboardThemesText;
 
   /// No description provided for @keyboardThemesTrackpad.
   ///
-  /// In ja, this message translates to:
-  /// **'トラックパッド'**
+  /// In pt_BR, this message translates to:
+  /// **'Trackpad'**
   String get keyboardThemesTrackpad;
 
   /// No description provided for @keyboardThemesKeyOpacity.
   ///
-  /// In ja, this message translates to:
-  /// **'キーの透明度'**
+  /// In pt_BR, this message translates to:
+  /// **'Opacidade das teclas'**
   String get keyboardThemesKeyOpacity;
 
   /// No description provided for @keyboardThemesTrackpadOpacity.
   ///
-  /// In ja, this message translates to:
-  /// **'トラックパッドの透明度'**
+  /// In pt_BR, this message translates to:
+  /// **'Opacidade do trackpad'**
   String get keyboardThemesTrackpadOpacity;
 
   /// No description provided for @keyboardThemesShowTrackpadLabel.
   ///
-  /// In ja, this message translates to:
-  /// **'TRACKPADの文字を表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar o rótulo TRACKPAD'**
   String get keyboardThemesShowTrackpadLabel;
 
   /// No description provided for @keyboardThemesDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ラップトップキーボードのテーマと外観をカスタマイズ'**
+  /// In pt_BR, this message translates to:
+  /// **'Temas do teclado de notebook e aparência personalizada'**
   String get keyboardThemesDescription;
 
   /// No description provided for @autoSettingsTitle.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Auto'**
   String get autoSettingsTitle;
 
   /// No description provided for @autoSettingsDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Auto専用の表示とスマホ側ミラーリングを設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Opções da tela do Android Auto e do espelhamento no celular'**
   String get autoSettingsDescription;
 
   /// No description provided for @autoSettingsOptions.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Android Auto'**
   String get autoSettingsOptions;
 
   /// No description provided for @autoMatchPhoneOrientation.
   ///
-  /// In ja, this message translates to:
-  /// **'スマホ側ミラーリングの向きをAutoに合わせる'**
+  /// In pt_BR, this message translates to:
+  /// **'Ajustar a orientação do espelho do celular ao Auto'**
   String get autoMatchPhoneOrientation;
 
   /// No description provided for @autoMatchPhoneOrientationDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'スマホ側DextopをAutoへ表示するとき、車載画面の縦横比に合わせて向きを変更します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Quando a Área de Trabalho Móvel é exibida no Auto a partir do espelho do celular, ajusta a orientação à proporção da central multimídia.'**
   String get autoMatchPhoneOrientationDescription;
 
   /// No description provided for @autoExperimentalFeatures.
   ///
-  /// In ja, this message translates to:
-  /// **'実験的な機能'**
+  /// In pt_BR, this message translates to:
+  /// **'Recursos experimentais'**
   String get autoExperimentalFeatures;
 
   /// No description provided for @autoHiddenDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'Auto用仮想ディスプレイを端末で非表示にする'**
+  /// In pt_BR, this message translates to:
+  /// **'Ocultar no celular a tela virtual do Auto'**
   String get autoHiddenDisplay;
 
   /// No description provided for @autoHiddenDisplayDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Auto用デスクトップの仮想ディスプレイを端末上へ表示せずに転送します。利用可否は端末によって異なります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Transmite a área de trabalho do Auto sem mostrar a sobreposição da tela virtual no celular. A disponibilidade depende do aparelho.'**
   String get autoHiddenDisplayDescription;
 
   /// No description provided for @autoDisplayModeDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Android Autoでは、接続した車載画面に合わせた独立したデスクトップを使用します。'**
+  /// In pt_BR, this message translates to:
+  /// **'O Android Auto usa uma tela de desktop independente, dimensionada para a central multimídia conectada.'**
   String get autoDisplayModeDescription;
 
   /// No description provided for @setupEmbeddedTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopアクセスを設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurar o acesso da Área de Trabalho Móvel'**
   String get setupEmbeddedTitle;
 
   /// No description provided for @setupEmbeddedDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopの内蔵アクセスサービスを接続します。\n\n1. 通知を許可します。\n2. ワイヤレスデバッグを開いて有効にします。\n3. 「ペア設定コードによるデバイスのペア設定」をタップします。\n4. 通知の入力欄にAndroidが表示した6桁のコードを入力します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Conecte o serviço de acesso integrado da Área de Trabalho Móvel.\n\n1. Permita as notificações.\n2. Abra e ative a Depuração por Wi-Fi.\n3. Toque em Parear o dispositivo com um código de pareamento.\n4. Digite no campo da notificação o código de seis dígitos mostrado pelo Android.'**
   String get setupEmbeddedDescription;
 
   /// No description provided for @setupEmbeddedSetupDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ワイヤレスデバッグの「ペア設定コードによるデバイスのペア設定」を開いてください。ペア設定サービスを検出すると、6桁のコードを入力する通知が自動的に表示されます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Na Depuração por Wi-Fi, abra “Parear o dispositivo com um código de pareamento”. Quando o serviço de pareamento for detectado, aparecerá automaticamente uma notificação para você digitar o código de seis dígitos.'**
   String get setupEmbeddedSetupDescription;
 
   /// No description provided for @setupEmbeddedWirelessDebuggingDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Androidのワイヤレスデバッグ設定を開きます。ここでワイヤレスデバッグを有効にしてください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Abra as configurações de Depuração por Wi-Fi do Android e ative a opção.'**
   String get setupEmbeddedWirelessDebuggingDescription;
 
   /// No description provided for @setupEmbeddedOpenWirelessDebugging.
   ///
-  /// In ja, this message translates to:
-  /// **'ワイヤレスデバッグを開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir Depuração por Wi-Fi'**
   String get setupEmbeddedOpenWirelessDebugging;
 
   /// No description provided for @setupEmbeddedEnableWirelessDebugging.
   ///
-  /// In ja, this message translates to:
-  /// **'ワイヤレスデバッグを有効化'**
+  /// In pt_BR, this message translates to:
+  /// **'Ativar Depuração por Wi-Fi'**
   String get setupEmbeddedEnableWirelessDebugging;
 
   /// No description provided for @setupEmbeddedPairingCode.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定コード'**
+  /// In pt_BR, this message translates to:
+  /// **'Código de pareamento'**
   String get setupEmbeddedPairingCode;
 
   /// No description provided for @setupEmbeddedPairingCodeHint.
   ///
-  /// In ja, this message translates to:
-  /// **'Androidに表示された6桁のコード'**
+  /// In pt_BR, this message translates to:
+  /// **'Digite o código de seis dígitos mostrado pelo Android'**
   String get setupEmbeddedPairingCodeHint;
 
   /// No description provided for @setupEmbeddedInvalidCode.
   ///
-  /// In ja, this message translates to:
-  /// **'有効な6桁のコードを入力してください'**
+  /// In pt_BR, this message translates to:
+  /// **'Digite um código válido de seis dígitos'**
   String get setupEmbeddedInvalidCode;
 
   /// No description provided for @setupEmbeddedPair.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定して開始'**
+  /// In pt_BR, this message translates to:
+  /// **'Parear e iniciar'**
   String get setupEmbeddedPair;
 
   /// No description provided for @setupEmbeddedPairAndStart.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopアクセスを設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurar o acesso da Área de Trabalho Móvel'**
   String get setupEmbeddedPairAndStart;
 
   /// No description provided for @setupEmbeddedIncluded.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopアクセスサービス内蔵'**
+  /// In pt_BR, this message translates to:
+  /// **'Serviço de acesso da Área de Trabalho Móvel incluído'**
   String get setupEmbeddedIncluded;
 
   /// No description provided for @setupEmbeddedConnectedDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopのアクセス権限を使用できます。'**
+  /// In pt_BR, this message translates to:
+  /// **'A permissão de acesso está pronta para uso.'**
   String get setupEmbeddedConnectedDescription;
 
   /// No description provided for @setupEmbeddedConfigure.
   ///
-  /// In ja, this message translates to:
-  /// **'ワイヤレスデバッグのペア設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Depuração por Wi-Fi pareada'**
   String get setupEmbeddedConfigure;
 
   /// No description provided for @setupEmbeddedPairingFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定に失敗しました'**
+  /// In pt_BR, this message translates to:
+  /// **'Falha no pareamento'**
   String get setupEmbeddedPairingFailed;
 
   /// No description provided for @setupEmbeddedStartFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopアクセスサービスを開始できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível iniciar o serviço de acesso da Área de Trabalho Móvel'**
   String get setupEmbeddedStartFailed;
 
   /// No description provided for @setupEmbeddedNotificationPermission.
   ///
-  /// In ja, this message translates to:
-  /// **'通知権限'**
+  /// In pt_BR, this message translates to:
+  /// **'Permissão de notificação'**
   String get setupEmbeddedNotificationPermission;
 
   /// No description provided for @setupEmbeddedAllowNotifications.
   ///
-  /// In ja, this message translates to:
-  /// **'通知を許可'**
+  /// In pt_BR, this message translates to:
+  /// **'Permitir notificações'**
   String get setupEmbeddedAllowNotifications;
 
   /// No description provided for @setupEmbeddedSearchingPairing.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定サービスを検索中'**
+  /// In pt_BR, this message translates to:
+  /// **'Procurando o serviço de pareamento'**
   String get setupEmbeddedSearchingPairing;
 
   /// No description provided for @setupEmbeddedPairingServiceFound.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定サービスが見つかりました'**
+  /// In pt_BR, this message translates to:
+  /// **'Serviço de pareamento encontrado'**
   String get setupEmbeddedPairingServiceFound;
 
   /// No description provided for @setupEmbeddedPairingInProgress.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定中'**
+  /// In pt_BR, this message translates to:
+  /// **'Pareamento em andamento'**
   String get setupEmbeddedPairingInProgress;
 
   /// No description provided for @setupEmbeddedPairingServiceNotFound.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定サービスが見つかりません'**
+  /// In pt_BR, this message translates to:
+  /// **'Serviço de pareamento não encontrado'**
   String get setupEmbeddedPairingServiceNotFound;
 
   /// No description provided for @setupEmbeddedRetryPairing.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定を再試行'**
+  /// In pt_BR, this message translates to:
+  /// **'Tentar parear novamente'**
   String get setupEmbeddedRetryPairing;
 
   /// No description provided for @setupEmbeddedPairingNotificationReady.
   ///
-  /// In ja, this message translates to:
-  /// **'通知の入力欄に6桁のコードを入力してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Digite o código de seis dígitos no campo da notificação.'**
   String get setupEmbeddedPairingNotificationReady;
 
   /// No description provided for @experimentalCoverDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'カバーディスプレイセッション'**
+  /// In pt_BR, this message translates to:
+  /// **'Sessão na tela externa'**
   String get experimentalCoverDisplay;
 
   /// No description provided for @experimentalGamepad.
   ///
-  /// In ja, this message translates to:
-  /// **'実験的なゲームパッド機能'**
+  /// In pt_BR, this message translates to:
+  /// **'Gamepad experimental'**
   String get experimentalGamepad;
 
   /// No description provided for @experimentalGamepadDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'仮想ゲームパッドとカバー画面の背面L/Rボタンを有効にします'**
+  /// In pt_BR, this message translates to:
+  /// **'Ativa o gamepad virtual e os botões traseiros L/R na tela externa'**
   String get experimentalGamepadDescription;
 
   /// No description provided for @experimentalCoverDisplayDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'折りたたみ端末のカバー画面で通常のAndroidまたは独立したDextopセッションを使用します'**
+  /// In pt_BR, this message translates to:
+  /// **'Use o Android ou uma sessão independente na tela externa de um dobrável'**
   String get experimentalCoverDisplayDescription;
 
   /// No description provided for @experimentalCoverDisplayUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'折りたたみ端末でのみ利用できます'**
+  /// In pt_BR, this message translates to:
+  /// **'Disponível apenas em dispositivos dobráveis'**
   String get experimentalCoverDisplayUnavailable;
 
   /// No description provided for @experimentalForceLaptopMode.
   ///
-  /// In ja, this message translates to:
-  /// **'ラップトップモードを強制的に利用'**
+  /// In pt_BR, this message translates to:
+  /// **'Forçar disponibilidade do modo notebook'**
   String get experimentalForceLaptopMode;
 
   /// No description provided for @experimentalForceLaptopModeDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'非折りたたみ端末でもオーバーレイからラップトップモードを手動で起動できるようにします'**
+  /// In pt_BR, this message translates to:
+  /// **'Permite iniciar manualmente o modo notebook pela sobreposição em dispositivos não dobráveis'**
   String get experimentalForceLaptopModeDescription;
 
   /// No description provided for @experimentalBlackBerryMode.
   ///
-  /// In ja, this message translates to:
-  /// **'BlackBerryモード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo BlackBerry'**
   String get experimentalBlackBerryMode;
 
   /// No description provided for @experimentalBlackBerryModeDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'スマートフォン向けのコンパクトな物理キーボード風配列をオーバーレイから利用できるようにします'**
+  /// In pt_BR, this message translates to:
+  /// **'Ativa, no painel de controle, um teclado compacto para celular inspirado em teclados físicos'**
   String get experimentalBlackBerryModeDescription;
 
   /// No description provided for @blackBerryAutoStart.
   ///
-  /// In ja, this message translates to:
-  /// **'BlackBerryモードを自動で開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir automaticamente o modo BlackBerry'**
   String get blackBerryAutoStart;
 
   /// No description provided for @blackBerryAutoStartDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'縦持ちでDextopセッションを開始した時にBlackBerryキーボードを自動で表示します'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostra automaticamente o teclado BlackBerry ao iniciar uma sessão da Área de Trabalho Móvel no modo retrato'**
   String get blackBerryAutoStartDescription;
 
   /// No description provided for @keyboardHaptics.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードのハプティック'**
+  /// In pt_BR, this message translates to:
+  /// **'Resposta tátil do teclado'**
   String get keyboardHaptics;
 
   /// No description provided for @keyboardHapticsDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードのキーを操作した時に振動します'**
+  /// In pt_BR, this message translates to:
+  /// **'Vibra ao pressionar teclas do teclado'**
   String get keyboardHapticsDescription;
 
   /// No description provided for @pointerHaptics.
   ///
-  /// In ja, this message translates to:
-  /// **'カーソル操作のハプティック'**
+  /// In pt_BR, this message translates to:
+  /// **'Resposta tátil do ponteiro'**
   String get pointerHaptics;
 
   /// No description provided for @pointerHapticsDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'トラックパッドでクリックやジェスチャーを操作した時に振動します'**
+  /// In pt_BR, this message translates to:
+  /// **'Vibra ao clicar e fazer gestos no touchpad'**
   String get pointerHapticsDescription;
 
   /// No description provided for @hapticsStrength.
   ///
-  /// In ja, this message translates to:
-  /// **'ハプティックの強さ'**
+  /// In pt_BR, this message translates to:
+  /// **'Intensidade da resposta tátil'**
   String get hapticsStrength;
 
   /// No description provided for @nativeUnknownPermissionResult.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuから不明な権限結果が返されました'**
+  /// In pt_BR, this message translates to:
+  /// **'O Shizuku retornou um resultado de permissão desconhecido'**
   String get nativeUnknownPermissionResult;
 
   /// No description provided for @nativeDevice.
   ///
-  /// In ja, this message translates to:
-  /// **'端末'**
+  /// In pt_BR, this message translates to:
+  /// **'Dispositivo'**
   String get nativeDevice;
 
   /// No description provided for @nativeCoverDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'カバーディスプレイ'**
+  /// In pt_BR, this message translates to:
+  /// **'Tela externa'**
   String get nativeCoverDisplay;
 
   /// No description provided for @nativeCoverDisplayDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'カバー画面で通常のAndroidを開くか、独立したDextopセッションを作成します'**
+  /// In pt_BR, this message translates to:
+  /// **'Abra o Android ou crie uma sessão independente da Área de Trabalho Móvel na tela externa'**
   String get nativeCoverDisplayDescription;
 
   /// No description provided for @nativeCoverAndroidDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'カバー画面を通常のAndroidとして使用します。メイン側のDextopセッションは継続します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Use a tela externa com o Android normal enquanto a sessão principal da Área de Trabalho Móvel continua.'**
   String get nativeCoverAndroidDescription;
 
   /// No description provided for @nativeCoverDextopDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'カバー画面にメイン側とは独立したDextopセッションを作成します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Crie uma sessão da Área de Trabalho Móvel na tela externa, independente da sessão principal.'**
   String get nativeCoverDextopDescription;
 
   /// No description provided for @nativeOpenCoverAndroid.
   ///
-  /// In ja, this message translates to:
-  /// **'通常のAndroidを開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir o Android na tela externa'**
   String get nativeOpenCoverAndroid;
 
   /// No description provided for @nativeStopCoverAndroid.
   ///
-  /// In ja, this message translates to:
-  /// **'Androidセッションを終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrar sessão do Android'**
   String get nativeStopCoverAndroid;
 
   /// No description provided for @nativeStartCoverDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'カバー側にDextopセッションを作成'**
+  /// In pt_BR, this message translates to:
+  /// **'Criar sessão na tela externa'**
   String get nativeStartCoverDextop;
 
   /// No description provided for @nativeStopCoverDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'カバー側のセッションを終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrar a sessão da tela externa'**
   String get nativeStopCoverDextop;
 
   /// No description provided for @nativeCoverDisplayFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'カバーディスプレイを変更できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível atualizar a tela externa'**
   String get nativeCoverDisplayFailed;
 
   /// No description provided for @nativeBackButtons.
   ///
-  /// In ja, this message translates to:
-  /// **'背面ボタン'**
+  /// In pt_BR, this message translates to:
+  /// **'Botões traseiros'**
   String get nativeBackButtons;
 
   /// No description provided for @nativeBackButtonsDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'カバー画面をL/R・L2/R2の背面ボタンとして使用します'**
+  /// In pt_BR, this message translates to:
+  /// **'Usa a tela externa como botões de ombro L/R e L2/R2'**
   String get nativeBackButtonsDescription;
 
   /// No description provided for @nativeStartBackButtons.
   ///
-  /// In ja, this message translates to:
-  /// **'背面ボタンを開始'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar botões traseiros'**
   String get nativeStartBackButtons;
 
   /// No description provided for @nativeStopBackButtons.
   ///
-  /// In ja, this message translates to:
-  /// **'背面ボタンを終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrar botões traseiros'**
   String get nativeStopBackButtons;
 
   /// No description provided for @nativeBackButtonsConfirmTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'カバー画面を切り替えますか？'**
+  /// In pt_BR, this message translates to:
+  /// **'Trocar a tela externa?'**
   String get nativeBackButtonsConfirmTitle;
 
   /// No description provided for @nativeBackButtonsConfirmMessage.
   ///
-  /// In ja, this message translates to:
-  /// **'現在のカバー画面の動作を終了して、背面ボタンを表示します。'**
+  /// In pt_BR, this message translates to:
+  /// **'A atividade atual da tela externa será encerrada antes de os botões traseiros aparecerem.'**
   String get nativeBackButtonsConfirmMessage;
 
   /// No description provided for @nativeSwitchToResolutionSuffix.
   ///
-  /// In ja, this message translates to:
-  /// **'この解像度とDPIへ切り替えます'**
+  /// In pt_BR, this message translates to:
+  /// **'Alternar para esta resolução e DPI'**
   String get nativeSwitchToResolutionSuffix;
 
   /// No description provided for @nativeShizukuUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuを利用できません'**
+  /// In pt_BR, this message translates to:
+  /// **'O Shizuku não está disponível'**
   String get nativeShizukuUnavailable;
 
   /// No description provided for @nativeSelectedAppCannotLaunch.
   ///
-  /// In ja, this message translates to:
-  /// **'選択したアプリを起動できません'**
+  /// In pt_BR, this message translates to:
+  /// **'O aplicativo selecionado não pode ser iniciado'**
   String get nativeSelectedAppCannotLaunch;
 
   /// No description provided for @nativeShizukuBinderUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuへの接続を利用できません'**
+  /// In pt_BR, this message translates to:
+  /// **'A conexão com o Shizuku não está disponível'**
   String get nativeShizukuBinderUnavailable;
 
   /// No description provided for @nativeMirrorSurfaceUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'ミラー表示領域を利用できません'**
+  /// In pt_BR, this message translates to:
+  /// **'A superfície de espelhamento não está disponível'**
   String get nativeMirrorSurfaceUnavailable;
 
   /// No description provided for @nativeRotationReleaseUnsupported.
   ///
-  /// In ja, this message translates to:
-  /// **'画面回転の固定解除に対応していません'**
+  /// In pt_BR, this message translates to:
+  /// **'Não há suporte para liberar o bloqueio de rotação'**
   String get nativeRotationReleaseUnsupported;
 
   /// No description provided for @nativePerformanceHudFormat.
   ///
-  /// In ja, this message translates to:
-  /// **'%1\$.1f FPS  |  %2\$d MB\nバッテリー: %3\$d%%  |  %4\$s\nCPU温度: %6\$s  |  入力: %5\$s'**
+  /// In pt_BR, this message translates to:
+  /// **'%1\$.1f FPS  |  %2\$d MB\\nBateria: %3\$d%%  |  %4\$s\\nCPU: %6\$s  |  Entrada: %5\$s'**
   String get nativePerformanceHudFormat;
 
   /// No description provided for @nativeInputMouse.
   ///
-  /// In ja, this message translates to:
-  /// **'マウス'**
+  /// In pt_BR, this message translates to:
+  /// **'Mouse'**
   String get nativeInputMouse;
 
   /// No description provided for @nativeInputTouch.
   ///
-  /// In ja, this message translates to:
-  /// **'タップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque'**
   String get nativeInputTouch;
 
   /// No description provided for @nativeInputTrackpad.
   ///
-  /// In ja, this message translates to:
-  /// **'トラックパッド'**
+  /// In pt_BR, this message translates to:
+  /// **'Trackpad'**
   String get nativeInputTrackpad;
 
   /// No description provided for @nativeInputIdle.
   ///
-  /// In ja, this message translates to:
-  /// **'待機中'**
+  /// In pt_BR, this message translates to:
+  /// **'Inativo'**
   String get nativeInputIdle;
 
   /// No description provided for @nativePhysicalMouse.
   ///
-  /// In ja, this message translates to:
-  /// **'物理マウスの入力先を切り替え'**
+  /// In pt_BR, this message translates to:
+  /// **'Alternar destino do mouse físico'**
   String get nativePhysicalMouse;
 
   /// No description provided for @nativePhysicalKeyboard.
   ///
-  /// In ja, this message translates to:
-  /// **'物理キーボードの入力先を切り替え'**
+  /// In pt_BR, this message translates to:
+  /// **'Alternar destino do teclado físico'**
   String get nativePhysicalKeyboard;
 
   /// No description provided for @nativePhysicalMouseDemo.
   ///
-  /// In ja, this message translates to:
-  /// **'物理マウスの入力先をAndroidとDextopの間で切り替えます。対応端末で外部ディスプレイ接続中に表示されます'**
+  /// In pt_BR, this message translates to:
+  /// **'Alterne o mouse físico entre o Android e a Área de Trabalho Móvel. Disponível em dispositivos compatíveis enquanto uma tela externa estiver conectada.'**
   String get nativePhysicalMouseDemo;
 
   /// No description provided for @nativePhysicalKeyboardDemo.
   ///
-  /// In ja, this message translates to:
-  /// **'物理キーボードの入力先をAndroidとDextopの間で切り替えます。対応端末で外部ディスプレイ接続中に表示されます'**
+  /// In pt_BR, this message translates to:
+  /// **'Alterne o teclado físico entre o Android e a Área de Trabalho Móvel. Disponível em dispositivos compatíveis enquanto uma tela externa estiver conectada.'**
   String get nativePhysicalKeyboardDemo;
 
   /// No description provided for @nativeTheThreeFingerGestureIsAnEssential.
   ///
-  /// In ja, this message translates to:
-  /// **'3本指ジェスチャーはDextop使用中に必須の操作方法です。\\n各ボタンをタップすると、ここに機能の説明が表示されます'**
+  /// In pt_BR, this message translates to:
+  /// **'O gesto de três dedos é essencial durante o uso da Área de Trabalho Móvel.\\nToque em um botão para ver sua função.'**
   String get nativeTheThreeFingerGestureIsAnEssential;
 
   /// No description provided for @nativeAsusZenuiRogUiDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'ASUS ZenUI / ROG UI デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop ASUS ZenUI / ROG UI'**
   String get nativeAsusZenuiRogUiDesktop;
 
   /// No description provided for @nativeAndroidDesktopFreeform.
   ///
-  /// In ja, this message translates to:
-  /// **'Android デスクトップ（Freeform）'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop Android (forma livre)'**
   String get nativeAndroidDesktopFreeform;
 
   /// No description provided for @nativeColorosDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'ColorOS 系デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop ColorOS'**
   String get nativeColorosDesktop;
 
   /// No description provided for @nativeAdjustTheVolumeOfPlaybackOnDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopで再生する音量を調整します'**
+  /// In pt_BR, this message translates to:
+  /// **'Ajustar o volume de mídia na Área de Trabalho Móvel'**
   String get nativeAdjustTheVolumeOfPlaybackOnDextop;
 
   /// No description provided for @nativeSwitchBetweenPortraitAndLandscapeOrientationOf.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopの縦向きと横向きを切り替えます'**
+  /// In pt_BR, this message translates to:
+  /// **'Alternar a Área de Trabalho Móvel entre retrato e paisagem'**
   String get nativeSwitchBetweenPortraitAndLandscapeOrientationOf;
 
   /// No description provided for @nativeSwitchDextopResolutionAndDpi.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopの解像度とDPIを切り替えます'**
+  /// In pt_BR, this message translates to:
+  /// **'Alterar a resolução e o DPI da Área de Trabalho Móvel'**
   String get nativeSwitchDextopResolutionAndDpi;
 
   /// No description provided for @nativePauseDextopAndReturnYourAndroidTo.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopを一時停止し、Androidを通常操作できる状態へ戻します'**
+  /// In pt_BR, this message translates to:
+  /// **'Pausar a Área de Trabalho Móvel e retornar o Android ao uso normal.'**
   String get nativePauseDextopAndReturnYourAndroidTo;
 
   /// No description provided for @nativeTerminateYourDextopSession.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopセッションを終了します'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrar a sessão da Área de Trabalho Móvel'**
   String get nativeTerminateYourDextopSession;
 
   /// No description provided for @nativeAdjustTheBrightnessOfTheDesktopDisplay.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop表示の明るさを調整します'**
+  /// In pt_BR, this message translates to:
+  /// **'Ajustar o brilho da tela da Área de Trabalho Móvel'**
   String get nativeAdjustTheBrightnessOfTheDesktopDisplay;
 
   /// No description provided for @nativeHonorMagicosDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'HONOR MagicOS デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop HONOR MagicOS'**
   String get nativeHonorMagicosDesktop;
 
   /// No description provided for @nativeHuaweiEmuiDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'Huawei EMUI デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop Huawei EMUI'**
   String get nativeHuaweiEmuiDesktop;
 
   /// No description provided for @nativeHyperosMiuiDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'HyperOS / MIUI デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop HyperOS / MIUI'**
   String get nativeHyperosMiuiDesktop;
 
   /// No description provided for @nativeMotorolaLenovoDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'Motorola / Lenovo デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop Motorola / Lenovo'**
   String get nativeMotorolaLenovoDesktop;
 
   /// No description provided for @nativeNothingOsDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'Nothing OS デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop Nothing OS'**
   String get nativeNothingOsDesktop;
 
   /// No description provided for @nativeOriginosFuntouchOsDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'OriginOS / Funtouch OS デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop OriginOS / Funtouch OS'**
   String get nativeOriginosFuntouchOsDesktop;
 
   /// No description provided for @nativePixelAndroidDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'Pixel Android デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desktop Android do Pixel'**
   String get nativePixelAndroidDesktop;
 
   /// No description provided for @nativeShizukuPermissionCheckTimedOut.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuの権限確認がタイムアウトしました'**
+  /// In pt_BR, this message translates to:
+  /// **'A verificação de permissão do Shizuku expirou'**
   String get nativeShizukuPermissionCheckTimedOut;
 
   /// No description provided for @nativeRequiresConnectionToShizukuAndPermissions.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuへの接続と権限許可が必要です'**
+  /// In pt_BR, this message translates to:
+  /// **'É necessária uma conexão com o Shizuku e a respectiva permissão'**
   String get nativeRequiresConnectionToShizukuAndPermissions;
 
   /// No description provided for @nativePermissionDeniedToShizuku.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuへの権限が拒否されました'**
+  /// In pt_BR, this message translates to:
+  /// **'A permissão do Shizuku foi negada'**
   String get nativePermissionDeniedToShizuku;
 
   /// No description provided for @nativePleaseInstallShizuku.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuをインストールしてください'**
+  /// In pt_BR, this message translates to:
+  /// **'Instale o Shizuku'**
   String get nativePleaseInstallShizuku;
 
   /// No description provided for @nativePleaseStartShizuku.
   ///
-  /// In ja, this message translates to:
-  /// **'Shizukuを起動してください'**
+  /// In pt_BR, this message translates to:
+  /// **'Inicie o Shizuku'**
   String get nativePleaseStartShizuku;
 
   /// No description provided for @nativeRemoveThisResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'この解像度を削除'**
+  /// In pt_BR, this message translates to:
+  /// **'Excluir esta resolução'**
   String get nativeRemoveThisResolution;
 
   /// No description provided for @nativeNoAppSelected.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリが選択されていません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhum aplicativo selecionado'**
   String get nativeNoAppSelected;
 
   /// No description provided for @nativeCouldNotStartApp.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリを起動できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível iniciar o aplicativo'**
   String get nativeCouldNotStartApp;
 
   /// No description provided for @nativeAddCustomResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'カスタム解像度を追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar resolução personalizada'**
   String get nativeAddCustomResolution;
 
   /// No description provided for @nativeRotate180.
   ///
-  /// In ja, this message translates to:
-  /// **'180度回転'**
+  /// In pt_BR, this message translates to:
+  /// **'Girar 180°'**
   String get nativeRotate180;
 
   /// No description provided for @nativeCast.
   ///
-  /// In ja, this message translates to:
-  /// **'キャスト'**
+  /// In pt_BR, this message translates to:
+  /// **'Transmitir'**
   String get nativeCast;
 
   /// No description provided for @nativeCastDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'キャスト先を選択'**
+  /// In pt_BR, this message translates to:
+  /// **'Escolher um receptor de transmissão'**
   String get nativeCastDescription;
 
   /// No description provided for @nativeNoCastDevices.
   ///
-  /// In ja, this message translates to:
-  /// **'利用可能なGoogle Castデバイスがありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhum dispositivo Google Cast está disponível'**
   String get nativeNoCastDevices;
 
   /// No description provided for @nativeCastUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'Google Castを初期化できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível inicializar o Google Cast'**
   String get nativeCastUnavailable;
 
   /// No description provided for @nativeCasting.
   ///
-  /// In ja, this message translates to:
-  /// **'キャスト中'**
+  /// In pt_BR, this message translates to:
+  /// **'Transmitindo'**
   String get nativeCasting;
 
   /// No description provided for @nativeStopCasting.
   ///
-  /// In ja, this message translates to:
-  /// **'キャストを終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Parar transmissão'**
   String get nativeStopCasting;
 
   /// No description provided for @nativeScanAgain.
   ///
-  /// In ja, this message translates to:
-  /// **'再スキャン'**
+  /// In pt_BR, this message translates to:
+  /// **'Procurar novamente'**
   String get nativeScanAgain;
 
   /// No description provided for @nativeScanning.
   ///
-  /// In ja, this message translates to:
-  /// **'スキャン中…'**
+  /// In pt_BR, this message translates to:
+  /// **'Procurando…'**
   String get nativeScanning;
 
   /// No description provided for @nativeCursor.
   ///
-  /// In ja, this message translates to:
-  /// **'カーソル'**
+  /// In pt_BR, this message translates to:
+  /// **'Cursor'**
   String get nativeCursor;
 
   /// No description provided for @nativeTap.
   ///
-  /// In ja, this message translates to:
-  /// **'タップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque'**
   String get nativeTap;
 
   /// No description provided for @nativeTapToExit.
   ///
-  /// In ja, this message translates to:
-  /// **'タップして終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque para sair'**
   String get nativeTapToExit;
 
   /// No description provided for @nativeTapToOpen.
   ///
-  /// In ja, this message translates to:
-  /// **'タップして開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque para abrir'**
   String get nativeTapToOpen;
 
   /// No description provided for @nativeYouCanRearrangeTheLayoutInThe.
   ///
-  /// In ja, this message translates to:
-  /// **'ボタンを長押しして、操作パネル内の配置を並べ替えられます'**
+  /// In pt_BR, this message translates to:
+  /// **'Mantenha um botão pressionado para reorganizar o painel de controle.'**
   String get nativeYouCanRearrangeTheLayoutInThe;
 
   /// No description provided for @nativeWorkSpace.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペース'**
+  /// In pt_BR, this message translates to:
+  /// **'Espaço de trabalho'**
   String get nativeWorkSpace;
 
   /// No description provided for @nativeExpandWorkspace.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペースを展開'**
+  /// In pt_BR, this message translates to:
+  /// **'Expandir espaço de trabalho'**
   String get nativeExpandWorkspace;
 
   /// No description provided for @nativeTemporarilyReturnToAndroid.
   ///
-  /// In ja, this message translates to:
-  /// **'一時的にAndroidに戻る'**
+  /// In pt_BR, this message translates to:
+  /// **'Retornar temporariamente ao Android'**
   String get nativeTemporarilyReturnToAndroid;
 
   /// No description provided for @nativeLaptopMode.
   ///
-  /// In ja, this message translates to:
-  /// **'ラップトップモード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo laptop'**
   String get nativeLaptopMode;
 
   /// No description provided for @nativeLaptopModeDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'折りたたみ端末の下半分にキーボードとトラックパッドを表示します'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostra um teclado e um trackpad na metade inferior de um dispositivo dobrável.'**
   String get nativeLaptopModeDescription;
 
   /// No description provided for @nativeKeyboardStyle.
   ///
-  /// In ja, this message translates to:
-  /// **'スタイル'**
+  /// In pt_BR, this message translates to:
+  /// **'Estilo'**
   String get nativeKeyboardStyle;
 
   /// No description provided for @nativeBlackBerryMode.
   ///
-  /// In ja, this message translates to:
-  /// **'BlackBerryモード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo BlackBerry'**
   String get nativeBlackBerryMode;
 
   /// No description provided for @nativeBlackBerryLayout.
   ///
-  /// In ja, this message translates to:
-  /// **'BlackBerryレイアウト'**
+  /// In pt_BR, this message translates to:
+  /// **'Layout BlackBerry'**
   String get nativeBlackBerryLayout;
 
   /// No description provided for @nativeAutomaticLayout.
   ///
-  /// In ja, this message translates to:
-  /// **'自動レイアウト'**
+  /// In pt_BR, this message translates to:
+  /// **'Layout automático'**
   String get nativeAutomaticLayout;
 
   /// No description provided for @nativeManualHeight.
   ///
-  /// In ja, this message translates to:
-  /// **'高さを手動調整'**
+  /// In pt_BR, this message translates to:
+  /// **'Ajuste manual da altura'**
   String get nativeManualHeight;
 
   /// No description provided for @nativeKeyboardHeight.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードの高さ'**
+  /// In pt_BR, this message translates to:
+  /// **'Altura do teclado'**
   String get nativeKeyboardHeight;
 
   /// No description provided for @nativeBlackBerryModeDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'スマートフォン向けのコンパクトなキーボードだけを表示します'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostra um teclado compacto para celular sem trackpad.'**
   String get nativeBlackBerryModeDescription;
 
   /// No description provided for @nativeVirtualGamepad.
   ///
-  /// In ja, this message translates to:
-  /// **'仮想ゲームパッド'**
+  /// In pt_BR, this message translates to:
+  /// **'Gamepad virtual'**
   String get nativeVirtualGamepad;
 
   /// No description provided for @nativeVirtualGamepadDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ABXY、スティック、トリガーなどを備えた仮想ゲームパッドを表示します'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostra um gamepad virtual com ABXY, analógicos, gatilhos e botões do sistema.'**
   String get nativeVirtualGamepadDescription;
 
   /// No description provided for @nativeGamepadLayout.
   ///
-  /// In ja, this message translates to:
-  /// **'ゲームパッドレイアウト'**
+  /// In pt_BR, this message translates to:
+  /// **'Layout do gamepad'**
   String get nativeGamepadLayout;
 
   /// No description provided for @nativeGameBoyStyle.
   ///
-  /// In ja, this message translates to:
-  /// **'ゲームボーイスタイル'**
+  /// In pt_BR, this message translates to:
+  /// **'Estilo Game Boy'**
   String get nativeGameBoyStyle;
 
   /// No description provided for @nativeGameBoyStyleDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ゲームボーイ風の十字キー、A/B、SELECT/STARTを表示します'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostra um direcional, A/B e SELECT/START inspirados no Game Boy.'**
   String get nativeGameBoyStyleDescription;
 
   /// No description provided for @nativeOk.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'OK'**
   String get nativeOk;
 
   /// No description provided for @nativeCancel.
   ///
-  /// In ja, this message translates to:
-  /// **'キャンセル'**
+  /// In pt_BR, this message translates to:
+  /// **'Cancelar'**
   String get nativeCancel;
 
   /// No description provided for @nativeKeyboardSettings.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボード設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações do teclado'**
   String get nativeKeyboardSettings;
 
   /// No description provided for @nativeKeyboardSettingsDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ラップトップキーボードの外観をカスタマイズします'**
+  /// In pt_BR, this message translates to:
+  /// **'Personalize a aparência do teclado do modo laptop'**
   String get nativeKeyboardSettingsDescription;
 
   /// No description provided for @nativeTheme.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマ'**
+  /// In pt_BR, this message translates to:
+  /// **'Tema'**
   String get nativeTheme;
 
   /// No description provided for @nativeSwipeLanguage.
   ///
-  /// In ja, this message translates to:
-  /// **'なぞり入力の言語'**
+  /// In pt_BR, this message translates to:
+  /// **'Idioma da digitação por deslize'**
   String get nativeSwipeLanguage;
 
   /// No description provided for @nativeSwipeLanguageDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'タップ入力は現在のIMEを引き続き使用します'**
+  /// In pt_BR, this message translates to:
+  /// **'A digitação por toque continua usando seu IME atual'**
   String get nativeSwipeLanguageDescription;
 
   /// No description provided for @nativeKeyboardThemeStandard.
   ///
-  /// In ja, this message translates to:
-  /// **'標準'**
+  /// In pt_BR, this message translates to:
+  /// **'Padrão'**
   String get nativeKeyboardThemeStandard;
 
   /// No description provided for @nativeKeyboardThemeCrimson.
   ///
-  /// In ja, this message translates to:
-  /// **'クリムゾン'**
+  /// In pt_BR, this message translates to:
+  /// **'Carmesim'**
   String get nativeKeyboardThemeCrimson;
 
   /// No description provided for @nativeKeyboardThemeCloud.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Cloud Pop'**
   String get nativeKeyboardThemeCloud;
 
   /// No description provided for @nativeKeyboardThemeAmoled.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'AMOLED'**
   String get nativeKeyboardThemeAmoled;
 
   /// No description provided for @nativeKeyboardThemeStandardDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'落ち着いたダークキーボード'**
+  /// In pt_BR, this message translates to:
+  /// **'Teclado escuro neutro'**
   String get nativeKeyboardThemeStandardDescription;
 
   /// No description provided for @nativeKeyboardThemeCrimsonDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'折りたたみPCをイメージした暖色のクリムゾン'**
+  /// In pt_BR, this message translates to:
+  /// **'Carmesim quente inspirado em computadores dobráveis'**
   String get nativeKeyboardThemeCrimsonDescription;
 
   /// No description provided for @nativeKeyboardThemeCloudDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'やわらかな雲色のキーボード'**
+  /// In pt_BR, this message translates to:
+  /// **'Teclado azul-claro suave'**
   String get nativeKeyboardThemeCloudDescription;
 
   /// No description provided for @nativeKeyboardThemeAmoledDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'黒を基調にした省電力キーボード'**
+  /// In pt_BR, this message translates to:
+  /// **'Teclado preto verdadeiro com economia de energia'**
   String get nativeKeyboardThemeAmoledDescription;
 
   /// No description provided for @nativeKeyboardThemeCustomDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'カスタムキーボードテーマ'**
+  /// In pt_BR, this message translates to:
+  /// **'Tema de teclado personalizado'**
   String get nativeKeyboardThemeCustomDescription;
 
   /// No description provided for @nativeOpenDextopWithYourSavedAppPlacement.
   ///
-  /// In ja, this message translates to:
-  /// **'保存されたアプリ配置でDextopを開きます'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir a Área de Trabalho Móvel com a disposição de aplicativos salva'**
   String get nativeOpenDextopWithYourSavedAppPlacement;
 
   /// No description provided for @nativeSaveAndApply.
   ///
-  /// In ja, this message translates to:
-  /// **'保存して適用'**
+  /// In pt_BR, this message translates to:
+  /// **'Salvar e aplicar'**
   String get nativeSaveAndApply;
 
   /// No description provided for @nativeFailedToSaveUnableToRetrieveRunning.
   ///
-  /// In ja, this message translates to:
-  /// **'保存できませんでした：Dextop上で起動中のアプリを取得できません。'**
+  /// In pt_BR, this message translates to:
+  /// **'Falha ao salvar: não foi possível obter os aplicativos em execução na Área de Trabalho Móvel.'**
   String get nativeFailedToSaveUnableToRetrieveRunning;
 
   /// No description provided for @nativeFailedToSaveFailedToWriteTo.
   ///
-  /// In ja, this message translates to:
-  /// **'保存できませんでした：端末ストレージへの書き込みに失敗しました。'**
+  /// In pt_BR, this message translates to:
+  /// **'Falha ao salvar: não foi possível gravar no armazenamento do dispositivo.'**
   String get nativeFailedToSaveFailedToWriteTo;
 
   /// No description provided for @nativeViewSavedWorkspacesAndSaveCurrentArrangement.
   ///
-  /// In ja, this message translates to:
-  /// **'保存済みワークスペースの表示と、現在の配置の保存ができます'**
+  /// In pt_BR, this message translates to:
+  /// **'Veja os espaços de trabalho salvos e salve a disposição atual'**
   String get nativeViewSavedWorkspacesAndSaveCurrentArrangement;
 
   /// No description provided for @nativeNoSavedWorkspaces.
   ///
-  /// In ja, this message translates to:
-  /// **'保存済みワークスペースはありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhum espaço de trabalho salvo'**
   String get nativeNoSavedWorkspaces;
 
   /// No description provided for @nativePleaseStartDextopFirst.
   ///
-  /// In ja, this message translates to:
-  /// **'先にDextopを開始してください'**
+  /// In pt_BR, this message translates to:
+  /// **'Inicie a Área de Trabalho Móvel primeiro'**
   String get nativePleaseStartDextopFirst;
 
   /// No description provided for @nativeReconnect.
   ///
-  /// In ja, this message translates to:
-  /// **'再接続'**
+  /// In pt_BR, this message translates to:
+  /// **'Reconectar'**
   String get nativeReconnect;
 
   /// No description provided for @nativeWidth.
   ///
-  /// In ja, this message translates to:
-  /// **'幅'**
+  /// In pt_BR, this message translates to:
+  /// **'Largura'**
   String get nativeWidth;
 
   /// No description provided for @nativeReturn.
   ///
-  /// In ja, this message translates to:
-  /// **'戻る'**
+  /// In pt_BR, this message translates to:
+  /// **'Voltar'**
   String get nativeReturn;
 
   /// No description provided for @nativePermissionRequestInProgress.
   ///
-  /// In ja, this message translates to:
-  /// **'権限リクエストが進行中です'**
+  /// In pt_BR, this message translates to:
+  /// **'Solicitação de permissão em andamento'**
   String get nativePermissionRequestInProgress;
 
   /// No description provided for @nativeHorizontalHolding.
   ///
-  /// In ja, this message translates to:
-  /// **'横持ち'**
+  /// In pt_BR, this message translates to:
+  /// **'Paisagem'**
   String get nativeHorizontalHolding;
 
   /// No description provided for @nativeSaveTheCurrentAppArrangementAsA.
   ///
-  /// In ja, this message translates to:
-  /// **'現在のアプリ配置をワークスペースとして保存します'**
+  /// In pt_BR, this message translates to:
+  /// **'Salvar a disposição atual dos aplicativos como espaço de trabalho'**
   String get nativeSaveTheCurrentAppArrangementAsA;
 
   /// No description provided for @nativeAddCurrentAppPlacement.
   ///
-  /// In ja, this message translates to:
-  /// **'現在のアプリ配置を追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar disposição atual dos aplicativos'**
   String get nativeAddCurrentAppPlacement;
 
   /// No description provided for @nativeScreenBrightness.
   ///
-  /// In ja, this message translates to:
-  /// **'画面の明るさ'**
+  /// In pt_BR, this message translates to:
+  /// **'Brilho da tela'**
   String get nativeScreenBrightness;
 
   /// No description provided for @nativeUseTheScreenAsATrackpadTo.
   ///
-  /// In ja, this message translates to:
-  /// **'画面をトラックパッドとして使い、カーソルを操作します'**
+  /// In pt_BR, this message translates to:
+  /// **'Use a tela como trackpad para controlar o cursor'**
   String get nativeUseTheScreenAsATrackpadTo;
 
   /// No description provided for @nativeEnd.
   ///
-  /// In ja, this message translates to:
-  /// **'終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrar'**
   String get nativeEnd;
 
   /// No description provided for @nativeEdit.
   ///
-  /// In ja, this message translates to:
-  /// **'編集'**
+  /// In pt_BR, this message translates to:
+  /// **'Editar'**
   String get nativeEdit;
 
   /// No description provided for @nativeVerticalHolding.
   ///
-  /// In ja, this message translates to:
-  /// **'縦持ち'**
+  /// In pt_BR, this message translates to:
+  /// **'Retrato'**
   String get nativeVerticalHolding;
 
   /// No description provided for @nativeReconnectIfYouHaveDisplayOrConnection.
   ///
-  /// In ja, this message translates to:
-  /// **'表示や接続に問題がある場合に再接続します'**
+  /// In pt_BR, this message translates to:
+  /// **'Reconecte se houver problemas de exibição ou conexão'**
   String get nativeReconnectIfYouHaveDisplayOrConnection;
 
   /// No description provided for @nativeDisplayProfileIsOutOfRange.
   ///
-  /// In ja, this message translates to:
-  /// **'表示プロファイルが範囲外です'**
+  /// In pt_BR, this message translates to:
+  /// **'O perfil da tela está fora do intervalo'**
   String get nativeDisplayProfileIsOutOfRange;
 
   /// No description provided for @nativeResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'解像度'**
+  /// In pt_BR, this message translates to:
+  /// **'Resolução'**
   String get nativeResolution;
 
   /// No description provided for @nativeEditResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'解像度を編集'**
+  /// In pt_BR, this message translates to:
+  /// **'Editar resolução'**
   String get nativeEditResolution;
 
   /// No description provided for @nativeAddResolution.
   ///
-  /// In ja, this message translates to:
-  /// **'解像度を追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar resolução'**
   String get nativeAddResolution;
 
   /// No description provided for @nativeSendsTheTouchedPositionDirectlyToDextop.
   ///
-  /// In ja, this message translates to:
-  /// **'触れた位置をDextopへ直接タップとして送ります'**
+  /// In pt_BR, this message translates to:
+  /// **'Envia a posição tocada diretamente à Área de Trabalho Móvel como um toque'**
   String get nativeSendsTheTouchedPositionDirectlyToDextop;
 
   /// No description provided for @nativeAddAndApply.
   ///
-  /// In ja, this message translates to:
-  /// **'追加して適用'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar e aplicar'**
   String get nativeAddAndApply;
 
   /// No description provided for @nativeEditPlacement.
   ///
-  /// In ja, this message translates to:
-  /// **'配置を編集'**
+  /// In pt_BR, this message translates to:
+  /// **'Editar disposição'**
   String get nativeEditPlacement;
 
   /// No description provided for @nativeCompletePlacementEdit.
   ///
-  /// In ja, this message translates to:
-  /// **'配置編集を完了'**
+  /// In pt_BR, this message translates to:
+  /// **'Concluir edição da disposição'**
   String get nativeCompletePlacementEdit;
 
   /// No description provided for @nativeVolume.
   ///
-  /// In ja, this message translates to:
-  /// **'音量'**
+  /// In pt_BR, this message translates to:
+  /// **'Volume'**
   String get nativeVolume;
 
   /// No description provided for @nativeHeight.
   ///
-  /// In ja, this message translates to:
-  /// **'高さ'**
+  /// In pt_BR, this message translates to:
+  /// **'Altura'**
   String get nativeHeight;
 
   /// No description provided for @multiTouchUpgradeTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリが更新され、ジェスチャーが変更されました。'**
+  /// In pt_BR, this message translates to:
+  /// **'O aplicativo foi atualizado'**
   String get multiTouchUpgradeTitle;
 
   /// No description provided for @multiTouchUpgradeBody.
   ///
-  /// In ja, this message translates to:
-  /// **''**
+  /// In pt_BR, this message translates to:
+  /// **'Agora há suporte a multitoque, então os gestos também foram atualizados.'**
   String get multiTouchUpgradeBody;
 
   /// No description provided for @multiTouchUpgradeLandscape.
   ///
-  /// In ja, this message translates to:
-  /// **'横向きの場合\\n画面左から右に3本指でスワイプ'**
+  /// In pt_BR, this message translates to:
+  /// **'Paisagem\\nDeslize três dedos para a direita a partir da borda esquerda'**
   String get multiTouchUpgradeLandscape;
 
   /// No description provided for @multiTouchUpgradePortrait.
   ///
-  /// In ja, this message translates to:
-  /// **'縦持ちの場合\\n画面上から下に3本指でスワイプ'**
+  /// In pt_BR, this message translates to:
+  /// **'Retrato\\nDeslize três dedos para baixo a partir da borda superior'**
   String get multiTouchUpgradePortrait;
 
   /// No description provided for @multiTouchUpgradeClose.
   ///
-  /// In ja, this message translates to:
-  /// **'確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Entendi'**
   String get multiTouchUpgradeClose;
 
   /// No description provided for @appUpdatedTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'{version}へ更新されました！'**
+  /// In pt_BR, this message translates to:
+  /// **'Atualizado para {version}!'**
   String appUpdatedTitle(String version);
 
   /// No description provided for @appUpdatedMessage.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopが最新バージョンになりました。'**
+  /// In pt_BR, this message translates to:
+  /// **'A Área de Trabalho Móvel foi atualizada para a versão mais recente.'**
   String get appUpdatedMessage;
 
   /// No description provided for @androidSwipeImeLabel.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop なぞり入力'**
+  /// In pt_BR, this message translates to:
+  /// **'Digitação por deslize — Área Móvel'**
   String get androidSwipeImeLabel;
 
   /// No description provided for @androidAccessibilityServiceDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopの仮想ディスプレイ、入力、操作パネルを制御します'**
+  /// In pt_BR, this message translates to:
+  /// **'Controla a tela virtual, a entrada e o painel de controle da Área de Trabalho Móvel'**
   String get androidAccessibilityServiceDescription;
 
   /// No description provided for @androidEmbeddedPairingChannel.
   ///
-  /// In ja, this message translates to:
-  /// **'内蔵アクセスサービスの設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configuração de acesso integrado'**
   String get androidEmbeddedPairingChannel;
 
   /// No description provided for @androidEmbeddedPairingTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopをペア設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Parear a Área de Trabalho Móvel'**
   String get androidEmbeddedPairingTitle;
 
   /// No description provided for @androidEmbeddedPairingNotificationText.
   ///
-  /// In ja, this message translates to:
-  /// **'ワイヤレスデバッグに表示された6桁のコードを入力してください'**
+  /// In pt_BR, this message translates to:
+  /// **'Digite o código de seis dígitos exibido na Depuração por Wi-Fi'**
   String get androidEmbeddedPairingNotificationText;
 
   /// No description provided for @androidEmbeddedPairingCode.
   ///
-  /// In ja, this message translates to:
-  /// **'6桁のペア設定コード'**
+  /// In pt_BR, this message translates to:
+  /// **'Código de pareamento de seis dígitos'**
   String get androidEmbeddedPairingCode;
 
   /// No description provided for @androidEmbeddedPairingEnterCode.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定コードを入力'**
+  /// In pt_BR, this message translates to:
+  /// **'Digitar código de pareamento'**
   String get androidEmbeddedPairingEnterCode;
 
   /// No description provided for @androidEmbeddedPairingSuccess.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopの接続が完了しました'**
+  /// In pt_BR, this message translates to:
+  /// **'A Área de Trabalho Móvel está conectada'**
   String get androidEmbeddedPairingSuccess;
 
   /// No description provided for @androidEmbeddedPairingSuccessMessage.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定が完了しました。Dextopに戻ってください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Pareamento concluído. Volte para a Área de Trabalho Móvel.'**
   String get androidEmbeddedPairingSuccessMessage;
 
   /// No description provided for @androidEmbeddedPairingFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopを接続できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível conectar a Área de Trabalho Móvel'**
   String get androidEmbeddedPairingFailed;
 
   /// No description provided for @androidEmbeddedPairingInvalidCode.
   ///
-  /// In ja, this message translates to:
-  /// **'6桁のコードを入力してください'**
+  /// In pt_BR, this message translates to:
+  /// **'Digite um código de seis dígitos'**
   String get androidEmbeddedPairingInvalidCode;
 
   /// No description provided for @androidEmbeddedPairingSearching.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定サービスを検索中'**
+  /// In pt_BR, this message translates to:
+  /// **'Procurando serviço de pareamento'**
   String get androidEmbeddedPairingSearching;
 
   /// No description provided for @androidEmbeddedPairingServiceFound.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定サービスが見つかりました'**
+  /// In pt_BR, this message translates to:
+  /// **'Serviço de pareamento encontrado'**
   String get androidEmbeddedPairingServiceFound;
 
   /// No description provided for @androidEmbeddedPairingServiceNotFound.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定サービスが見つかりません'**
+  /// In pt_BR, this message translates to:
+  /// **'Serviço de pareamento não encontrado'**
   String get androidEmbeddedPairingServiceNotFound;
 
   /// No description provided for @androidEmbeddedPairingRetry.
   ///
-  /// In ja, this message translates to:
-  /// **'再試行'**
+  /// In pt_BR, this message translates to:
+  /// **'Tentar novamente'**
   String get androidEmbeddedPairingRetry;
 
   /// No description provided for @androidEmbeddedPairingInProgress.
   ///
-  /// In ja, this message translates to:
-  /// **'ペア設定中'**
+  /// In pt_BR, this message translates to:
+  /// **'Pareamento em andamento'**
   String get androidEmbeddedPairingInProgress;
 
   /// No description provided for @windowManager.
   ///
-  /// In ja, this message translates to:
-  /// **'使用WM'**
+  /// In pt_BR, this message translates to:
+  /// **'Gerenciador de janelas'**
   String get windowManager;
 
   /// No description provided for @windowManagerSystem.
   ///
-  /// In ja, this message translates to:
-  /// **'システム内蔵デスクトップモード'**
+  /// In pt_BR, this message translates to:
+  /// **'Área de trabalho do sistema'**
   String get windowManagerSystem;
 
   /// No description provided for @windowManagerSystemDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Samsung DeXやAndroidのデスクトップウィンドウ機能をそのまま使用します'**
+  /// In pt_BR, this message translates to:
+  /// **'Usa o Samsung DeX ou as janelas de área de trabalho do Android como fornecidos pelo sistema'**
   String get windowManagerSystemDescription;
 
   /// No description provided for @windowManagerPlasma.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop Plasma（独自WM）'**
+  /// In pt_BR, this message translates to:
+  /// **'Plasma (WM próprio)'**
   String get windowManagerPlasma;
 
   /// No description provided for @windowManagerPlasmaDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'DextopがKDE Plasma 6風のデスクトップ、パネル、ウィンドウ装飾、タイル配置、仮想デスクトップを描画します'**
+  /// In pt_BR, this message translates to:
+  /// **'Desenha uma área de trabalho no estilo KDE Plasma 6, com painel, decorações de janela, mosaico e áreas de trabalho virtuais próprios'**
   String get windowManagerPlasmaDescription;
 
   /// No description provided for @windowManagerPlasmaV2.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop Plasma v2（合成型WM）'**
+  /// In pt_BR, this message translates to:
+  /// **'Plasma v2 (WM com composição)'**
   String get windowManagerPlasmaV2;
 
   /// No description provided for @windowManagerPlasmaV2Description.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリごとに専用の仮想ディスプレイを作り、その画面をDextopが描くBreezeウィンドウの中に表示します。ドラッグ・リサイズ・アニメーション・仮想デスクトップがDextop内で完結し、パネルからネットワーク・音量・電源を操作できます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Executa cada app em sua própria tela virtual e o mostra dentro de uma janela Breeze desenhada pelo app: arrastar, redimensionar, animações e áreas de trabalho virtuais acontecem dentro da Área de Trabalho Móvel. O painel controla redes, áudio e energia.'**
   String get windowManagerPlasmaV2Description;
 
   /// No description provided for @windowManagerAppliedLive.
   ///
-  /// In ja, this message translates to:
-  /// **'実行中のデスクトップへ適用しました'**
+  /// In pt_BR, this message translates to:
+  /// **'Aplicado à área de trabalho em execução'**
   String get windowManagerAppliedLive;
 
   /// No description provided for @plasmaSettingsTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop Plasmaの設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações do Plasma'**
   String get plasmaSettingsTitle;
 
   /// No description provided for @plasmaSettingsSummary.
   ///
-  /// In ja, this message translates to:
-  /// **'外観、パネル、仮想デスクトップ、アニメーション'**
+  /// In pt_BR, this message translates to:
+  /// **'Aparência, painel, áreas virtuais e animações'**
   String get plasmaSettingsSummary;
 
   /// No description provided for @plasmaHotCorner.
   ///
-  /// In ja, this message translates to:
-  /// **'左上のホットコーナー'**
+  /// In pt_BR, this message translates to:
+  /// **'Canto ativo superior esquerdo'**
   String get plasmaHotCorner;
 
   /// No description provided for @plasmaHotCornerDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'ポインターを左上の角へ動かすとOverviewを開きます'**
+  /// In pt_BR, this message translates to:
+  /// **'Mover o ponteiro para o canto superior esquerdo abre a Visão geral'**
   String get plasmaHotCornerDescription;
 
   /// No description provided for @plasmaShortcutsTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードショートカット'**
+  /// In pt_BR, this message translates to:
+  /// **'Atalhos de teclado'**
   String get plasmaShortcutsTitle;
 
   /// No description provided for @plasmaShortcutsBody.
   ///
-  /// In ja, this message translates to:
-  /// **'Meta: Kickoff\nAlt+Space / Alt+F2: KRunner\nMeta+W: Overview\nAlt+Tab: ウィンドウ切替\nMeta+矢印: クイックタイル\nMeta+PgUp / PgDn: 最大化 / 最小化\nMeta+D: デスクトップを表示\nCtrl+F1〜F4 / Meta+Ctrl+←→: 仮想デスクトップ\nAlt+F3: ウィンドウ操作メニュー\nAlt+F4: 閉じる'**
+  /// In pt_BR, this message translates to:
+  /// **'Meta: Kickoff\nAlt+Espaço / Alt+F2: KRunner\nMeta+W: Visão geral\nAlt+Tab: Alternar janelas\nMeta+Setas: Mosaico rápido\nMeta+PgUp / PgDn: Maximizar / Minimizar\nMeta+D: Espiar a área de trabalho\nCtrl+F1–F4 / Meta+Ctrl+←→: Áreas virtuais\nAlt+F3: Menu de operações da janela\nAlt+F4: Fechar'**
   String get plasmaShortcutsBody;
 
   /// No description provided for @nativePlasmaAccentColor.
   ///
-  /// In ja, this message translates to:
-  /// **'アクセントカラー'**
+  /// In pt_BR, this message translates to:
+  /// **'Cor de destaque'**
   String get nativePlasmaAccentColor;
 
   /// No description provided for @nativePlasmaAddToFavorites.
   ///
-  /// In ja, this message translates to:
-  /// **'お気に入りに追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar aos favoritos'**
   String get nativePlasmaAddToFavorites;
 
   /// No description provided for @nativePlasmaAllApplications.
   ///
-  /// In ja, this message translates to:
-  /// **'すべてのアプリケーション'**
+  /// In pt_BR, this message translates to:
+  /// **'Todos os aplicativos'**
   String get nativePlasmaAllApplications;
 
   /// No description provided for @nativePlasmaAllDesktops.
   ///
-  /// In ja, this message translates to:
-  /// **'すべてのデスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Todas as áreas de trabalho'**
   String get nativePlasmaAllDesktops;
 
   /// No description provided for @nativePlasmaAnimationSpeed.
   ///
-  /// In ja, this message translates to:
-  /// **'アニメーション速度'**
+  /// In pt_BR, this message translates to:
+  /// **'Velocidade da animação'**
   String get nativePlasmaAnimationSpeed;
 
   /// No description provided for @nativePlasmaAppInfo.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリ情報'**
+  /// In pt_BR, this message translates to:
+  /// **'Informações do app'**
   String get nativePlasmaAppInfo;
 
   /// No description provided for @nativePlasmaApplication.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリケーション'**
+  /// In pt_BR, this message translates to:
+  /// **'Aplicativo'**
   String get nativePlasmaApplication;
 
   /// No description provided for @nativePlasmaApplications.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリケーション'**
+  /// In pt_BR, this message translates to:
+  /// **'Aplicativos'**
   String get nativePlasmaApplications;
 
   /// No description provided for @nativePlasmaAudioVolume.
   ///
-  /// In ja, this message translates to:
-  /// **'音量'**
+  /// In pt_BR, this message translates to:
+  /// **'Volume de áudio'**
   String get nativePlasmaAudioVolume;
 
   /// No description provided for @nativePlasmaCalculatorCopy.
   ///
-  /// In ja, this message translates to:
-  /// **'計算結果 — クリックでコピー'**
+  /// In pt_BR, this message translates to:
+  /// **'Calculadora — clique para copiar'**
   String get nativePlasmaCalculatorCopy;
 
   /// No description provided for @nativePlasmaCategoryGames.
   ///
-  /// In ja, this message translates to:
-  /// **'ゲーム'**
+  /// In pt_BR, this message translates to:
+  /// **'Jogos'**
   String get nativePlasmaCategoryGames;
 
   /// No description provided for @nativePlasmaCategoryGraphics.
   ///
-  /// In ja, this message translates to:
-  /// **'グラフィック'**
+  /// In pt_BR, this message translates to:
+  /// **'Gráficos'**
   String get nativePlasmaCategoryGraphics;
 
   /// No description provided for @nativePlasmaCategoryInternet.
   ///
-  /// In ja, this message translates to:
-  /// **'インターネット'**
+  /// In pt_BR, this message translates to:
+  /// **'Internet'**
   String get nativePlasmaCategoryInternet;
 
   /// No description provided for @nativePlasmaCategoryLost.
   ///
-  /// In ja, this message translates to:
-  /// **'その他'**
+  /// In pt_BR, this message translates to:
+  /// **'Outros'**
   String get nativePlasmaCategoryLost;
 
   /// No description provided for @nativePlasmaCategoryMultimedia.
   ///
-  /// In ja, this message translates to:
-  /// **'マルチメディア'**
+  /// In pt_BR, this message translates to:
+  /// **'Multimídia'**
   String get nativePlasmaCategoryMultimedia;
 
   /// No description provided for @nativePlasmaCategoryNews.
   ///
-  /// In ja, this message translates to:
-  /// **'ニュース'**
+  /// In pt_BR, this message translates to:
+  /// **'Notícias'**
   String get nativePlasmaCategoryNews;
 
   /// No description provided for @nativePlasmaCategoryOffice.
   ///
-  /// In ja, this message translates to:
-  /// **'オフィス'**
+  /// In pt_BR, this message translates to:
+  /// **'Escritório'**
   String get nativePlasmaCategoryOffice;
 
   /// No description provided for @nativePlasmaCategorySystem.
   ///
-  /// In ja, this message translates to:
-  /// **'システム'**
+  /// In pt_BR, this message translates to:
+  /// **'Sistema'**
   String get nativePlasmaCategorySystem;
 
   /// No description provided for @nativePlasmaCategoryTravel.
   ///
-  /// In ja, this message translates to:
-  /// **'地図・旅行'**
+  /// In pt_BR, this message translates to:
+  /// **'Mapas e viagens'**
   String get nativePlasmaCategoryTravel;
 
   /// No description provided for @nativePlasmaCategoryVideo.
   ///
-  /// In ja, this message translates to:
-  /// **'ビデオ'**
+  /// In pt_BR, this message translates to:
+  /// **'Vídeo'**
   String get nativePlasmaCategoryVideo;
 
   /// No description provided for @nativePlasmaCharging.
   ///
-  /// In ja, this message translates to:
-  /// **'充電中'**
+  /// In pt_BR, this message translates to:
+  /// **'Carregando'**
   String get nativePlasmaCharging;
 
   /// No description provided for @nativePlasmaClose.
   ///
-  /// In ja, this message translates to:
-  /// **'閉じる'**
+  /// In pt_BR, this message translates to:
+  /// **'Fechar'**
   String get nativePlasmaClose;
 
   /// No description provided for @nativePlasmaCloseAll.
   ///
-  /// In ja, this message translates to:
-  /// **'すべて閉じる'**
+  /// In pt_BR, this message translates to:
+  /// **'Fechar todas'**
   String get nativePlasmaCloseAll;
 
   /// No description provided for @nativePlasmaColorScheme.
   ///
-  /// In ja, this message translates to:
-  /// **'配色'**
+  /// In pt_BR, this message translates to:
+  /// **'Esquema de cores'**
   String get nativePlasmaColorScheme;
 
   /// No description provided for @nativePlasmaComputer.
   ///
-  /// In ja, this message translates to:
-  /// **'コンピュータ'**
+  /// In pt_BR, this message translates to:
+  /// **'Computador'**
   String get nativePlasmaComputer;
 
   /// No description provided for @nativePlasmaConfigureAudio.
   ///
-  /// In ja, this message translates to:
-  /// **'オーディオデバイスを設定…'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurar dispositivos de áudio…'**
   String get nativePlasmaConfigureAudio;
 
   /// No description provided for @nativePlasmaConfigureDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップと壁紙を設定…'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurar área de trabalho e papel de parede…'**
   String get nativePlasmaConfigureDesktop;
 
   /// No description provided for @nativePlasmaConfigureNetwork.
   ///
-  /// In ja, this message translates to:
-  /// **'ネットワーク接続を設定…'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurar conexões de rede…'**
   String get nativePlasmaConfigureNetwork;
 
   /// No description provided for @nativePlasmaConfigurePower.
   ///
-  /// In ja, this message translates to:
-  /// **'電源管理を設定…'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurar gerenciamento de energia…'**
   String get nativePlasmaConfigurePower;
 
   /// No description provided for @nativePlasmaConnected.
   ///
-  /// In ja, this message translates to:
-  /// **'接続済み'**
+  /// In pt_BR, this message translates to:
+  /// **'Conectado'**
   String get nativePlasmaConnected;
 
   /// No description provided for @nativePlasmaDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Área de trabalho'**
   String get nativePlasmaDesktop;
 
   /// No description provided for @nativePlasmaDesktopN.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップ %1\$d'**
+  /// In pt_BR, this message translates to:
+  /// **'Área de trabalho %1\$d'**
   String get nativePlasmaDesktopN;
 
   /// No description provided for @nativePlasmaDeviceSpeaker.
   ///
-  /// In ja, this message translates to:
-  /// **'端末のスピーカー'**
+  /// In pt_BR, this message translates to:
+  /// **'Alto-falante do dispositivo'**
   String get nativePlasmaDeviceSpeaker;
 
   /// No description provided for @nativePlasmaDextopSettings.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextopの設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações da Área de Trabalho Móvel'**
   String get nativePlasmaDextopSettings;
 
   /// No description provided for @nativePlasmaDischarging.
   ///
-  /// In ja, this message translates to:
-  /// **'放電中'**
+  /// In pt_BR, this message translates to:
+  /// **'Descarregando'**
   String get nativePlasmaDischarging;
 
   /// No description provided for @nativePlasmaDisconnected.
   ///
-  /// In ja, this message translates to:
-  /// **'未接続'**
+  /// In pt_BR, this message translates to:
+  /// **'Desconectado'**
   String get nativePlasmaDisconnected;
 
   /// No description provided for @nativePlasmaDocked.
   ///
-  /// In ja, this message translates to:
-  /// **'画面端に固定'**
+  /// In pt_BR, this message translates to:
+  /// **'Fixo na borda'**
   String get nativePlasmaDocked;
 
   /// No description provided for @nativePlasmaFavorites.
   ///
-  /// In ja, this message translates to:
-  /// **'お気に入り'**
+  /// In pt_BR, this message translates to:
+  /// **'Favoritos'**
   String get nativePlasmaFavorites;
 
   /// No description provided for @nativePlasmaFloating.
   ///
-  /// In ja, this message translates to:
-  /// **'フローティング'**
+  /// In pt_BR, this message translates to:
+  /// **'Flutuante'**
   String get nativePlasmaFloating;
 
   /// No description provided for @nativePlasmaFollowSystem.
   ///
-  /// In ja, this message translates to:
-  /// **'システムに合わせる'**
+  /// In pt_BR, this message translates to:
+  /// **'Seguir o sistema'**
   String get nativePlasmaFollowSystem;
 
   /// No description provided for @nativePlasmaInstant.
   ///
-  /// In ja, this message translates to:
-  /// **'なし'**
+  /// In pt_BR, this message translates to:
+  /// **'Instantâneo'**
   String get nativePlasmaInstant;
 
   /// No description provided for @nativePlasmaKrunnerHint.
   ///
-  /// In ja, this message translates to:
-  /// **'検索…'**
+  /// In pt_BR, this message translates to:
+  /// **'Pesquisar…'**
   String get nativePlasmaKrunnerHint;
 
   /// No description provided for @nativePlasmaLeave.
   ///
-  /// In ja, this message translates to:
-  /// **'終了…'**
+  /// In pt_BR, this message translates to:
+  /// **'Sair…'**
   String get nativePlasmaLeave;
 
   /// No description provided for @nativePlasmaLogOut.
   ///
-  /// In ja, this message translates to:
-  /// **'ログアウト'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrar sessão'**
   String get nativePlasmaLogOut;
 
   /// No description provided for @nativePlasmaLoggingOutIn.
   ///
-  /// In ja, this message translates to:
-  /// **'%1\$d 秒後にシステムデスクトップへ戻ります'**
+  /// In pt_BR, this message translates to:
+  /// **'Encerrando a sessão em %1\$d segundos'**
   String get nativePlasmaLoggingOutIn;
 
   /// No description provided for @nativePlasmaMaximize.
   ///
-  /// In ja, this message translates to:
-  /// **'最大化'**
+  /// In pt_BR, this message translates to:
+  /// **'Maximizar'**
   String get nativePlasmaMaximize;
 
   /// No description provided for @nativePlasmaMinimize.
   ///
-  /// In ja, this message translates to:
-  /// **'最小化'**
+  /// In pt_BR, this message translates to:
+  /// **'Minimizar'**
   String get nativePlasmaMinimize;
 
   /// No description provided for @nativePlasmaMobileData.
   ///
-  /// In ja, this message translates to:
-  /// **'モバイルデータ'**
+  /// In pt_BR, this message translates to:
+  /// **'Dados móveis'**
   String get nativePlasmaMobileData;
 
   /// No description provided for @nativePlasmaMoveToDesktopN.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップ %1\$d へ移動'**
+  /// In pt_BR, this message translates to:
+  /// **'Mover para a área de trabalho %1\$d'**
   String get nativePlasmaMoveToDesktopN;
 
   /// No description provided for @nativePlasmaNetworks.
   ///
-  /// In ja, this message translates to:
-  /// **'ネットワーク'**
+  /// In pt_BR, this message translates to:
+  /// **'Redes'**
   String get nativePlasmaNetworks;
 
   /// No description provided for @nativePlasmaNewInstance.
   ///
-  /// In ja, this message translates to:
-  /// **'新しいインスタンスを開始'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar nova instância'**
   String get nativePlasmaNewInstance;
 
   /// No description provided for @nativePlasmaNoActiveNetwork.
   ///
-  /// In ja, this message translates to:
-  /// **'有効なネットワークがありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhuma rede ativa'**
   String get nativePlasmaNoActiveNetwork;
 
   /// No description provided for @nativePlasmaNoFavorites.
   ///
-  /// In ja, this message translates to:
-  /// **'お気に入りはまだありません。アプリを右クリックして追加できます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Ainda não há favoritos. Clique com o botão direito em um app para adicionar.'**
   String get nativePlasmaNoFavorites;
 
   /// No description provided for @nativePlasmaNoMatches.
   ///
-  /// In ja, this message translates to:
-  /// **'一致する項目はありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhum resultado'**
   String get nativePlasmaNoMatches;
 
   /// No description provided for @nativePlasmaNoWindows.
   ///
-  /// In ja, this message translates to:
-  /// **'このデスクトップにウィンドウはありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhuma janela nesta área de trabalho'**
   String get nativePlasmaNoWindows;
 
   /// No description provided for @nativePlasmaNothingHere.
   ///
-  /// In ja, this message translates to:
-  /// **'項目はありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nada aqui'**
   String get nativePlasmaNothingHere;
 
   /// No description provided for @nativePlasmaOpen.
   ///
-  /// In ja, this message translates to:
-  /// **'開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir'**
   String get nativePlasmaOpen;
 
   /// No description provided for @nativePlasmaOverview.
   ///
-  /// In ja, this message translates to:
-  /// **'Overview'**
+  /// In pt_BR, this message translates to:
+  /// **'Visão geral'**
   String get nativePlasmaOverview;
 
   /// No description provided for @nativePlasmaOverviewSearch.
   ///
-  /// In ja, this message translates to:
-  /// **'入力して検索…'**
+  /// In pt_BR, this message translates to:
+  /// **'Digite para pesquisar…'**
   String get nativePlasmaOverviewSearch;
 
   /// No description provided for @nativePlasmaPanel.
   ///
-  /// In ja, this message translates to:
-  /// **'パネル'**
+  /// In pt_BR, this message translates to:
+  /// **'Painel'**
   String get nativePlasmaPanel;
 
   /// No description provided for @nativePlasmaPeekAtDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップを表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Espiar a área de trabalho'**
   String get nativePlasmaPeekAtDesktop;
 
   /// No description provided for @nativePlasmaPinToTaskManager.
   ///
-  /// In ja, this message translates to:
-  /// **'タスクマネージャーに固定'**
+  /// In pt_BR, this message translates to:
+  /// **'Fixar no gerenciador de tarefas'**
   String get nativePlasmaPinToTaskManager;
 
   /// No description provided for @nativePlasmaPlaces.
   ///
-  /// In ja, this message translates to:
-  /// **'場所'**
+  /// In pt_BR, this message translates to:
+  /// **'Locais'**
   String get nativePlasmaPlaces;
 
   /// No description provided for @nativePlasmaPowerAndBattery.
   ///
-  /// In ja, this message translates to:
-  /// **'電源とバッテリー'**
+  /// In pt_BR, this message translates to:
+  /// **'Energia e bateria'**
   String get nativePlasmaPowerAndBattery;
 
   /// No description provided for @nativePlasmaRecentApplications.
   ///
-  /// In ja, this message translates to:
-  /// **'最近使ったアプリケーション'**
+  /// In pt_BR, this message translates to:
+  /// **'Aplicativos recentes'**
   String get nativePlasmaRecentApplications;
 
   /// No description provided for @nativePlasmaRemoveFromFavorites.
   ///
-  /// In ja, this message translates to:
-  /// **'お気に入りから削除'**
+  /// In pt_BR, this message translates to:
+  /// **'Remover dos favoritos'**
   String get nativePlasmaRemoveFromFavorites;
 
   /// No description provided for @nativePlasmaRestart.
   ///
-  /// In ja, this message translates to:
-  /// **'再起動'**
+  /// In pt_BR, this message translates to:
+  /// **'Reiniciar'**
   String get nativePlasmaRestart;
 
   /// No description provided for @nativePlasmaRestartingIn.
   ///
-  /// In ja, this message translates to:
-  /// **'%1\$d 秒後にデスクトップを再起動します'**
+  /// In pt_BR, this message translates to:
+  /// **'Reiniciando em %1\$d segundos'**
   String get nativePlasmaRestartingIn;
 
   /// No description provided for @nativePlasmaRestore.
   ///
-  /// In ja, this message translates to:
-  /// **'元に戻す'**
+  /// In pt_BR, this message translates to:
+  /// **'Restaurar'**
   String get nativePlasmaRestore;
 
   /// No description provided for @nativePlasmaRunCommand.
   ///
-  /// In ja, this message translates to:
-  /// **'コマンドを実行 (KRunner)'**
+  /// In pt_BR, this message translates to:
+  /// **'Executar comando (KRunner)'**
   String get nativePlasmaRunCommand;
 
   /// No description provided for @nativePlasmaSearch.
   ///
-  /// In ja, this message translates to:
-  /// **'検索…'**
+  /// In pt_BR, this message translates to:
+  /// **'Pesquisar…'**
   String get nativePlasmaSearch;
 
   /// No description provided for @nativePlasmaShutDown.
   ///
-  /// In ja, this message translates to:
-  /// **'シャットダウン'**
+  /// In pt_BR, this message translates to:
+  /// **'Desligar'**
   String get nativePlasmaShutDown;
 
   /// No description provided for @nativePlasmaShuttingDownIn.
   ///
-  /// In ja, this message translates to:
-  /// **'%1\$d 秒後にDextopを終了します'**
+  /// In pt_BR, this message translates to:
+  /// **'Desligando a Área de Trabalho Móvel em %1\$d segundos'**
   String get nativePlasmaShuttingDownIn;
 
   /// No description provided for @nativePlasmaSleep.
   ///
-  /// In ja, this message translates to:
-  /// **'スリープ'**
+  /// In pt_BR, this message translates to:
+  /// **'Suspender'**
   String get nativePlasmaSleep;
 
   /// No description provided for @nativePlasmaSleepingIn.
   ///
-  /// In ja, this message translates to:
-  /// **'%1\$d 秒後にスリープします'**
+  /// In pt_BR, this message translates to:
+  /// **'Suspendendo em %1\$d segundos'**
   String get nativePlasmaSleepingIn;
 
   /// No description provided for @nativePlasmaStatusAndNotifications.
   ///
-  /// In ja, this message translates to:
-  /// **'ステータスと通知'**
+  /// In pt_BR, this message translates to:
+  /// **'Status e notificações'**
   String get nativePlasmaStatusAndNotifications;
 
   /// No description provided for @nativePlasmaStopPeeking.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップ表示を終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Parar de espiar a área de trabalho'**
   String get nativePlasmaStopPeeking;
 
   /// No description provided for @nativePlasmaSystemSettings.
   ///
-  /// In ja, this message translates to:
-  /// **'システム設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações do sistema'**
   String get nativePlasmaSystemSettings;
 
   /// No description provided for @nativePlasmaTileLeft.
   ///
-  /// In ja, this message translates to:
-  /// **'左半分にタイル'**
+  /// In pt_BR, this message translates to:
+  /// **'Mosaico à esquerda'**
   String get nativePlasmaTileLeft;
 
   /// No description provided for @nativePlasmaTileRight.
   ///
-  /// In ja, this message translates to:
-  /// **'右半分にタイル'**
+  /// In pt_BR, this message translates to:
+  /// **'Mosaico à direita'**
   String get nativePlasmaTileRight;
 
   /// No description provided for @nativePlasmaUnpinFromTaskManager.
   ///
-  /// In ja, this message translates to:
-  /// **'タスクマネージャーから固定解除'**
+  /// In pt_BR, this message translates to:
+  /// **'Desafixar do gerenciador de tarefas'**
   String get nativePlasmaUnpinFromTaskManager;
 
   /// No description provided for @nativePlasmaVirtualDesktops.
   ///
-  /// In ja, this message translates to:
-  /// **'仮想デスクトップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Áreas de trabalho virtuais'**
   String get nativePlasmaVirtualDesktops;
 
   /// No description provided for @nativePlasmaWallpaper.
   ///
-  /// In ja, this message translates to:
-  /// **'壁紙'**
+  /// In pt_BR, this message translates to:
+  /// **'Papel de parede'**
   String get nativePlasmaWallpaper;
 
   /// No description provided for @nativePlasmaWallpaperAndroid.
   ///
-  /// In ja, this message translates to:
-  /// **'Androidの壁紙'**
+  /// In pt_BR, this message translates to:
+  /// **'Papel de parede do Android'**
   String get nativePlasmaWallpaperAndroid;
 
   /// No description provided for @nativePlasmaWallpaperPlasma.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Plasma'**
   String get nativePlasmaWallpaperPlasma;
 
   /// No description provided for @nativePlasmaBreezeDark.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Breeze Dark'**
   String get nativePlasmaBreezeDark;
 
   /// No description provided for @nativePlasmaBreezeLight.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Breeze Light'**
   String get nativePlasmaBreezeLight;
 
   /// No description provided for @nativePlasmaAirplaneMode.
   ///
-  /// In ja, this message translates to:
-  /// **'機内モード'**
+  /// In pt_BR, this message translates to:
+  /// **'Modo avião'**
   String get nativePlasmaAirplaneMode;
 
   /// No description provided for @nativePlasmaBluetooth.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Bluetooth'**
   String get nativePlasmaBluetooth;
 
   /// No description provided for @nativePlasmaOn.
   ///
-  /// In ja, this message translates to:
-  /// **'オン'**
+  /// In pt_BR, this message translates to:
+  /// **'Ativado'**
   String get nativePlasmaOn;
 
   /// No description provided for @nativePlasmaOff.
   ///
-  /// In ja, this message translates to:
-  /// **'オフ'**
+  /// In pt_BR, this message translates to:
+  /// **'Desativado'**
   String get nativePlasmaOff;
 
   /// No description provided for @nativePlasmaCurrentConnection.
   ///
-  /// In ja, this message translates to:
-  /// **'現在の接続'**
+  /// In pt_BR, this message translates to:
+  /// **'Conexão atual'**
   String get nativePlasmaCurrentConnection;
 
   /// No description provided for @nativePlasmaAvailableNetworks.
   ///
-  /// In ja, this message translates to:
-  /// **'利用可能なネットワーク'**
+  /// In pt_BR, this message translates to:
+  /// **'Redes disponíveis'**
   String get nativePlasmaAvailableNetworks;
 
   /// No description provided for @nativePlasmaNoInternet.
   ///
-  /// In ja, this message translates to:
-  /// **'インターネットに接続されていません'**
+  /// In pt_BR, this message translates to:
+  /// **'Sem acesso à internet'**
   String get nativePlasmaNoInternet;
 
   /// No description provided for @nativePlasmaWifiIsOff.
   ///
-  /// In ja, this message translates to:
-  /// **'Wi-Fi はオフです'**
+  /// In pt_BR, this message translates to:
+  /// **'O Wi-Fi está desativado'**
   String get nativePlasmaWifiIsOff;
 
   /// No description provided for @nativePlasmaScanning.
   ///
-  /// In ja, this message translates to:
-  /// **'スキャン中…'**
+  /// In pt_BR, this message translates to:
+  /// **'Procurando…'**
   String get nativePlasmaScanning;
 
   /// No description provided for @nativePlasmaNoNetworksFound.
   ///
-  /// In ja, this message translates to:
-  /// **'ネットワークが見つかりません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhuma rede encontrada'**
   String get nativePlasmaNoNetworksFound;
 
   /// No description provided for @nativePlasmaSavedNetwork.
   ///
-  /// In ja, this message translates to:
-  /// **'保存済み'**
+  /// In pt_BR, this message translates to:
+  /// **'Salva'**
   String get nativePlasmaSavedNetwork;
 
   /// No description provided for @nativePlasmaSecuredNetwork.
   ///
-  /// In ja, this message translates to:
-  /// **'保護'**
+  /// In pt_BR, this message translates to:
+  /// **'Protegida'**
   String get nativePlasmaSecuredNetwork;
 
   /// No description provided for @nativePlasmaOpenNetwork.
   ///
-  /// In ja, this message translates to:
-  /// **'オープン'**
+  /// In pt_BR, this message translates to:
+  /// **'Aberta'**
   String get nativePlasmaOpenNetwork;
 
   /// No description provided for @nativePlasmaPassword.
   ///
-  /// In ja, this message translates to:
-  /// **'パスワード'**
+  /// In pt_BR, this message translates to:
+  /// **'Senha'**
   String get nativePlasmaPassword;
 
   /// No description provided for @nativePlasmaConnect.
   ///
-  /// In ja, this message translates to:
-  /// **'接続'**
+  /// In pt_BR, this message translates to:
+  /// **'Conectar'**
   String get nativePlasmaConnect;
 
   /// No description provided for @nativePlasmaCancel.
   ///
-  /// In ja, this message translates to:
-  /// **'キャンセル'**
+  /// In pt_BR, this message translates to:
+  /// **'Cancelar'**
   String get nativePlasmaCancel;
 
   /// No description provided for @nativePlasmaConnectingTo.
   ///
-  /// In ja, this message translates to:
-  /// **'%1\$s に接続しています…'**
+  /// In pt_BR, this message translates to:
+  /// **'Conectando a %1\$s…'**
   String get nativePlasmaConnectingTo;
 
   /// No description provided for @nativePlasmaConnectionFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'接続できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível conectar'**
   String get nativePlasmaConnectionFailed;
 
   /// No description provided for @nativePlasmaUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'この端末では利用できません'**
+  /// In pt_BR, this message translates to:
+  /// **'Indisponível neste dispositivo'**
   String get nativePlasmaUnavailable;
 
   /// No description provided for @nativePlasmaVolume.
   ///
-  /// In ja, this message translates to:
-  /// **'音量'**
+  /// In pt_BR, this message translates to:
+  /// **'Volume'**
   String get nativePlasmaVolume;
 
   /// No description provided for @nativePlasmaMediaVolume.
   ///
-  /// In ja, this message translates to:
-  /// **'メディア'**
+  /// In pt_BR, this message translates to:
+  /// **'Mídia'**
   String get nativePlasmaMediaVolume;
 
   /// No description provided for @nativePlasmaRingVolume.
   ///
-  /// In ja, this message translates to:
-  /// **'着信音'**
+  /// In pt_BR, this message translates to:
+  /// **'Toque'**
   String get nativePlasmaRingVolume;
 
   /// No description provided for @nativePlasmaNotificationVolume.
   ///
-  /// In ja, this message translates to:
-  /// **'通知'**
+  /// In pt_BR, this message translates to:
+  /// **'Notificações'**
   String get nativePlasmaNotificationVolume;
 
   /// No description provided for @nativePlasmaAlarmVolume.
   ///
-  /// In ja, this message translates to:
-  /// **'アラーム'**
+  /// In pt_BR, this message translates to:
+  /// **'Alarme'**
   String get nativePlasmaAlarmVolume;
 
   /// No description provided for @nativePlasmaNothingPlaying.
   ///
-  /// In ja, this message translates to:
-  /// **'再生中のメディアはありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nada tocando'**
   String get nativePlasmaNothingPlaying;
 
   /// No description provided for @nativePlasmaOutputDevice.
   ///
-  /// In ja, this message translates to:
-  /// **'出力デバイス'**
+  /// In pt_BR, this message translates to:
+  /// **'Dispositivo de saída'**
   String get nativePlasmaOutputDevice;
 
   /// No description provided for @nativePlasmaHeadphones.
   ///
-  /// In ja, this message translates to:
-  /// **'ヘッドホン'**
+  /// In pt_BR, this message translates to:
+  /// **'Fones de ouvido'**
   String get nativePlasmaHeadphones;
 
   /// No description provided for @nativePlasmaExternalOutput.
   ///
-  /// In ja, this message translates to:
-  /// **'外部出力'**
+  /// In pt_BR, this message translates to:
+  /// **'Saída externa'**
   String get nativePlasmaExternalOutput;
 
   /// No description provided for @nativePlasmaBatterySaver.
   ///
-  /// In ja, this message translates to:
-  /// **'バッテリーセーバー'**
+  /// In pt_BR, this message translates to:
+  /// **'Economia de bateria'**
   String get nativePlasmaBatterySaver;
 
   /// No description provided for @nativePlasmaAutoBrightness.
   ///
-  /// In ja, this message translates to:
-  /// **'明るさの自動調節'**
+  /// In pt_BR, this message translates to:
+  /// **'Brilho automático'**
   String get nativePlasmaAutoBrightness;
 
   /// No description provided for @nativePlasmaScreenBrightness.
   ///
-  /// In ja, this message translates to:
-  /// **'画面の明るさ'**
+  /// In pt_BR, this message translates to:
+  /// **'Brilho da tela'**
   String get nativePlasmaScreenBrightness;
 
   /// No description provided for @nativePlasmaFullyCharged.
   ///
-  /// In ja, this message translates to:
-  /// **'充電完了'**
+  /// In pt_BR, this message translates to:
+  /// **'Carga completa'**
   String get nativePlasmaFullyCharged;
 
   /// No description provided for @nativePlasmaPowerSourceAc.
   ///
-  /// In ja, this message translates to:
-  /// **'AC 電源'**
+  /// In pt_BR, this message translates to:
+  /// **'Tomada'**
   String get nativePlasmaPowerSourceAc;
 
   /// No description provided for @nativePlasmaPowerSourceWireless.
   ///
-  /// In ja, this message translates to:
-  /// **'ワイヤレス充電'**
+  /// In pt_BR, this message translates to:
+  /// **'Sem fio'**
   String get nativePlasmaPowerSourceWireless;
 
   /// No description provided for @nativePlasmaPowerSourceDock.
   ///
-  /// In ja, this message translates to:
-  /// **'ドック'**
+  /// In pt_BR, this message translates to:
+  /// **'Base'**
   String get nativePlasmaPowerSourceDock;
 
   /// No description provided for @nativePlasmaTimeUntilFull.
   ///
-  /// In ja, this message translates to:
-  /// **'満充電まで %1\$s'**
+  /// In pt_BR, this message translates to:
+  /// **'%1\$s até carga completa'**
   String get nativePlasmaTimeUntilFull;
 
   /// No description provided for @nativePlasmaHoursMinutes.
   ///
-  /// In ja, this message translates to:
-  /// **'%1\$d 時間 %2\$d 分'**
+  /// In pt_BR, this message translates to:
+  /// **'%1\$d h %2\$d min'**
   String get nativePlasmaHoursMinutes;
 
   /// No description provided for @nativePlasmaMinutes.
   ///
-  /// In ja, this message translates to:
-  /// **'%1\$d 分'**
+  /// In pt_BR, this message translates to:
+  /// **'%1\$d min'**
   String get nativePlasmaMinutes;
 
   /// No description provided for @nativePlasmaApplying.
   ///
-  /// In ja, this message translates to:
-  /// **'切り替え中…'**
+  /// In pt_BR, this message translates to:
+  /// **'Aplicando…'**
   String get nativePlasmaApplying;
 
   /// No description provided for @linuxDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'root なしで Linux（Debian・Ubuntu・Arch Linux ARM）を動かし、アプリを Plasma のウィンドウとして開きます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Execute Linux (Debian, Ubuntu, Arch Linux ARM) sem root e abra os apps em janelas do Plasma.'**
   String get linuxDescription;
 
   /// No description provided for @linuxUnsupportedDevice.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux は arm64 端末でのみ使えます。'**
+  /// In pt_BR, this message translates to:
+  /// **'O Linux requer um dispositivo arm64.'**
   String get linuxUnsupportedDevice;
 
   /// No description provided for @linuxRequiresPlasma.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux は Dextop Plasma v2 を使っているときだけ使えます。'**
+  /// In pt_BR, this message translates to:
+  /// **'O Linux só está disponível com o Plasma v2.'**
   String get linuxRequiresPlasma;
 
   /// No description provided for @linuxSwitchToPlasma.
   ///
-  /// In ja, this message translates to:
-  /// **'Plasma v2 に切り替える'**
+  /// In pt_BR, this message translates to:
+  /// **'Mudar para o Plasma v2'**
   String get linuxSwitchToPlasma;
 
   /// No description provided for @linuxRequiresPrivilege.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux は Dextop 内蔵のアクセス機能を使います。「Dextopアクセスを設定」から接続してください。外部の Stellar や Shizuku は必須ではありません。'**
+  /// In pt_BR, this message translates to:
+  /// **'O Linux usa o serviço de acesso integrado da Área de Trabalho Móvel. Conecte-o em Configurar o acesso da Área de Trabalho Móvel. Os apps externos Stellar ou Shizuku são opcionais.'**
   String get linuxRequiresPrivilege;
 
   /// No description provided for @linuxEnable.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux を有効にする'**
+  /// In pt_BR, this message translates to:
+  /// **'Ativar Linux'**
   String get linuxEnable;
 
   /// No description provided for @linuxEnableDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'コンテナを作成・管理し、Plasma から Linux アプリを開けるようにします'**
+  /// In pt_BR, this message translates to:
+  /// **'Crie e gerencie contêineres e abra apps Linux pelo Plasma'**
   String get linuxEnableDescription;
 
   /// No description provided for @linuxNoContainers.
   ///
-  /// In ja, this message translates to:
-  /// **'コンテナはまだありません。「新規追加」から作成してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Ainda não há contêineres. Use Adicionar contêiner para criar um.'**
   String get linuxNoContainers;
 
   /// No description provided for @linuxAddContainer.
   ///
-  /// In ja, this message translates to:
-  /// **'新規追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicionar contêiner'**
   String get linuxAddContainer;
 
   /// No description provided for @linuxContainerName.
   ///
-  /// In ja, this message translates to:
-  /// **'名前'**
+  /// In pt_BR, this message translates to:
+  /// **'Nome'**
   String get linuxContainerName;
 
   /// No description provided for @linuxDistribution.
   ///
-  /// In ja, this message translates to:
-  /// **'ディストリビューション'**
+  /// In pt_BR, this message translates to:
+  /// **'Distribuição'**
   String get linuxDistribution;
 
   /// No description provided for @linuxStorageNote.
   ///
-  /// In ja, this message translates to:
-  /// **'コンテナは /data/local/tmp/dextop/linux に保存され、Dextop をアンインストールしても残ります。不要になったらここで削除してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Os contêineres ficam em /data/local/tmp/dextop/linux e continuam lá mesmo depois de desinstalar o app. Exclua-os aqui quando não precisar mais.'**
   String get linuxStorageNote;
 
   /// No description provided for @linuxInstall.
   ///
-  /// In ja, this message translates to:
-  /// **'インストール'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalar'**
   String get linuxInstall;
 
   /// No description provided for @linuxCancel.
   ///
-  /// In ja, this message translates to:
-  /// **'キャンセル'**
+  /// In pt_BR, this message translates to:
+  /// **'Cancelar'**
   String get linuxCancel;
 
   /// No description provided for @linuxDelete.
   ///
-  /// In ja, this message translates to:
-  /// **'削除'**
+  /// In pt_BR, this message translates to:
+  /// **'Excluir'**
   String get linuxDelete;
 
   /// No description provided for @linuxDeleteConfirm.
   ///
-  /// In ja, this message translates to:
-  /// **'「{name}」とその中のファイルをすべて削除しますか？'**
+  /// In pt_BR, this message translates to:
+  /// **'Excluir “{name}” e todos os seus arquivos?'**
   String linuxDeleteConfirm(String name);
 
   /// No description provided for @linuxRepair.
   ///
-  /// In ja, this message translates to:
-  /// **'修復'**
+  /// In pt_BR, this message translates to:
+  /// **'Reparar'**
   String get linuxRepair;
 
   /// No description provided for @linuxShowLog.
   ///
-  /// In ja, this message translates to:
-  /// **'ログを表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar registro'**
   String get linuxShowLog;
 
   /// No description provided for @linuxRunCommand.
   ///
-  /// In ja, this message translates to:
-  /// **'コマンドを実行'**
+  /// In pt_BR, this message translates to:
+  /// **'Executar comando'**
   String get linuxRunCommand;
 
   /// No description provided for @linuxRun.
   ///
-  /// In ja, this message translates to:
-  /// **'実行'**
+  /// In pt_BR, this message translates to:
+  /// **'Executar'**
   String get linuxRun;
 
   /// No description provided for @linuxStateInstalling.
   ///
-  /// In ja, this message translates to:
-  /// **'インストール中'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalando'**
   String get linuxStateInstalling;
 
   /// No description provided for @linuxStateInstalled.
   ///
-  /// In ja, this message translates to:
-  /// **'インストール済み'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalado'**
   String get linuxStateInstalled;
 
   /// No description provided for @linuxStateFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'失敗'**
+  /// In pt_BR, this message translates to:
+  /// **'Falhou'**
   String get linuxStateFailed;
 
   /// No description provided for @linuxPhaseDownload.
   ///
-  /// In ja, this message translates to:
-  /// **'ダウンロード中'**
+  /// In pt_BR, this message translates to:
+  /// **'Baixando'**
   String get linuxPhaseDownload;
 
   /// No description provided for @linuxPhaseVerify.
   ///
-  /// In ja, this message translates to:
-  /// **'検証中'**
+  /// In pt_BR, this message translates to:
+  /// **'Verificando'**
   String get linuxPhaseVerify;
 
   /// No description provided for @linuxPhaseExtract.
   ///
-  /// In ja, this message translates to:
-  /// **'展開中'**
+  /// In pt_BR, this message translates to:
+  /// **'Extraindo'**
   String get linuxPhaseExtract;
 
   /// No description provided for @linuxPhaseConfigure.
   ///
-  /// In ja, this message translates to:
-  /// **'設定中'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurando'**
   String get linuxPhaseConfigure;
 
   /// No description provided for @linuxPhaseProvision.
   ///
-  /// In ja, this message translates to:
-  /// **'必要なパッケージをインストール中'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalando pacotes necessários'**
   String get linuxPhaseProvision;
 
   /// No description provided for @linuxOpenDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップを開く'**
+  /// In pt_BR, this message translates to:
+  /// **'Abrir área de trabalho'**
   String get linuxOpenDesktop;
 
   /// No description provided for @linuxStartPlasmaFirst.
   ///
-  /// In ja, this message translates to:
-  /// **'Dextop を Plasma v2 で起動してから開いてください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Inicie primeiro a Área de Trabalho Móvel com o Plasma v2.'**
   String get linuxStartPlasmaFirst;
 
   /// No description provided for @nativePlasmaShowKeyboard.
   ///
-  /// In ja, this message translates to:
-  /// **'キーボードを表示'**
+  /// In pt_BR, this message translates to:
+  /// **'Mostrar teclado'**
   String get nativePlasmaShowKeyboard;
 
   /// No description provided for @nativeLinuxDesktopConnecting.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux サービスに接続しています…'**
+  /// In pt_BR, this message translates to:
+  /// **'Conectando ao serviço Linux…'**
   String get nativeLinuxDesktopConnecting;
 
   /// No description provided for @nativeLinuxDesktopStartingContainer.
   ///
-  /// In ja, this message translates to:
-  /// **'コンテナと画面を起動しています…'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciando o contêiner e a tela…'**
   String get nativeLinuxDesktopStartingContainer;
 
   /// No description provided for @nativeLinuxDesktopStartingWm.
   ///
-  /// In ja, this message translates to:
-  /// **'ウィンドウマネージャーを起動しています…'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciando o gerenciador de janelas…'**
   String get nativeLinuxDesktopStartingWm;
 
   /// No description provided for @nativePlasmaCategoryLinux.
   ///
-  /// In ja, this message translates to:
+  /// In pt_BR, this message translates to:
   /// **'Linux'**
   String get nativePlasmaCategoryLinux;
 
   /// No description provided for @linuxPhasePrepare.
   ///
-  /// In ja, this message translates to:
-  /// **'イメージ情報を取得中'**
+  /// In pt_BR, this message translates to:
+  /// **'Obtendo informações da imagem'**
   String get linuxPhasePrepare;
 
   /// No description provided for @linuxPhaseRefresh.
   ///
-  /// In ja, this message translates to:
-  /// **'パッケージ一覧を更新中'**
+  /// In pt_BR, this message translates to:
+  /// **'Atualizando listas de pacotes'**
   String get linuxPhaseRefresh;
 
   /// No description provided for @linuxPhaseFinish.
   ///
-  /// In ja, this message translates to:
-  /// **'仕上げ中'**
+  /// In pt_BR, this message translates to:
+  /// **'Concluindo'**
   String get linuxPhaseFinish;
 
   /// No description provided for @linuxPhaseStep.
   ///
-  /// In ja, this message translates to:
-  /// **'ステップ {step}/{total}'**
+  /// In pt_BR, this message translates to:
+  /// **'Etapa {step} de {total}'**
   String linuxPhaseStep(int step, int total);
 
   /// No description provided for @linuxSetupTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux のセットアップ'**
+  /// In pt_BR, this message translates to:
+  /// **'Configuração do Linux'**
   String get linuxSetupTitle;
 
   /// No description provided for @linuxSetupIntro.
   ///
-  /// In ja, this message translates to:
-  /// **'使い方に合わせて Linux を準備します。デスクトップ、言語、入力方法、アプリを順番に選びましょう。'**
+  /// In pt_BR, this message translates to:
+  /// **'Crie um ambiente Linux do seu jeito. Escolha a área de trabalho, o idioma, o método de entrada e os aplicativos.'**
   String get linuxSetupIntro;
 
   /// No description provided for @linuxSetupExisting.
   ///
-  /// In ja, this message translates to:
-  /// **'この Linux 環境に機能を追加します。既存のファイルやアプリは保持されます。設定を反映するには、完了後にデスクトップを開き直してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Adicione recursos a este ambiente Linux. Os arquivos e aplicativos existentes são mantidos. Reabra a área de trabalho após a configuração para aplicar as mudanças.'**
   String get linuxSetupExisting;
 
   /// No description provided for @linuxSetupSystem.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux 環境を選ぶ'**
+  /// In pt_BR, this message translates to:
+  /// **'Seu ambiente Linux'**
   String get linuxSetupSystem;
 
   /// No description provided for @linuxSetupDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'デスクトップを準備'**
+  /// In pt_BR, this message translates to:
+  /// **'Deixe a área de trabalho do seu jeito'**
   String get linuxSetupDesktop;
 
   /// No description provided for @linuxSetupLanguage.
   ///
-  /// In ja, this message translates to:
-  /// **'言語とフォント'**
+  /// In pt_BR, this message translates to:
+  /// **'Idioma e fontes'**
   String get linuxSetupLanguage;
 
   /// No description provided for @linuxSetupInput.
   ///
-  /// In ja, this message translates to:
-  /// **'文字入力の設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Digitar no seu idioma'**
   String get linuxSetupInput;
 
   /// No description provided for @linuxSetupApps.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリを選ぶ'**
+  /// In pt_BR, this message translates to:
+  /// **'Escolha seus aplicativos'**
   String get linuxSetupApps;
 
   /// No description provided for @linuxSetupReview.
   ///
-  /// In ja, this message translates to:
-  /// **'セットアップ内容を確認'**
+  /// In pt_BR, this message translates to:
+  /// **'Pronto para configurar'**
   String get linuxSetupReview;
 
   /// No description provided for @linuxSetupProgress.
   ///
-  /// In ja, this message translates to:
-  /// **'ワークスペースを準備中'**
+  /// In pt_BR, this message translates to:
+  /// **'Preparando seu ambiente'**
   String get linuxSetupProgress;
 
   /// No description provided for @linuxSetupDone.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux の準備ができました'**
+  /// In pt_BR, this message translates to:
+  /// **'Seu ambiente Linux está pronto'**
   String get linuxSetupDone;
 
   /// No description provided for @linuxSetupDoneDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux タブからデスクトップを開くか、Plasma から Linux アプリを起動できます。Fcitx 5 の入力切り替えは Ctrl+Space です。'**
+  /// In pt_BR, this message translates to:
+  /// **'Abra a área de trabalho pela aba Linux ou abra apps Linux individuais pelo Plasma. No Fcitx 5, use Ctrl+Espaço para trocar o método de entrada.'**
   String get linuxSetupDoneDetail;
 
   /// No description provided for @linuxSetupNext.
   ///
-  /// In ja, this message translates to:
-  /// **'次へ'**
+  /// In pt_BR, this message translates to:
+  /// **'Continuar'**
   String get linuxSetupNext;
 
   /// No description provided for @linuxSetupBack.
   ///
-  /// In ja, this message translates to:
-  /// **'戻る'**
+  /// In pt_BR, this message translates to:
+  /// **'Voltar'**
   String get linuxSetupBack;
 
   /// No description provided for @linuxSetupApply.
   ///
-  /// In ja, this message translates to:
-  /// **'セットアップを開始'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciar configuração'**
   String get linuxSetupApply;
 
   /// No description provided for @linuxSetupCustomize.
   ///
-  /// In ja, this message translates to:
-  /// **'セットアップ・機能を追加'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurar / adicionar recursos'**
   String get linuxSetupCustomize;
 
   /// No description provided for @linuxSetupMinimal.
   ///
-  /// In ja, this message translates to:
-  /// **'最小構成の IceWM'**
+  /// In pt_BR, this message translates to:
+  /// **'IceWM mínimo'**
   String get linuxSetupMinimal;
 
   /// No description provided for @linuxSetupMinimalDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'Xvfb・IceWM・ターミナルの軽量な構成です。追加機能は次のステップで選べます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Uma área de trabalho leve com Xvfb, IceWM e um terminal. Escolha os extras nas próximas etapas.'**
   String get linuxSetupMinimalDetail;
 
   /// No description provided for @linuxSetupComplete.
   ///
-  /// In ja, this message translates to:
-  /// **'普段使いの IceWM'**
+  /// In pt_BR, this message translates to:
+  /// **'IceWM para o dia a dia'**
   String get linuxSetupComplete;
 
   /// No description provided for @linuxSetupCompleteDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマ・アイコン・Mesa ソフトウェア描画・ファイルマネージャー・エディターを選択した構成です。各項目は変更できます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Já vem com temas, ícones, renderização por software Mesa, gerenciador de arquivos e editor de texto selecionados. Você pode ajustar cada escolha.'**
   String get linuxSetupCompleteDetail;
 
   /// No description provided for @linuxSetupThemes.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマとアイコン'**
+  /// In pt_BR, this message translates to:
+  /// **'Temas e ícones'**
   String get linuxSetupThemes;
 
   /// No description provided for @linuxSetupThemesDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'IceWM のテーマと、GTK アプリ向けの Adwaita スタイルを用意します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Temas do IceWM e estilo Adwaita para apps GTK.'**
   String get linuxSetupThemesDetail;
 
   /// No description provided for @linuxSetupGraphics.
   ///
-  /// In ja, this message translates to:
-  /// **'Mesa グラフィックス対応'**
+  /// In pt_BR, this message translates to:
+  /// **'Suporte gráfico Mesa'**
   String get linuxSetupGraphics;
 
   /// No description provided for @linuxSetupGraphicsDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'OpenGL・EGL ライブラリとソフトウェア描画を追加します。この Xvfb デスクトップは GPU のハードウェアアクセラレーションには対応していません。'**
+  /// In pt_BR, this message translates to:
+  /// **'Instala as bibliotecas OpenGL / EGL e a renderização por software. Esta área de trabalho Xvfb não oferece aceleração de GPU por hardware.'**
   String get linuxSetupGraphicsDetail;
 
   /// No description provided for @linuxSetupLocale.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux の表示言語'**
+  /// In pt_BR, this message translates to:
+  /// **'Idioma do Linux'**
   String get linuxSetupLocale;
 
   /// No description provided for @linuxSetupLocaleDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'選んだ言語の UTF-8 ロケールを生成し、対応するデスクトップやアプリに適用します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Gera a localidade UTF-8 escolhida e a aplica à área de trabalho e aos apps compatíveis.'**
   String get linuxSetupLocaleDetail;
 
   /// No description provided for @linuxSetupFonts.
   ///
-  /// In ja, this message translates to:
-  /// **'日本語・中国語・韓国語フォント'**
+  /// In pt_BR, this message translates to:
+  /// **'Fontes japonesas, chinesas e coreanas'**
   String get linuxSetupFonts;
 
   /// No description provided for @linuxSetupFontsDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'Noto CJK フォントを追加します。通常の Noto フォントと絵文字フォントはすべての構成に含まれます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Instala as fontes Noto CJK. As fontes Noto gerais e de emoji vêm em todas as configurações.'**
   String get linuxSetupFontsDetail;
 
   /// No description provided for @linuxSetupNoIme.
   ///
-  /// In ja, this message translates to:
-  /// **'Android のキーボードのみ'**
+  /// In pt_BR, this message translates to:
+  /// **'Usar só o teclado do Android'**
   String get linuxSetupNoIme;
 
   /// No description provided for @linuxSetupNoImeDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux 側の IME は起動しません。Plasma では Android のキーボードを引き続き利用できます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Não inicia um método de entrada do Linux. O teclado do Android continua disponível no Plasma.'**
   String get linuxSetupNoImeDetail;
 
   /// No description provided for @linuxSetupImeDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux の起動時に Fcitx 5 を起動し、GTK・Qt アプリと連携します。IME を選ぶと CJK フォントも追加します。'**
+  /// In pt_BR, this message translates to:
+  /// **'O Fcitx 5 inicia junto com a sessão Linux, com integração GTK / Qt. Métodos de entrada com texto CJK também instalam as fontes CJK.'**
   String get linuxSetupImeDetail;
 
   /// No description provided for @linuxSetupMozc.
   ///
-  /// In ja, this message translates to:
-  /// **'日本語 — Mozc'**
+  /// In pt_BR, this message translates to:
+  /// **'Japonês — Mozc'**
   String get linuxSetupMozc;
 
   /// No description provided for @linuxSetupPinyin.
   ///
-  /// In ja, this message translates to:
-  /// **'中国語 — 拼音'**
+  /// In pt_BR, this message translates to:
+  /// **'Chinês — Pinyin'**
   String get linuxSetupPinyin;
 
   /// No description provided for @linuxSetupHangul.
   ///
-  /// In ja, this message translates to:
-  /// **'韓国語 — ハングル'**
+  /// In pt_BR, this message translates to:
+  /// **'Coreano — Hangul'**
   String get linuxSetupHangul;
 
   /// No description provided for @linuxSetupFirefoxDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'Debian では Firefox ESR、Arch では Firefox を追加します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Firefox ESR no Debian; Firefox no Arch.'**
   String get linuxSetupFirefoxDetail;
 
   /// No description provided for @linuxSetupChromeDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'Google 公式の ARM64 版を Google から取得します。Debian・Ubuntu で利用できます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Google Chrome oficial para ARM64, baixado do Google. Disponível no Debian e no Ubuntu.'**
   String get linuxSetupChromeDetail;
 
   /// No description provided for @linuxSetupChromiumDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'ディストリビューションの公式リポジトリから Chromium を追加します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Chromium de código aberto, do repositório da distribuição.'**
   String get linuxSetupChromiumDetail;
 
   /// No description provided for @linuxSetupSnapUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'この Ubuntu イメージでは Snap が必要なため選択できません。Debian・Arch を選ぶか、Google Chrome を利用してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Indisponível nesta imagem do Ubuntu: este pacote exige Snap. Escolha Debian / Arch ou selecione o Google Chrome.'**
   String get linuxSetupSnapUnavailable;
 
   /// No description provided for @linuxSetupChromeUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'このセットアップでは Debian・Ubuntu 向けの公式インストーラーを利用します。'**
+  /// In pt_BR, this message translates to:
+  /// **'O instalador oficial está disponível aqui para Debian e Ubuntu.'**
   String get linuxSetupChromeUnavailable;
 
   /// No description provided for @linuxSetupBrowserNote.
   ///
-  /// In ja, this message translates to:
-  /// **'ブラウザーは PRoot 向けにサンドボックスを無効化したランチャーで起動します。この環境で使うものを選んでください。'**
+  /// In pt_BR, this message translates to:
+  /// **'Os navegadores usam inicializadores compatíveis com PRoot, com o sandbox desativado. Instale só os navegadores que você quer usar neste ambiente.'**
   String get linuxSetupBrowserNote;
 
   /// No description provided for @linuxSetupFiles.
   ///
-  /// In ja, this message translates to:
-  /// **'ファイルマネージャー'**
+  /// In pt_BR, this message translates to:
+  /// **'Gerenciador de arquivos'**
   String get linuxSetupFiles;
 
   /// No description provided for @linuxSetupFilesDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'PCManFM — フォルダーの閲覧とファイル管理。'**
+  /// In pt_BR, this message translates to:
+  /// **'PCManFM — navegue por pastas e gerencie arquivos.'**
   String get linuxSetupFilesDetail;
 
   /// No description provided for @linuxSetupEditor.
   ///
-  /// In ja, this message translates to:
-  /// **'テキストエディター'**
+  /// In pt_BR, this message translates to:
+  /// **'Editor de texto'**
   String get linuxSetupEditor;
 
   /// No description provided for @linuxSetupEditorDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'Mousepad — 軽量なグラフィカルエディター。'**
+  /// In pt_BR, this message translates to:
+  /// **'Mousepad — um editor gráfico leve.'**
   String get linuxSetupEditorDetail;
 
   /// No description provided for @linuxSetupOffice.
   ///
-  /// In ja, this message translates to:
-  /// **'オフィススイート'**
+  /// In pt_BR, this message translates to:
+  /// **'Pacote de escritório'**
   String get linuxSetupOffice;
 
   /// No description provided for @linuxSetupOfficeDetail.
   ///
-  /// In ja, this message translates to:
-  /// **'LibreOffice — 文書・表計算・プレゼンテーション。ダウンロード量と必要な空き容量が増えます。'**
+  /// In pt_BR, this message translates to:
+  /// **'LibreOffice — documentos, planilhas e apresentações. Exige um download maior e mais espaço.'**
   String get linuxSetupOfficeDetail;
 
   /// No description provided for @linuxSetupStorage.
   ///
-  /// In ja, this message translates to:
-  /// **'数 GB 以上の空き容量を確保してください。ダウンロード量と使用容量は、選んだ環境やアプリによって変わります。この画面を閉じてもインストールは続きます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Mantenha alguns GB livres. O tamanho do download e da instalação depende da distribuição e dos apps escolhidos. A instalação continua mesmo se você sair desta tela.'**
   String get linuxSetupStorage;
 
   /// No description provided for @linuxSetupAdditive.
   ///
-  /// In ja, this message translates to:
-  /// **'選択を外したアプリは削除しません。選んだパッケージを追加し、言語やセッション設定を更新します。'**
+  /// In pt_BR, this message translates to:
+  /// **'Apps não selecionados não são removidos. A configuração adiciona os pacotes escolhidos e atualiza o idioma e as opções da sessão.'**
   String get linuxSetupAdditive;
 
   /// No description provided for @linuxSetupNothingExtra.
   ///
-  /// In ja, this message translates to:
-  /// **'追加アプリなし'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhum aplicativo opcional'**
   String get linuxSetupNothingExtra;
 
   /// No description provided for @linuxSetupRetry.
   ///
-  /// In ja, this message translates to:
-  /// **'内容を確認して再試行'**
+  /// In pt_BR, this message translates to:
+  /// **'Revisar e tentar de novo'**
   String get linuxSetupRetry;
 
   /// No description provided for @linuxSetupBackground.
   ///
-  /// In ja, this message translates to:
-  /// **'バックグラウンドで続行'**
+  /// In pt_BR, this message translates to:
+  /// **'Continuar em segundo plano'**
   String get linuxSetupBackground;
 
   /// No description provided for @linuxSetupLog.
   ///
-  /// In ja, this message translates to:
-  /// **'インストールの詳細'**
+  /// In pt_BR, this message translates to:
+  /// **'Detalhes da instalação'**
   String get linuxSetupLog;
 
   /// No description provided for @linuxSetupFailed.
   ///
-  /// In ja, this message translates to:
-  /// **'セットアップを完了できませんでした'**
+  /// In pt_BR, this message translates to:
+  /// **'Não foi possível concluir a configuração'**
   String get linuxSetupFailed;
 
   /// No description provided for @linuxSetupPhaseLanguage.
   ///
-  /// In ja, this message translates to:
-  /// **'言語とフォントを設定中'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurando idioma e fontes'**
   String get linuxSetupPhaseLanguage;
 
   /// No description provided for @linuxSetupPhaseInput.
   ///
-  /// In ja, this message translates to:
-  /// **'IME をインストール中'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalando o método de entrada'**
   String get linuxSetupPhaseInput;
 
   /// No description provided for @linuxSetupPhaseDesktop.
   ///
-  /// In ja, this message translates to:
-  /// **'テーマとアイコンを設定中'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurando temas e ícones'**
   String get linuxSetupPhaseDesktop;
 
   /// No description provided for @linuxSetupPhaseGraphics.
   ///
-  /// In ja, this message translates to:
-  /// **'グラフィックスライブラリをインストール中'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalando bibliotecas gráficas'**
   String get linuxSetupPhaseGraphics;
 
   /// No description provided for @linuxSetupPhaseApps.
   ///
-  /// In ja, this message translates to:
-  /// **'選んだアプリをインストール中'**
+  /// In pt_BR, this message translates to:
+  /// **'Instalando seus aplicativos'**
   String get linuxSetupPhaseApps;
 
   /// No description provided for @linuxSetupPhaseIntegration.
   ///
-  /// In ja, this message translates to:
-  /// **'アプリとデスクトップを連携中'**
+  /// In pt_BR, this message translates to:
+  /// **'Conectando os apps à área de trabalho'**
   String get linuxSetupPhaseIntegration;
 
   /// No description provided for @linuxRuntimeStarting.
   ///
-  /// In ja, this message translates to:
-  /// **'Linuxを起動中…'**
+  /// In pt_BR, this message translates to:
+  /// **'Iniciando o Linux…'**
   String get linuxRuntimeStarting;
 
   /// No description provided for @linuxRuntimeRunning.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux実行中'**
+  /// In pt_BR, this message translates to:
+  /// **'O Linux está em execução'**
   String get linuxRuntimeRunning;
 
   /// No description provided for @linuxRuntimeStopped.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux停止中'**
+  /// In pt_BR, this message translates to:
+  /// **'O Linux está parado'**
   String get linuxRuntimeStopped;
 
   /// No description provided for @linuxSessionReset.
   ///
-  /// In ja, this message translates to:
-  /// **'セッションをリセット'**
+  /// In pt_BR, this message translates to:
+  /// **'Redefinir sessão'**
   String get linuxSessionReset;
 
   /// No description provided for @linuxForceStop.
   ///
-  /// In ja, this message translates to:
-  /// **'PRootを強制終了'**
+  /// In pt_BR, this message translates to:
+  /// **'Forçar parada do PRoot'**
   String get linuxForceStop;
 
   /// No description provided for @linuxForceStopConfirm.
   ///
-  /// In ja, this message translates to:
-  /// **'この環境のLinuxプロセスをすべて強制終了します。未保存の作業は失われます。インストール済みアプリとファイルは残ります。'**
+  /// In pt_BR, this message translates to:
+  /// **'Parar todos os processos Linux deste ambiente? O trabalho não salvo será perdido. Os aplicativos e arquivos instalados são mantidos.'**
   String get linuxForceStopConfirm;
 
   /// No description provided for @linuxSettingsTitle.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux 設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Configurações do Linux'**
   String get linuxSettingsTitle;
 
   /// No description provided for @linuxSettingsEntry.
   ///
-  /// In ja, this message translates to:
-  /// **'グラフィックスなど、すべてのコンテナに共通する設定'**
+  /// In pt_BR, this message translates to:
+  /// **'Gráficos e outras configurações comuns a todos os contêineres'**
   String get linuxSettingsEntry;
 
   /// No description provided for @linuxGpuSection.
   ///
-  /// In ja, this message translates to:
-  /// **'グラフィックスアクセラレーション'**
+  /// In pt_BR, this message translates to:
+  /// **'Aceleração gráfica'**
   String get linuxGpuSection;
 
   /// No description provided for @linuxGpuHardware.
   ///
-  /// In ja, this message translates to:
-  /// **'ハードウェア（VirGL）'**
+  /// In pt_BR, this message translates to:
+  /// **'Hardware (VirGL)'**
   String get linuxGpuHardware;
 
   /// No description provided for @linuxGpuHardwareDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'端末の GPU で OpenGL を描画します。3D アプリ、ゲーム、ブラウザが速くなります。'**
+  /// In pt_BR, this message translates to:
+  /// **'O OpenGL é desenhado pela GPU do aparelho. Apps 3D, jogos e navegadores ficam mais rápidos.'**
   String get linuxGpuHardwareDescription;
 
   /// No description provided for @linuxGpuSoftware.
   ///
-  /// In ja, this message translates to:
-  /// **'ソフトウェア（llvmpipe）'**
+  /// In pt_BR, this message translates to:
+  /// **'Software (llvmpipe)'**
   String get linuxGpuSoftware;
 
   /// No description provided for @linuxGpuSoftwareDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'CPU で描画します。遅くなりますが、GPU で表示が乱れるアプリでも正しく描けます。'**
+  /// In pt_BR, this message translates to:
+  /// **'Desenhado pela CPU. Mais lento, mas correto para apps que falham na GPU.'**
   String get linuxGpuSoftwareDescription;
 
   /// No description provided for @linuxGpuUnavailable.
   ///
-  /// In ja, this message translates to:
-  /// **'この端末では VirGL を使えません。'**
+  /// In pt_BR, this message translates to:
+  /// **'O VirGL não está disponível neste aparelho.'**
   String get linuxGpuUnavailable;
 
   /// No description provided for @linuxGpuApplyNote.
   ///
-  /// In ja, this message translates to:
-  /// **'変更は、これから起動するアプリに反映されます。開いているデスクトップは開き直してください。'**
+  /// In pt_BR, this message translates to:
+  /// **'As alterações valem para apps iniciados a partir de agora. Reabra a área de trabalho.'**
   String get linuxGpuApplyNote;
 
   /// No description provided for @linuxGpuRunning.
   ///
-  /// In ja, this message translates to:
-  /// **'VirGL を {count} 個のコンテナで使用中'**
+  /// In pt_BR, this message translates to:
+  /// **'VirGL em uso por {count} contêiner(es)'**
   String linuxGpuRunning(int count);
 
   /// No description provided for @nativePlasmaNotifications.
   ///
-  /// In ja, this message translates to:
-  /// **'通知'**
+  /// In pt_BR, this message translates to:
+  /// **'Notificações'**
   String get nativePlasmaNotifications;
 
   /// No description provided for @nativePlasmaNoNotifications.
   ///
-  /// In ja, this message translates to:
-  /// **'通知はありません'**
+  /// In pt_BR, this message translates to:
+  /// **'Nenhuma notificação'**
   String get nativePlasmaNoNotifications;
 
   /// No description provided for @nativePlasmaClearAll.
   ///
-  /// In ja, this message translates to:
-  /// **'すべて消去'**
+  /// In pt_BR, this message translates to:
+  /// **'Limpar tudo'**
   String get nativePlasmaClearAll;
 
   /// No description provided for @linuxGpuTurnip.
   ///
-  /// In ja, this message translates to:
-  /// **'Turnip + Zink（推奨）'**
+  /// In pt_BR, this message translates to:
+  /// **'Turnip + Zink (recomendado)'**
   String get linuxGpuTurnip;
 
   /// No description provided for @linuxGpuTurnipDescription.
   ///
-  /// In ja, this message translates to:
-  /// **'Linux アプリが Adreno GPU を直接使います（Vulkan と OpenGL 4.6）。最も速く、ゲームにも向いています。'**
+  /// In pt_BR, this message translates to:
+  /// **'Os apps Linux usam a GPU Adreno diretamente (Vulkan e OpenGL 4.6). O mais rápido, ideal para jogos.'**
   String get linuxGpuTurnipDescription;
 
   /// No description provided for @linuxGpuTurnipSetup.
   ///
-  /// In ja, this message translates to:
-  /// **'コンテナのセットアップで「3D グラフィックス」を有効にすると使えます（ビルドに 30 分ほどかかります）。それまでは VirGL を使います。'**
+  /// In pt_BR, this message translates to:
+  /// **'Ative os gráficos 3D na configuração do contêiner (a compilação leva cerca de 30 minutos). Até lá é usado o VirGL.'**
   String get linuxGpuTurnipSetup;
 
   /// No description provided for @linuxSetupPhaseGpu.
   ///
-  /// In ja, this message translates to:
-  /// **'GPU ドライバー（Turnip）をビルド中'**
+  /// In pt_BR, this message translates to:
+  /// **'Compilando o driver da GPU (Turnip)'**
   String get linuxSetupPhaseGpu;
 }
 

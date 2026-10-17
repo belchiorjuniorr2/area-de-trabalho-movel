@@ -1,12 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="androidx.car.app.ACCESS_SURFACE" />
     <uses-permission android:name="androidx.car.app.NAVIGATION_TEMPLATES" />
-    <queries><package android:name="moe.n4tsu.dextop" /></queries>
+    <queries><package android:name="br.com.belchior.areadetrabalhomovel" /></queries>
     <application
         android:allowBackup="false"
         android:icon="@mipmap/ic_cardex_driving"
         android:roundIcon="@mipmap/ic_cardex_driving"
-        android:label="Dextop・Driving">
+        android:label="Área Móvel・Dirigindo">
         <meta-data
             android:name="com.google.android.gms.car.application"
             android:resource="@xml/automotive_app_desc" />

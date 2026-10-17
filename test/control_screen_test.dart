@@ -36,8 +36,8 @@ void main() {
     for (var frame = 0; frame < 12; frame++) {
       await tester.pump(const Duration(milliseconds: 50));
     }
-    expect(find.text('Dextop'), findsWidgets);
-    expect(find.text('Dextop is ready'), findsOneWidget);
+    expect(find.text('Área de Trabalho Móvel'), findsWidgets);
+    expect(find.text('Área de Trabalho Móvel is ready'), findsOneWidget);
     expect(find.text('Start'), findsOneWidget);
     expect(find.textContaining('Shizuku'), findsNothing);
   });

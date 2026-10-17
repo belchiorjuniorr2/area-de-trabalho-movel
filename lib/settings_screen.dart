@@ -90,7 +90,9 @@ extension _SettingsContent on _HomeScreenState {
                 _categoryTile(
                   Icons.info_outline_rounded,
                   l.appInfo,
-                  appVersion.isEmpty ? 'Dextop' : 'Dextop $appVersion',
+                  appVersion.isEmpty
+                      ? 'Área de Trabalho Móvel'
+                      : 'Área de Trabalho Móvel $appVersion',
                   () => Navigator.of(context).push(
                     MaterialPageRoute<void>(
                       builder: (_) => AppInfoPage(
@@ -185,7 +187,9 @@ extension _SettingsContent on _HomeScreenState {
         'about',
         Icons.info_outline_rounded,
         l.appInfo,
-        appVersion.isEmpty ? 'Dextop' : 'Dextop $appVersion',
+        appVersion.isEmpty
+            ? 'Área de Trabalho Móvel'
+            : 'Área de Trabalho Móvel $appVersion',
       ),
     ];
     return LayoutBuilder(

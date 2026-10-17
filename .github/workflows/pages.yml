@@ -1,11 +1,7 @@
 name: Deploy documentation and Cast receiver
 
+# Área de Trabalho Móvel: publicação manual apenas (o GitHub Pages não está ativado neste fork).
 on:
-  push:
-    branches: [main]
-    paths:
-      - "docs/**"
-      - ".github/workflows/pages.yml"
   workflow_dispatch:
 
 permissions:

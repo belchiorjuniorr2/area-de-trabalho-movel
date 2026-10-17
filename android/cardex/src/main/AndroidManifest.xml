@@ -1,13 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <queries>
-        <package android:name="moe.n4tsu.dextop" />
+        <package android:name="br.com.belchior.areadetrabalhomovel" />
     </queries>
 
     <application
         android:allowBackup="false"
         android:appCategory="game"
         android:icon="@drawable/ic_cardex"
-        android:label="Dextop Car Companion"
+        android:label="Área Móvel no Carro"
         android:resizeableActivity="true"
         android:theme="@style/Theme.CarDex">
         <activity
@@ -19,7 +19,7 @@
             android:name=".CarDexPhoneLauncher"
             android:exported="true"
             android:icon="@drawable/ic_cardex"
-            android:label="Dextop Car Companion"
+            android:label="Área Móvel no Carro"
             android:targetActivity=".CarDexActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,7 +30,7 @@
             android:name=".CarDexCarLauncher"
             android:exported="true"
             android:icon="@mipmap/ic_cardex_parking"
-            android:label="Dextop・Parking"
+            android:label="Área Móvel・Estacionado"
             android:targetActivity=".CarDexActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

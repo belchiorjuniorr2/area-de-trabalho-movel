@@ -77,3 +77,6 @@ __pycache__/
 tmp/
 temp/
 local/
+
+# Kotlin daemon/cache local
+android/.kotlin/

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dextop_swipe_ime_label">Ввод жестами Dextop</string>
-    <string name="accessibility_service_description">Управляет виртуальным дисплеем, вводом и панелью управления Dextop</string>
+    <string name="dextop_swipe_ime_label">Ввод жестами Área de Trabalho Móvel</string>
+    <string name="accessibility_service_description">Управляет виртуальным дисплеем, вводом и панелью управления Área de Trabalho Móvel</string>
     <string name="embedded_pairing_channel">Настройка встроенного доступа</string>
-    <string name="embedded_pairing_title">Сопряжение Dextop</string>
+    <string name="embedded_pairing_title">Сопряжение Área de Trabalho Móvel</string>
     <string name="embedded_pairing_notification_text">Введите шестизначный код из меню беспроводной отладки</string>
     <string name="embedded_pairing_code">Шестизначный код сопряжения</string>
     <string name="embedded_pairing_enter_code">Ввести код сопряжения</string>
-    <string name="embedded_pairing_success">Dextop подключён</string>
-    <string name="embedded_pairing_success_message">Сопряжение завершено. Вернитесь в Dextop.</string>
-    <string name="embedded_pairing_failed">Не удалось подключить Dextop</string>
+    <string name="embedded_pairing_success">Área de Trabalho Móvel подключён</string>
+    <string name="embedded_pairing_success_message">Сопряжение завершено. Вернитесь в Área de Trabalho Móvel.</string>
+    <string name="embedded_pairing_failed">Не удалось подключить Área de Trabalho Móvel</string>
     <string name="embedded_pairing_invalid_code">Введите шестизначный код</string>
     <string name="embedded_pairing_searching">Поиск службы сопряжения</string>
     <string name="embedded_pairing_service_found">Служба сопряжения найдена</string>
